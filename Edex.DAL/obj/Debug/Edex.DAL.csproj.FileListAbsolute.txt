@@ -1,0 +1,509 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\ITIN\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\ITIN\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\ITIN\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\ITIN\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\ITIN\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ITIN\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\ITIN\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\it\v3\ITIN\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\it\v3\ITIN\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\it\v3\ITIN\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\it\v3\ITIN\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\it\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\it\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\it\v3\ITIN\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\06092018\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\13092018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\13092018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\13092018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\13092018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\13092018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\13092018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\13092018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init28092018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init28092018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init28092018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init28092018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init28092018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init28092018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28092018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init10102018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init10102018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init10102018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init10102018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init10102018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init10102018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init10102018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init28102018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init28102018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init28102018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Init28102018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Init28102018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28102018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init28102018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Dev_18_02112018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\12_11_2018\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\12_11_2018\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\12_11_2018\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\12_11_2018\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\12_11_2018\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\12_11_2018\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\12_11_2018\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\obj\Debug\Edex.DAL.csprojAssemblyReference.cache
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\omar\EbtexGeneral\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\omar\EbtexGeneral\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\omar\EbtexGeneral\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\omar\EbtexGeneral\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\omar\EbtexGeneral\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\omar\EbtexGeneral\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\omar\EbtexGeneral\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\D\omar\EdexDev\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\رافت\EdexGeneral\EdexGeneral\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\صحر\Edex\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\صحر\Edex\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\صحر\Edex\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\صحر\Edex\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\صحر\Edex\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\صحر\Edex\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\صحر\Edex\Edex.DAL\obj\Debug\Edex.DAL.pdb
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\bin\Debug\Edex.DAL.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\bin\Debug\Edex.DAL.pdb
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\bin\Debug\Edex.Model.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\bin\Debug\Edex.Model.pdb
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\obj\Debug\Edex.DAL.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\صحر\EdexNew\Edex\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\صحر\EdexNew\Edex\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\صحر\EdexNew\Edex\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\صحر\EdexNew\Edex\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\صحر\EdexNew\Edex\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\صحر\EdexNew\Edex\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\صحر\EdexNew\Edex\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.pdb
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.dll
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.pdb
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.dll
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.pdb
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.dll
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\copy\Gold\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\copy\Gold\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\copy\Gold\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\copy\Gold\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\copy\Gold\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\copy\Gold\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\copy\Gold\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\copy\Gold\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\copy\Gold\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.pdb
+E:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.dll
+E:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.pdb
+E:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.dll
+E:\Dimond\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.pdb
+E:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+E:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.dll
+E:\Dimond\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\System.Memory.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\abdualrahaman\DaimondDev\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\abdualrahaman\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\abdualrahaman\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\abdualrahaman\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\abdualrahaman\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\abdualrahaman\DaimondDev\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\System.Memory.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\abdualrahaman\DaimondDev6666\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\v3.2\Last\Diamond_V2.1\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Memory.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Memory.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Memory.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Memory.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf06012024\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Google.Protobuf.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ZstdNet.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Memory.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\System.Buffers.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Data.EntityFramework.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\bin\Debug\MySql.Web.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.AssemblyReference.cache
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CoreCompileInputs.cache
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csproj.CopyComplete
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\HtmlAgilityPack.NetCore.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\ServicePointManagerExtensions.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb

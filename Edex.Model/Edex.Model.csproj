@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{798055FD-AC96-41C3-AA42-4D6C267A5749}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Edex.Model</RootNamespace>
+    <AssemblyName>Edex.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="HtmlAgilityPack.NetCore">
+      <HintPath>..\packages\HtmlAgilityPack.NetCore.1.5.0.1\lib\net45\HtmlAgilityPack.NetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ServicePointManagerExtensions">
+      <HintPath>..\packages\ServicePointManagerExtensions.1.0.2\lib\net45\ServicePointManagerExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountsDaily.cs" />
+    <Compile Include="AccountVoucherReport.cs" />
+    <Compile Include="Acc_AccountNature.cs" />
+    <Compile Include="Acc_Accounts.cs" />
+    <Compile Include="Acc_AccountsLevels.cs" />
+    <Compile Include="Acc_Accounts_SP_Result.cs" />
+    <Compile Include="Acc_AccountType.cs" />
+    <Compile Include="Acc_Banks.cs" />
+    <Compile Include="Acc_Boxes.cs" />
+    <Compile Include="Acc_CheckReceiptVoucherArb_Find.cs" />
+    <Compile Include="Acc_CheckReceiptVoucherDetails.cs" />
+    <Compile Include="Acc_CheckReceiptVoucherEng_Find.cs" />
+    <Compile Include="Acc_CheckReceiptVoucherMaster.cs" />
+    <Compile Include="Acc_CheckSpendVoucherArb_Find.cs" />
+    <Compile Include="Acc_CheckSpendVoucherDetails.cs" />
+    <Compile Include="Acc_CheckSpendVoucherEng_Find.cs" />
+    <Compile Include="Acc_CheckSpendVoucherMaster.cs" />
+    <Compile Include="Acc_ChequesUnderCollectionDetails.cs" />
+    <Compile Include="Acc_ChequesUnderCollectionMaster.cs" />
+    <Compile Include="Acc_CostCenters.cs" />
+    <Compile Include="Acc_CostCentersDetails.cs" />
+    <Compile Include="Acc_Currency.cs" />
+    <Compile Include="Acc_DailyBoxArb_Find.cs" />
+    <Compile Include="Acc_DailyBoxEng_Find.cs" />
+    <Compile Include="Acc_DeclaringIncomeAccounts.cs" />
+    <Compile Include="Acc_DeclaringIncomeAccountsTamplate.cs" />
+    <Compile Include="Acc_DeclaringMainAccounts.cs" />
+    <Compile Include="Acc_DeclaringMainAccountsTamplate.cs" />
+    <Compile Include="Acc_DefaultAccountsLevels.cs" />
+    <Compile Include="Acc_DefaultAccountsTreeTemplate.cs" />
+    <Compile Include="Acc_NewAccountsTreeTamplate.cs" />
+    <Compile Include="Acc_ReceiptVoucherArb_Find.cs" />
+    <Compile Include="Acc_ReceiptVoucherDetails.cs" />
+    <Compile Include="Acc_ReceiptVoucherEng_Find.cs" />
+    <Compile Include="Acc_ReceiptVoucherMaster.cs" />
+    <Compile Include="Acc_RestrictionTrancAction.cs" />
+    <Compile Include="Acc_SpendVoucherArb_Find.cs" />
+    <Compile Include="Acc_SpendVoucherDetails.cs" />
+    <Compile Include="Acc_SpendVoucherEng_Find.cs" />
+    <Compile Include="Acc_SpendVoucherMaster.cs" />
+    <Compile Include="ACC_STATEMENT_GETWITHOUTDATE_SP_Result.cs" />
+    <Compile Include="ACC_STT_PUR_INV_CREDIT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_DEBIT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_DISCOUNT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_RET_CREDIT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_RET_DEBIT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_RET_DISCOUNT.cs" />
+    <Compile Include="ACC_STT_PUR_INV_TRANSPORT.cs" />
+    <Compile Include="ACC_STT_RECPT_VOCHR_CREDIT.cs" />
+    <Compile Include="ACC_STT_RECPT_VOCHR_DEBIT.cs" />
+    <Compile Include="ACC_STT_RECPT_VOCHR_DISCOUNT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_CREDIT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_DEBIT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_DISCOUNT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_RET_CREDIT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_RET_DEBIT.cs" />
+    <Compile Include="ACC_STT_SALE_INV_RET_DISCOUNT.cs" />
+    <Compile Include="ACC_STT_SPEND_VOCHR_CREDIT.cs" />
+    <Compile Include="ACC_STT_SPEND_VOCHR_DEBIT.cs" />
+    <Compile Include="ACC_STT_SPEND_VOCHR_DISCOUNT.cs" />
+    <Compile Include="Acc_VariousVoucherAttachment.cs" />
+    <Compile Include="Acc_VariousVoucherDetails.cs" />
+    <Compile Include="Acc_VariousVoucherMaster.cs" />
+    <Compile Include="Arc_ArchiveAttachment.cs" />
+    <Compile Include="Arc_ArchiveAttachmentFile.cs" />
+    <Compile Include="Arc_ArchiveForm.cs" />
+    <Compile Include="Arc_ArchiveType.cs" />
+    <Compile Include="Arc_PreparingWayArchive.cs" />
+    <Compile Include="AR_REPRS_DTLBO.cs" />
+    <Compile Include="Ast_AssetPosition.cs" />
+    <Compile Include="Ast_AssetRecipient.cs" />
+    <Compile Include="Ast_AssetsDeclaration.cs" />
+    <Compile Include="Ast_AssetTransaction.cs" />
+    <Compile Include="Ast_AssetTransactionOrder.cs" />
+    <Compile Include="BARCODESERACH_BO.cs" />
+    <Compile Include="Branches.cs" />
+    <Compile Include="CLIENTBO.cs" />
+    <Compile Include="Clinc_ICD10Code.cs" />
+    <Compile Include="ClinicAppointment.cs" />
+    <Compile Include="ClinicDoctors.cs" />
+    <Compile Include="ClinicMedicalList.cs" />
+    <Compile Include="ClinicPatientCase.cs" />
+    <Compile Include="ClinicPatientDaignose.cs" />
+    <Compile Include="ClinicPatientDiseas.cs" />
+    <Compile Include="ClinicPatientVisit.cs" />
+    <Compile Include="ClinicPrescriptionVisit.cs" />
+    <Compile Include="Clinic_Answer.cs" />
+    <Compile Include="Clinic_Clinics.cs" />
+    <Compile Include="Clinic_InsuranceCard.cs" />
+    <Compile Include="Clinic_InsuranceCompany.cs" />
+    <Compile Include="CLINIC_PatientFile.cs" />
+    <Compile Include="Clinic_Question.cs" />
+    <Compile Include="Clinic_WaitList.cs" />
+    <Compile Include="ColorsSettings.cs" />
+    <Compile Include="Comon.cs" />
+    <Compile Include="CompanyDataBo.cs" />
+    <Compile Include="CompanyHeader.cs" />
+    <Compile Include="CostPricesTypes.cs" />
+    <Compile Include="cSTORESETTING.cs" />
+    <Compile Include="CST_CNTRBO.cs" />
+    <Compile Include="Currency.cs" />
+    <Compile Include="CURRENCY_BO.cs" />
+    <Compile Include="DashBoardBO.cs" />
+    <Compile Include="DateDiff.cs" />
+    <Compile Include="DateType.cs" />
+    <Compile Include="DetailedDailyTransactionArb.cs" />
+    <Compile Include="DetailedDailyTransactionEng.cs" />
+    <Compile Include="Dress_DresMakers.cs" />
+    <Compile Include="Dress_DressMakerGroups.cs" />
+    <Compile Include="Dress_FormsAndGroups.cs" />
+    <Compile Include="Dress_FormsGroups.cs" />
+    <Compile Include="Dress_InvoiceDetails.cs" />
+    <Compile Include="Dress_InvoiceMaster.cs" />
+    <Compile Include="Dress_ModelsDetails.cs" />
+    <Compile Include="Dress_ModelsMaster.cs" />
+    <Compile Include="Dress_SizeDressMaker.cs" />
+    <Compile Include="Dress_TypesClothing.cs" />
+    <Compile Include="Exp_ExportAttachment.cs" />
+    <Compile Include="Exp_ExportedTo.cs" />
+    <Compile Include="Exp_ExportForm.cs" />
+    <Compile Include="Exp_ExportType.cs" />
+    <Compile Include="Exp_PreparingWayExport.cs" />
+    <Compile Include="Forms.cs" />
+    <Compile Include="GeneralSettings.cs" />
+    <Compile Include="GRP_ITEM_DTLBO.cs" />
+    <Compile Include="Hotels_CheckIn.cs" />
+    <Compile Include="Hotels_CheckInRooms.cs" />
+    <Compile Include="Hotels_Deposits.cs" />
+    <Compile Include="Hotels_EarlyDeparture.cs" />
+    <Compile Include="Hotels_Floors.cs" />
+    <Compile Include="Hotels_LostAndFound.cs" />
+    <Compile Include="Hotels_OccupancyTable.cs" />
+    <Compile Include="Hotels_OperationAndStatus.cs" />
+    <Compile Include="Hotels_OutOfService.cs" />
+    <Compile Include="Hotels_PaymentMethods.cs" />
+    <Compile Include="Hotels_RateTypes.cs" />
+    <Compile Include="Hotels_Reservations.cs" />
+    <Compile Include="Hotels_ReservedRooms.cs" />
+    <Compile Include="Hotels_RoomAmenities.cs" />
+    <Compile Include="Hotels_Rooms.cs" />
+    <Compile Include="Hotels_RoomsImagesXX.cs" />
+    <Compile Include="Hotels_RoomsTariffe.cs" />
+    <Compile Include="Hotels_RoomStatus.cs" />
+    <Compile Include="Hotels_RoomsTypes.cs" />
+    <Compile Include="Hotels_RoomsTypesAmenities.cs" />
+    <Compile Include="Hotels_TransactionTable.cs" />
+    <Compile Include="Hotels_WakeUpCall.cs" />
+    <Compile Include="HR_Administrations.cs" />
+    <Compile Include="HR_AllowanceAndDeduction.cs" />
+    <Compile Include="HR_AllowancesTypes.cs" />
+    <Compile Include="HR_ContracType.cs" />
+    <Compile Include="HR_DailyEmbloyee.cs" />
+    <Compile Include="HR_DeductionsTypes.cs" />
+    <Compile Include="HR_Departments.cs" />
+    <Compile Include="HR_District.cs" />
+    <Compile Include="HR_EmployeeAllowance.cs" />
+    <Compile Include="HR_EmployeeCurrentStatus.cs" />
+    <Compile Include="HR_EmployeeExperiences.cs" />
+    <Compile Include="HR_EmployeeFile.cs" />
+    <Compile Include="HR_EmployeeIDs.cs" />
+    <Compile Include="HR_EmployeeIDsImages.cs" />
+    <Compile Include="HR_EmployeeQualifications.cs" />
+    <Compile Include="HR_EndofServiceTypes.cs" />
+    <Compile Include="HR_Jobs.cs" />
+    <Compile Include="HR_MonthlyAllowance.cs" />
+    <Compile Include="HR_MonthlyDeduction.cs" />
+    <Compile Include="HR_Nationalities.cs" />
+    <Compile Include="HR_OnAccountRequest.cs" />
+    <Compile Include="HR_PaymentMethode.cs" />
+    <Compile Include="HR_Qualifications.cs" />
+    <Compile Include="HR_RecordAbsent.cs" />
+    <Compile Include="HR_Religions.cs" />
+    <Compile Include="HR_SalariesHistory.cs" />
+    <Compile Include="HR_ScientificDisciplines.cs" />
+    <Compile Include="HR_Sex.cs" />
+    <Compile Include="HR_VacationBalance.cs" />
+    <Compile Include="HR_VacationRequest.cs" />
+    <Compile Include="HR_VacationsTypes.cs" />
+    <Compile Include="HR_WorkingTypes.cs" />
+    <Compile Include="IdentityTypes.cs" />
+    <Compile Include="Important.cs" />
+    <Compile Include="Imp_ImportAttachment.cs" />
+    <Compile Include="Imp_ImportedFrom.cs" />
+    <Compile Include="Imp_ImportForm.cs" />
+    <Compile Include="Imp_ImportType.cs" />
+    <Compile Include="Imp_ReferredTo.cs" />
+    <Compile Include="InboxMessages.cs" />
+    <Compile Include="ITEM_DTLBO.cs" />
+    <Compile Include="JS_WH_DTLBO.cs" />
+    <Compile Include="Language\Translator.cs" />
+    <Compile Include="LoginHistory.cs" />
+    <Compile Include="LoginStatus.cs" />
+    <Compile Include="loginuser_Result.cs" />
+    <Compile Include="ManuFactoryCastingType.cs" />
+    <Compile Include="Manu_AfforestationFactoryDetails.cs" />
+    <Compile Include="Manu_AfforestationFactoryMaster.cs" />
+    <Compile Include="Manu_AllOrdersDetails.cs" />
+    <Compile Include="Manu_AuxiliaryMaterialsDetails.cs" />
+    <Compile Include="Manu_AuxiliaryMaterialsMaster.cs" />
+    <Compile Include="Manu_CadWaxDiamondZirconAfforistStages.cs" />
+    <Compile Include="Manu_CadWaxFactoryDetails.cs" />
+    <Compile Include="Manu_CadWaxFactoryMaster.cs" />
+    <Compile Include="Manu_CloseOrdersDetails.cs" />
+    <Compile Include="Manu_CloseOrdersMaster.cs" />
+    <Compile Include="Manu_ItemManufacturing_Details.cs" />
+    <Compile Include="Manu_ItemManufacturing_Master.cs" />
+    <Compile Include="Manu_ManufacturingCastingDetails.cs" />
+    <Compile Include="Manu_ManufacturingCastingMaster.cs" />
+    <Compile Include="Manu_ManufacturingOperations_Details.cs" />
+    <Compile Include="Manu_ManufacturingOperations_Master.cs" />
+    <Compile Include="Manu_ManufacturingOperations_StuffDetails.cs" />
+    <Compile Include="Manu_ManufacturingTheFactoryDetails.cs" />
+    <Compile Include="Manu_OrderRestriction.cs" />
+    <Compile Include="Manu_TheFactoryManufacturing_Master.cs" />
+    <Compile Include="Manu_TypeOrders.cs" />
+    <Compile Include="Manu_ZirconDiamondFactoryDetails.cs" />
+    <Compile Include="Manu_ZirconDiamondFactoryMaster.cs" />
+    <Compile Include="Menus.cs" />
+    <Compile Include="Menu_FactoryMachine.cs" />
+    <Compile Include="Menu_FactoryOrderDetails.cs" />
+    <Compile Include="Menu_FactoryRunCommandCompund.cs" />
+    <Compile Include="Menu_FactoryRunCommandDismant.cs" />
+    <Compile Include="Menu_FactoryRunCommandGold.cs" />
+    <Compile Include="Menu_FactoryRunCommandMaster.cs" />
+    <Compile Include="Menu_FactoryRunCommandPrentagAndPulishn.cs" />
+    <Compile Include="Menu_FactoryRunCommandSelver.cs" />
+    <Compile Include="Menu_FactoryRunCommandTalmee.cs" />
+    <Compile Include="Menu_ProductionExpenses.cs" />
+    <Compile Include="Menu_ProductionExpensesAcconts.cs" />
+    <Compile Include="Menu_ProductionExpensesMaster.cs" />
+    <Compile Include="MessageTimerDetail.cs" />
+    <Compile Include="MessageTimerMaster.cs" />
+    <Compile Include="MessgaesRecipientInfo.cs" />
+    <Compile Include="Mnu_ReturnFilingsDetails.cs" />
+    <Compile Include="Mnu_ReturnFilingsMaster.cs" />
+    <Compile Include="MonthsGre.cs" />
+    <Compile Include="MonthsHijri.cs" />
+    <Compile Include="NotificationTypes.cs" />
+    <Compile Include="OtherPermissions.cs" />
+    <Compile Include="Others_EntryAndLogOutEmployees.cs" />
+    <Compile Include="Others_RequestExchangeFor_Details.cs" />
+    <Compile Include="Others_RequestExchangeFor_Master.cs" />
+    <Compile Include="Others_RequestForPaymentOf_Details.cs" />
+    <Compile Include="Others_RequestForPaymentOf_Master.cs" />
+    <Compile Include="Other_ProjectExpenses.cs" />
+    <Compile Include="Other_ProjectOffer.cs" />
+    <Compile Include="Other_ProjectOutonBail.cs" />
+    <Compile Include="Other_ProjectSaleInvoice.cs" />
+    <Compile Include="PriceAndQtyDigits.cs" />
+    <Compile Include="PriceItemsOffers.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rent_SalesInvoiceReciveDetails.cs" />
+    <Compile Include="Rent_SalesInvoiceReciveMaster.cs" />
+    <Compile Include="Rent_SalesInvoiceTranseDetails.cs" />
+    <Compile Include="Rent_SalesInvoiceTranseMaster.cs" />
+    <Compile Include="Reports.cs" />
+    <Compile Include="RestoringDeleted.cs" />
+    <Compile Include="RestrictionsDaily.cs" />
+    <Compile Include="Res_DeletedOrderedItems.cs" />
+    <Compile Include="Res_ItemsInsuranceGroups.cs" />
+    <Compile Include="Res_ItemsInsuranceReturn_Details.cs" />
+    <Compile Include="Res_ItemsInsuranceReturn_Master.cs" />
+    <Compile Include="Res_ItemsInsurance_Details.cs" />
+    <Compile Include="Res_ItemsInsurance_Master.cs" />
+    <Compile Include="Res_MealType.cs" />
+    <Compile Include="Res_Orders_Details.cs" />
+    <Compile Include="Res_Orders_Master.cs" />
+    <Compile Include="Res_Parties_Details.cs" />
+    <Compile Include="Res_Parties_Master.cs" />
+    <Compile Include="Res_ReservedTables.cs" />
+    <Compile Include="Res_Sections.cs" />
+    <Compile Include="Res_Tables.cs" />
+    <Compile Include="SalePricesTypes.cs" />
+    <Compile Include="SalesCashierClose.cs" />
+    <Compile Include="Sales_BarCodeForPurchaseInvoiceArb_Find.cs" />
+    <Compile Include="Sales_BarCodeForPurchaseInvoiceEng_Find.cs" />
+    <Compile Include="Sales_BarCodeForPurchaseReturnArb_Find.cs" />
+    <Compile Include="Sales_BarCodeForPurchaseReturnEng_Find.cs" />
+    <Compile Include="Sales_BarCodeForSalesReturnArb_Find.cs" />
+    <Compile Include="Sales_BarCodeForSalesReturnEng_Find.cs" />
+    <Compile Include="Sales_BarCodeForSpecialOffersArb_Find.cs" />
+    <Compile Include="Sales_BarCodeForSpecialOffersEng_Find.cs" />
+    <Compile Include="Sales_CustomerCategory.cs" />
+    <Compile Include="Sales_Customers.cs" />
+    <Compile Include="Sales_CustomersAddress.cs" />
+    <Compile Include="Sales_DiscountOnTotal.cs" />
+    <Compile Include="Sales_PriceOffersArb.cs" />
+    <Compile Include="Sales_PriceOffersCustomer.cs" />
+    <Compile Include="Sales_PriceOffersDescription.cs" />
+    <Compile Include="Sales_PriceOffersDetails.cs" />
+    <Compile Include="Sales_PriceOffersEng.cs" />
+    <Compile Include="Sales_PriceOffersMaster.cs" />
+    <Compile Include="Sales_PriceOffersStatus.cs" />
+    <Compile Include="Sales_PurchaseDiamondDetails.cs" />
+    <Compile Include="Sales_PurchaseGroupSuppliers.cs" />
+    <Compile Include="Sales_PurchaseInvoiceDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoiceMatirialDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceMatirialMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnMatirialDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnMatirialMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoicesArb.cs" />
+    <Compile Include="Sales_PurchaseInvoiceSaveReturnMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoicesEng.cs" />
+    <Compile Include="Sales_PurchaseInvoicesReturnArb.cs" />
+    <Compile Include="Sales_PurchaseInvoicesReturnEng.cs" />
+    <Compile Include="Sales_PurchaseMethods.cs" />
+    <Compile Include="Sales_PurchaseOrderArb.cs" />
+    <Compile Include="Sales_PurchaseOrderDetails.cs" />
+    <Compile Include="Sales_PurchaseOrderEng.cs" />
+    <Compile Include="Sales_PurchaseOrderMaster.cs" />
+    <Compile Include="Sales_PurchaseSaveInvoiceReturnDetails.cs" />
+    <Compile Include="Sales_PurchasesDelegate.cs" />
+    <Compile Include="Sales_ReadBarCodeFromSalesInvoiceArb_Find.cs" />
+    <Compile Include="Sales_SalesDelegate.cs" />
+    <Compile Include="Sales_SalesGroupCustomers.cs" />
+    <Compile Include="Sales_SalesInvoiceArb.cs" />
+    <Compile Include="Sales_SalesInvoiceDetails.cs" />
+    <Compile Include="Sales_SalesInvoiceEng.cs" />
+    <Compile Include="Sales_SalesInvoiceMaster.cs" />
+    <Compile Include="Sales_SalesInvoiceReturn.cs" />
+    <Compile Include="Sales_SalesInvoiceReturnArb.cs" />
+    <Compile Include="Sales_SalesInvoiceReturnDetails.cs" />
+    <Compile Include="Sales_SalesInvoiceReturnEng.cs" />
+    <Compile Include="Sales_SalesInvoiceReturnMaster.cs" />
+    <Compile Include="Sales_SalesMethodes.cs" />
+    <Compile Include="Sales_SalesOrderDetails.cs" />
+    <Compile Include="Sales_SalesOrderMaster.cs" />
+    <Compile Include="Sales_SalesPerformance.cs" />
+    <Compile Include="Sales_Sellers.cs" />
+    <Compile Include="Sales_SpecialOffersDetails.cs" />
+    <Compile Include="Sales_SpecialOffersMaster.cs" />
+    <Compile Include="Sales_Suppliers.cs" />
+    <Compile Include="Sales_TempSalesInvoiceDetails.cs" />
+    <Compile Include="Sales_TempSalesInvoiceMaster.cs" />
+    <Compile Include="Sales_TotalPurchase.cs" />
+    <Compile Include="Sales_TotalSales.cs" />
+    <Compile Include="SalseByMonthBo.cs" />
+    <Compile Include="SalseInvoicesReport.cs" />
+    <Compile Include="Schema_ContractSchema.cs" />
+    <Compile Include="Schema_ContractSchemaDetail.cs" />
+    <Compile Include="Schema_RecevMony.cs" />
+    <Compile Include="SearchContact.cs" />
+    <Compile Include="SMS_MessagesHistory.cs" />
+    <Compile Include="SMS_RecipientGroups.cs" />
+    <Compile Include="SMS_RecipientGroupsDetails.cs" />
+    <Compile Include="SMS_RecipientGroupsMaster.cs" />
+    <Compile Include="SMS_RecipientInfo.cs" />
+    <Compile Include="SpendVoucherEng.cs" />
+    <Compile Include="StartNumbering.cs" />
+    <Compile Include="StartNumberingTemplate.cs" />
+    <Compile Include="Stc_ArbItems_Find.cs" />
+    <Compile Include="Stc_GoldInonBail_Details.cs" />
+    <Compile Include="Stc_GoldInonBail_Master.cs" />
+    <Compile Include="Stc_GoldOutOnBail_Details.cs" />
+    <Compile Include="Stc_GoldOutOnBail_Master.cs" />
+    <Compile Include="Stc_GoodOpeningDetails.cs" />
+    <Compile Include="Stc_GoodOpeningMaster.cs" />
+    <Compile Include="Stc_Items.cs" />
+    <Compile Include="Stc_ItemsBases.cs" />
+    <Compile Include="Stc_ItemsBrands.cs" />
+    <Compile Include="Stc_ItemsCategories.cs" />
+    <Compile Include="Stc_ItemsColors.cs" />
+    <Compile Include="Stc_ItemsDismantlingDetails.cs" />
+    <Compile Include="Stc_ItemsDismantlingMaster.cs" />
+    <Compile Include="Stc_ItemsGroups.cs" />
+    <Compile Include="Stc_ItemsInonBail_Details.cs" />
+    <Compile Include="Stc_ItemsInonBail_Master.cs" />
+    <Compile Include="Stc_ItemSizingUnitsArb_Find.cs" />
+    <Compile Include="Stc_ItemSizingUnitsEng_Find.cs" />
+    <Compile Include="Stc_ItemsMoviing.cs" />
+    <Compile Include="Stc_ItemsOutonBail_Details.cs" />
+    <Compile Include="Stc_ItemsOutonBail_Master.cs" />
+    <Compile Include="Stc_ItemsSizes.cs" />
+    <Compile Include="Stc_ItemsSource.cs" />
+    <Compile Include="Stc_ItemsTransferDetails.cs" />
+    <Compile Include="Stc_ItemsTransferMaster.cs" />
+    <Compile Include="Stc_Items_Find.cs" />
+    <Compile Include="Stc_ItemTypeBO.cs" />
+    <Compile Include="Stc_ItemTypes.cs" />
+    <Compile Include="Stc_ItemUnits.cs" />
+    <Compile Include="Stc_ManuFactoryCommendOutOnBail_Details.cs" />
+    <Compile Include="Stc_ManuFactoryCommendOutOnBail_Master.cs" />
+    <Compile Include="Stc_MatirialInonBail_Details.cs" />
+    <Compile Include="Stc_MatirialInonBail_Master.cs" />
+    <Compile Include="Stc_MatirialOutOnBail_Details.cs" />
+    <Compile Include="Stc_MatirialOutOnBail_Master.cs" />
+    <Compile Include="Stc_RequestItemsExpenses_Details.cs" />
+    <Compile Include="Stc_RequestItemsExpenses_Master.cs" />
+    <Compile Include="Stc_SizingUnits.cs" />
+    <Compile Include="Stc_StocktakingAccordingTo.cs" />
+    <Compile Include="Stc_Stores.cs" />
+    <Compile Include="STC_STORESBO.cs" />
+    <Compile Include="STC_STORES_GET_ALL_Result.cs" />
+    <Compile Include="Stc_TransferMultipleStoresGold_Details.cs" />
+    <Compile Include="Stc_TransferMultipleStoresGold_Master.cs" />
+    <Compile Include="Stc_TransferMultipleStoresMatirial_Details.cs" />
+    <Compile Include="Stc_TransferMultipleStoresMatirial_Master.cs" />
+    <Compile Include="stc_TransferTransactionItems.cs" />
+    <Compile Include="Stc_WaysOfOutItems.cs" />
+    <Compile Include="StickersSettings.cs" />
+    <Compile Include="TelephoneBook.cs" />
+    <Compile Include="temp2.cs" />
+    <Compile Include="Temp3.cs" />
+    <Compile Include="UserBO.cs" />
+    <Compile Include="UserFormsPermissions.cs" />
+    <Compile Include="UserLinkRolePermission.cs" />
+    <Compile Include="UserMenusPermissions.cs" />
+    <Compile Include="UserOtherPermissions.cs" />
+    <Compile Include="UserPermissions.cs" />
+    <Compile Include="UserReportsPermissions.cs" />
+    <Compile Include="UserRoles.cs" />
+    <Compile Include="Users.cs" />
+    <Compile Include="UserFormsFovorite.cs" />
+    <Compile Include="WeightDigits.cs" />
+    <Compile Include="YesNo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

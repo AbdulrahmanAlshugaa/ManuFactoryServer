@@ -1,0 +1,657 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\ITIN\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.Model\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v3\ITIN\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\it\v3\ITIN\Edex.Model\bin\Debug\Edex.Model.dll
+C:\it\v3\ITIN\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\it\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.dll
+C:\it\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\it\v3\ITIN\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\ITIN1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\مجلد جديد (2)\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\06092018\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\06092018\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\06092018\ITIN1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\06092018\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\06092018\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.Model\bin\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.Model\obj\Debug\Edex.Model.dll
+D:\DevExpress\ItProject\v4fromfahd\withreport\last version from omar\ITIN1\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\13092018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\13092018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\13092018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\13092018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\13092018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\16092018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\16092018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\16092018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init28092018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28092018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init28092018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28092018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init10102018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init10102018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init10102018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init10102018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init10102018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init28102018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28102018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Init28102018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Init28102018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Init28102018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dev_18_02112018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\user\Desktop\Dev_18_02112018\10_11_2018\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\12_11_2018\Edex.Model\bin\Debug\Edex.Model.dll
+D:\12_11_2018\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\12_11_2018\Edex.Model\obj\Debug\Edex.Model.dll
+D:\12_11_2018\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\26_11_2018\Ebtex\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\obj\Debug\Edex.Model.csprojAssemblyReference.cache
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+C:\Users\Develper\Desktop\EbtexGeneralSvn\trunk\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\omar\EbtexGeneral\Edex.Model\bin\Debug\Edex.Model.dll
+D:\omar\EbtexGeneral\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\omar\EbtexGeneral\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\omar\EbtexGeneral\Edex.Model\obj\Debug\Edex.Model.dll
+D:\omar\EbtexGeneral\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\EdexDev\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.dll
+D:\EdexDev\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\EdexDev\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.dll
+D:\EdexDev\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\D\omar\EdexDev\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.dll
+D:\D\omar\EdexDev\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\D\omar\EdexDev\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\D\omar\EdexDev\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.dll
+D:\D\omar\EdexDev\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.dll
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.dll
+D:\م رافت وطه (1)\م رافت وطه\EdexGeneral\EdexGeneral\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\صحر\Edex\Edex.Model\bin\Debug\Edex.Model.dll
+D:\صحر\Edex\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\صحر\Edex\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\صحر\Edex\Edex.Model\obj\Debug\Edex.Model.dll
+D:\صحر\Edex\Edex.Model\obj\Debug\Edex.Model.pdb
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\Edex.Model.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\Edex.Model.pdb
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\obj\Debug\Edex.Model.dll
+F:\_Edex Accounting\Edex Express\2\Edex\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.dll
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.dll
+D:\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.pdb
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.dll
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.pdb
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.dll
+F:\D\صحر\Edex Dev ExepressNew\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.dll
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\copy\النسخة التي نعمل عليها مع صخر\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+D:\copy\Gold\Edex.Model\bin\Debug\Edex.Model.dll
+D:\copy\Gold\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\copy\Gold\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\copy\Gold\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\copy\Gold\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\copy\Gold\Edex.Model\obj\Debug\Edex.Model.dll
+D:\copy\Gold\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\DaimondDev\Edex.Model\bin\Debug\Edex.Model.dll
+D:\DaimondDev\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\DaimondDev\Edex.Model\obj\Debug\Edex.Model.dll
+D:\DaimondDev\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\Dimond\DaimondDev\Edex.Model\bin\Debug\Edex.Model.dll
+D:\Dimond\DaimondDev\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.dll
+D:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+E:\Dimond\DaimondDev\Edex.Model\bin\Debug\Edex.Model.dll
+E:\Dimond\DaimondDev\Edex.Model\bin\Debug\Edex.Model.pdb
+E:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.dll
+E:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.pdb
+E:\Dimond\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\bin\Debug\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\obj\Debug\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\abdualrahaman\DaimondDev\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\abdualrahaman\DaimondDev\Edex.Model\obj\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+D:\abdualrahaman\DaimondDev6666\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\abdualrahaman\DaimondDev6666\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\abdualrahaman\DaimondDev6666\Edex.Model\obj\Debug\Edex.Model.dll
+D:\abdualrahaman\DaimondDev6666\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\نسخ المعارض\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\نسخ المعارض الاخيرة\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\aboda\OneDrive\Desktop\New folder\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\Diamond V2.2.1 Befor Add  Vocher weight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+C:\Users\Omex\Desktop\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+D:\New folder\DiamondWithVocherWeight\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\DaimondDevWaleed\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.Model\bin\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.Model\obj\Debug\Edex.Model.dll
+D:\New folder\DiamondV2.1\Diamond_V2.1\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\v3.2\Last\Diamond_V2.1\Edex.Model\bin\Debug\Edex.Model.dll
+D:\v3.2\Last\Diamond_V2.1\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\v3.2\Last\Diamond_V2.1\Edex.Model\obj\Debug\Edex.Model.dll
+D:\v3.2\Last\Diamond_V2.1\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
+D:\Comman30112023\ManuFactoryAfterConfN27122023\ManuFactoryAfterConf29122024\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Data.v18.1.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.AssemblyReference.cache
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CoreCompileInputs.cache
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csproj.CopyComplete
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
+D:\KumanColonFactoryGetHup\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\HtmlAgilityPack.NetCore.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\Newtonsoft.Json.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\ServicePointManagerExtensions.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\Newtonsoft.Json.xml
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
+D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache

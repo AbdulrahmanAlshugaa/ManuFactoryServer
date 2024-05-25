@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Release\Edex.DAL.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Release\Edex.DAL.pdb
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Release\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\bin\Release\Edex.Model.pdb
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Release\Edex.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Release\Edex.DAL.dll
+C:\Users\user\Desktop\16092018\Edex.DAL\obj\Release\Edex.DAL.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Release\Edex.DAL.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Release\Edex.DAL.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Release\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\bin\Release\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Release\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Release\Edex.DAL.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.DAL\obj\Release\Edex.DAL.pdb

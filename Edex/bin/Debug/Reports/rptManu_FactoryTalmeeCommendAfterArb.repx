@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="18.1.4.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptManu_FactoryTalmeeCommendAfterArb" Margins="4, 34, 0, 0" PageWidth="850" PageHeight="1100" Version="18.1">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="TopMargin" HeightF="0" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="Detail" HeightF="25">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRTable" Name="xrTable1" RightToLeft="Yes" KeepTogether="true" TextAlignment="MiddleCenter" SizeF="812,25" LocationFloat="0, 0">
+          <Rows>
+            <Item1 Ref="4" ControlType="XRTableRow" Name="xrTableRow1" Weight="1">
+              <Cells>
+                <Item1 Ref="5" ControlType="XRTableCell" Name="xrTableCell18" Weight="0.63871799301978993" Text="xrTableCell18" WordWrap="false" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="6" Expression="[Date]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="7" UseBorders="false" />
+                </Item1>
+                <Item2 Ref="8" ControlType="XRTableCell" Name="xrTableCell16" Weight="0.86221865349520233" Text="xrTableCell16" WordWrap="false" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="9" Expression="[EmpName]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="10" UseBorders="false" />
+                </Item2>
+                <Item3 Ref="11" ControlType="XRTableCell" Name="tableCell27" Weight="0.787129480566002" Multiline="true" Text="tableCell27" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="12" Expression="[StoreName]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="13" UseBorders="false" />
+                </Item3>
+                <Item4 Ref="14" ControlType="XRTableCell" Name="tableCell30" Weight="0.6961026750475533" Multiline="true" Text="tableCell30" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="15" Expression="[QTY]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="16" UseBorders="false" />
+                </Item4>
+                <Item5 Ref="17" ControlType="XRTableCell" Name="tableCell24" Weight="0.65288059779912566" Multiline="true" Text="tableCell24" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="18" Expression="[SizeName]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="19" UseBorders="false" />
+                </Item5>
+                <Item6 Ref="20" ControlType="XRTableCell" Name="tableCell22" Weight="0.90983133175920761" Multiline="true" Text="Diamond" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="21" Expression="[ItemName]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="22" UseBorders="false" />
+                </Item6>
+                <Item7 Ref="23" ControlType="XRTableCell" Name="tableCell2" Weight="0.67721950647027274" Multiline="true" Text="tableCell2" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="24" Expression="[ItemID]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="25" UseBorders="false" />
+                </Item7>
+                <Item8 Ref="26" ControlType="XRTableCell" Name="tableCell4" Weight="0.79994657234569966" Text="ر" Borders="Bottom">
+                  <ExpressionBindings>
+                    <Item1 Ref="27" Expression="[MachineName]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="28" UseBorders="false" />
+                </Item8>
+                <Item9 Ref="29" ControlType="XRTableCell" Name="xrTableCell11" Weight="0.66968068780355516" Text="xrTableCell11" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="30" Expression="[MachinID]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="31" UseBorders="false" />
+                </Item9>
+                <Item10 Ref="32" ControlType="XRTableCell" Name="xrTableCell27" Weight="0.28756142872634222" Font="Times New Roman, 9.75pt" Borders="All">
+                  <ExpressionBindings>
+                    <Item1 Ref="33" Expression="[#]" PropertyName="Text" EventName="BeforePrint" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="34" UseFont="false" UseBorders="false" />
+                </Item10>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item1>
+      </Controls>
+    </Item2>
+    <Item3 Ref="35" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="0" />
+    <Item4 Ref="36" ControlType="GroupHeaderBand" Name="GroupHeader1" HeightF="48.0000229">
+      <Controls>
+        <Item1 Ref="37" ControlType="XRLabel" Name="label1" RightToLeft="Yes" KeepTogether="true" Multiline="true" Text="بعد التلميع" SizeF="100,23.0000019" LocationFloat="345.8146, 0" Font="Times New Roman, 13pt, style=Bold, charSet=2" Padding="2,2,0,0,100">
+          <StylePriority Ref="38" UseFont="false" />
+        </Item1>
+        <Item2 Ref="39" ControlType="XRTable" Name="xrTable2" KeepTogether="true" TextAlignment="MiddleCenter" SizeF="812,25.0000057" LocationFloat="0, 23.0000172" Font="Times New Roman, 9.75pt, style=Bold" Borders="All">
+          <Rows>
+            <Item1 Ref="40" ControlType="XRTableRow" Name="xrTableRow2" Weight="1">
+              <Cells>
+                <Item1 Ref="41" ControlType="XRTableCell" Name="xrTableCell3" Weight="0.77538684088942122" Text="التاريخ " BackColor="WhiteSmoke">
+                  <StylePriority Ref="42" UseBackColor="false" />
+                </Item1>
+                <Item2 Ref="43" ControlType="XRTableCell" Name="xrTableCell2" Weight="1.0549413830488774" Text="اسم العامل " BackColor="WhiteSmoke">
+                  <StylePriority Ref="44" UseBackColor="false" />
+                </Item2>
+                <Item3 Ref="45" ControlType="XRTableCell" Name="tableCell25" Weight="0.95438009946044744" Multiline="true" Text="المخزن " BackColor="WhiteSmoke">
+                  <StylePriority Ref="46" UseBackColor="false" />
+                </Item3>
+                <Item4 Ref="47" ControlType="XRTableCell" Name="tableCell29" Weight="0.84401208510462211" Multiline="true" Text="الوزن " BackColor="WhiteSmoke">
+                  <StylePriority Ref="48" UseBackColor="false" />
+                </Item4>
+                <Item5 Ref="49" ControlType="XRTableCell" Name="tableCell23" Weight="0.786559611421642" Multiline="true" Text="الوحدة " BackColor="WhiteSmoke">
+                  <StylePriority Ref="50" UseBackColor="false" />
+                </Item5>
+                <Item6 Ref="51" ControlType="XRTableCell" Name="tableCell21" Weight="1.1081997093288425" Multiline="true" Text="اسم  الصنف " BackColor="WhiteSmoke">
+                  <StylePriority Ref="52" UseBackColor="false" />
+                </Item6>
+                <Item7 Ref="53" ControlType="XRTableCell" Name="tableCell1" Weight="0.82111618851307511" Multiline="true" Text="رقم الصنف" BackColor="WhiteSmoke">
+                  <StylePriority Ref="54" UseBackColor="false" />
+                </Item7>
+                <Item8 Ref="55" ControlType="XRTableCell" Name="tableCell3" Weight="0.96843877887147967" Text="  إسم المكينة" />
+                <Item9 Ref="56" ControlType="XRTableCell" Name="xrTableCell7" Weight="0.81345614931135524" Text="رقم المكينة " BackColor="WhiteSmoke">
+                  <StylePriority Ref="57" UseBackColor="false" />
+                </Item9>
+                <Item10 Ref="58" ControlType="XRTableCell" Name="xrTableCell29" Weight="0.34860979283478205" Text="#" BackColor="WhiteSmoke">
+                  <StylePriority Ref="59" UseBackColor="false" />
+                </Item10>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="60" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+        </Item2>
+      </Controls>
+    </Item4>
+  </Bands>
+</XtraReportsLayoutSerializer>

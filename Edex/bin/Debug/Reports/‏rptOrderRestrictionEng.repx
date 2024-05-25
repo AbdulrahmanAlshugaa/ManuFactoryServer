@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="18.1.4.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptOrderRestrictionArb" Margins="22, 30, 127, 57" PaperKind="A4" PageWidth="827" PageHeight="1169" Version="18.1" DataMember="rptOrderRestrictionArb">
+  <Parameters>
+    <Item1 Ref="2" Name="OrderDate" />
+    <Item2 Ref="4" Description="Parameter1" ValueInfo="0" Name="BranchName" Type="#Ref-3" />
+    <Item3 Ref="5" Description="Parameter1" ValueInfo="0" Name="OrderID" Type="#Ref-3" />
+    <Item4 Ref="6" Description="Parameter1" ValueInfo="0" Name="CustomerID" Type="#Ref-3" />
+    <Item5 Ref="7" Description="Parameter1" ValueInfo="0" Name="CustomerName" Type="#Ref-3" />
+    <Item6 Ref="8" Description="Parameter1" ValueInfo="0" Name="DelegeteID" Type="#Ref-3" />
+    <Item7 Ref="9" Description="Parameter1" ValueInfo="0" Name="GuidanceName" Type="#Ref-3" />
+    <Item8 Ref="10" Description="Parameter1" ValueInfo="0" Name="TypeOrdersName" Type="#Ref-3" />
+    <Item9 Ref="11" Description="Parameter1" ValueInfo="0" Name="TypeName" Type="#Ref-3" />
+    <Item10 Ref="12" Description="Parameter1" ValueInfo="0" Name="TypeAuxiliaryMatirialName" Type="#Ref-3" />
+    <Item11 Ref="13" Description="Parameter1" ValueInfo="0" Name="pictureBox11" Type="#Ref-3" />
+  </Parameters>
+  <Bands>
+    <Item1 Ref="14" ControlType="DetailBand" Name="Detail" HeightF="795.9583" TextAlignment="TopLeft" Padding="0,0,0,0,100">
+      <Controls>
+        <Item1 Ref="15" ControlType="XRLabel" Name="label10" Text="xrLabel12" TextAlignment="MiddleRight" SizeF="217.3533,23" LocationFloat="52.2100449, 62.49835" Padding="2,2,0,0,100" Visible="false">
+          <ExpressionBindings>
+            <Item1 Ref="16" Expression="[Parameters].[TypeName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="17" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="18" ControlType="XRLabel" Name="label11" Text="النوع " TextAlignment="MiddleRight" SizeF="68.75006,23" LocationFloat="269.563354, 62.49835" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="19" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="20" ControlType="XRLabel" Name="label13" Text="xrLabel12" TextAlignment="MiddleRight" SizeF="217.3533,23" LocationFloat="362.271759, 62.49835" Padding="2,2,0,0,100" Visible="false">
+          <ExpressionBindings>
+            <Item1 Ref="21" Expression="[Parameters].[TypeAuxiliaryMatirialName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="22" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="23" ControlType="XRLabel" Name="label12" Text=" : نوع المواد المساعدة " TextAlignment="MiddleRight" SizeF="113.541748,23" LocationFloat="579.625, 62.49835" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="24" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="25" ControlType="XRPictureBox" Name="xrPictureBox1" Image="iVBORw0KGgoAAAANSUhEUgAAAiUAAALHCAIAAADeg6U1AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAACdJJREFUeF7t1TEBADAQA6H6N52q+JvABG8AcM83ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A8C97QN65HW7p98djgAAAABJRU5ErkJggg==" Sizing="StretchImage" ImageAlignment="MiddleCenter" SizeF="769.7918,795.9583" LocationFloat="5.208206, 0">
+          <ExpressionBindings>
+            <Item1 Ref="26" Expression="[pic]" PropertyName="Image" EventName="BeforePrint" />
+          </ExpressionBindings>
+        </Item5>
+      </Controls>
+    </Item1>
+    <Item2 Ref="27" ControlType="TopMarginBand" Name="TopMargin" HeightF="127.16497" TextAlignment="TopLeft" Padding="0,0,0,0,100">
+      <Controls>
+        <Item1 Ref="28" ControlType="XRLabel" Name="xrLabel9" Text="Date:" TextAlignment="MiddleCenter" SizeF="41.66667,23" LocationFloat="89.3549957, 64.20828" Font="Times New Roman, 9.75pt, style=Bold" ForeColor="Black" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="29" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="30" ControlType="XRPageInfo" Name="xrPageInfo3" PageInfo="DateTime" TextFormatString="{0:MMMM d, yyyy}" TextAlignment="TopRight" SizeF="138.541687,21.8452454" LocationFloat="131.021652, 64.20828" Font="Traditional Arabic, 11pt, style=Bold" ForeColor="Black" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="31" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="32" ControlType="XRLabel" Name="xrLabel14" Text="xrLabel14" TextAlignment="MiddleRight" SizeF="217.353241,23" LocationFloat="468.10495, 10.0000067" Padding="2,2,0,0,100" Visible="false">
+          <ExpressionBindings>
+            <Item1 Ref="33" Expression="[Parameters].[OrderID]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="34" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="35" ControlType="XRLabel" Name="xrLabel8" Text=":رقم الطلبية " TextAlignment="MiddleRight" SizeF="68.75,23" LocationFloat="685.4582, 10.0000067" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="36" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="37" ControlType="XRLabel" Name="label5" TextAlignment="MiddleRight" SizeF="217.3533,23" LocationFloat="477.89682, 64.20828" Padding="2,2,0,0,100" Visible="false">
+          <ExpressionBindings>
+            <Item1 Ref="38" Expression="[Parameters].[BranchName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="39" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="40" ControlType="XRLabel" Name="label4" Text=":الفـــرع " TextAlignment="MiddleRight" SizeF="68.75,23" LocationFloat="695.250061, 64.20828" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="41" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="42" ControlType="XRSubreport" Name="subRptCompanyHeader" SizeF="774.0001,127.16497" LocationFloat="0, 0" />
+      </Controls>
+    </Item2>
+    <Item3 Ref="43" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="56.5834045" TextAlignment="TopLeft" Padding="0,0,0,0,100" />
+    <Item4 Ref="44" ControlType="PageHeaderBand" Name="PageHeader" HeightF="31">
+      <Controls>
+        <Item1 Ref="45" ControlType="XRTable" Name="xrTable3" SizeF="774,29.69642" LocationFloat="0, 0.5119324">
+          <Rows>
+            <Item1 Ref="46" ControlType="XRTableRow" Name="xrTableRow10" Weight="1">
+              <Cells>
+                <Item1 Ref="47" ControlType="XRTableCell" Name="xrTableCell17" Weight="1.5178338693295055" Text="   Run command" Font="Times New Roman, 15pt" BackColor="Gray">
+                  <StylePriority Ref="48" UseFont="false" UseBackColor="false" />
+                </Item1>
+                <Item2 Ref="49" ControlType="XRTableCell" Name="xrTableCell12" Weight="0.013828983714031295" BackColor="Transparent">
+                  <StylePriority Ref="50" UseBackColor="false" />
+                </Item2>
+                <Item3 Ref="51" ControlType="XRTableCell" Name="xrTableCell13" Weight="4.1643526312429779" TextAlignment="MiddleRight" Font="Traditional Arabic, 15pt, style=Bold, charSet=0" ForeColor="White" BackColor="255,218,218,218" Padding="0,6,0,0,100" BorderColor="White">
+                  <Controls>
+                    <Item1 Ref="52" ControlType="XRLabel" Name="xrLabel1" Text="xrLabel1" TextAlignment="MiddleLeft" SizeF="121.936646,23" LocationFloat="434.8133, 2.82141376" Font="Traditional Arabic, 14pt, style=Bold" ForeColor="Black" Padding="2,2,0,0,100">
+                      <ExpressionBindings>
+                        <Item1 Ref="53" Expression="[Parameters].[OrderDate]" PropertyName="Text" EventName="BeforePrint" />
+                      </ExpressionBindings>
+                      <StylePriority Ref="54" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+                    </Item1>
+                    <Item2 Ref="55" ControlType="XRLabel" Name="xrLabel2" Text="Order date :" TextAlignment="MiddleRight" SizeF="106.208252,23" LocationFloat="328.605042, 2.82141376" Font="Times New Roman, 12pt, style=Bold" ForeColor="Black" Padding="2,2,0,0,100">
+                      <StylePriority Ref="56" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+                    </Item2>
+                    <Item3 Ref="57" ControlType="XRLabel" Name="label14" Multiline="true" Text="xrLabel5" TextAlignment="MiddleLeft" SizeF="108.333374,22.9999866" LocationFloat="19.6465149, 2.82141376" Font="Times New Roman, 14pt, style=Bold" ForeColor="255,192,0,0" Padding="0,0,0,0,100">
+                      <ExpressionBindings>
+                        <Item1 Ref="58" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+                      </ExpressionBindings>
+                      <StylePriority Ref="59" UseFont="false" UseForeColor="false" UsePadding="false" UseTextAlignment="false" />
+                    </Item3>
+                  </Controls>
+                  <StylePriority Ref="60" UseFont="false" UseForeColor="false" UseBackColor="false" UsePadding="false" UseBorderColor="false" UseTextAlignment="false" />
+                </Item3>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item1>
+      </Controls>
+    </Item4>
+    <Item5 Ref="61" ControlType="GroupHeaderBand" Name="GroupHeader1" HeightF="0" />
+    <Item6 Ref="62" ControlType="GroupHeaderBand" Name="GroupHeader2" Level="1" HeightF="90.54171">
+      <Controls>
+        <Item1 Ref="63" ControlType="XRLabel" Name="label9" Text="xrLabel12" TextAlignment="MiddleLeft" SizeF="142.97821,23" LocationFloat="370.188263, 55.8749847" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="64" Expression="[Parameters].[TypeOrdersName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="65" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="66" ControlType="XRLabel" Name="label8" Text="Order Type:" TextAlignment="MiddleLeft" SizeF="89.1665955,23" LocationFloat="281.021667, 55.8749847" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="67" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="68" ControlType="XRLabel" Name="label3" Text="xrLabel12" TextAlignment="MiddleLeft" SizeF="162.144989,23" LocationFloat="108.459984, 55.8749847" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="69" Expression="[Parameters].[DelegeteID]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="70" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="71" ControlType="XRLabel" Name="label2" Text="The Delegate" TextAlignment="MiddleLeft" SizeF="84.91831,23" LocationFloat="23.5416737, 55.8749847" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="72" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="73" ControlType="XRLabel" Name="xrLabel10" Text="Customer Name:" TextAlignment="MiddleLeft" SizeF="108.876648,23" LocationFloat="23.5416737, 10.0000067" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="74" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="75" ControlType="XRLabel" Name="label6" Text="xrLabel12" TextAlignment="MiddleLeft" SizeF="160.478271,23" LocationFloat="599.355, 10.0000067" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="76" Expression="[Parameters].[GuidanceName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="77" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="78" ControlType="XRLabel" Name="label7" Text="With Guidance:" TextAlignment="MiddleLeft" SizeF="97.91647,23" LocationFloat="501.438538, 10.0000067" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="79" UseFont="false" UseTextAlignment="false" />
+        </Item7>
+        <Item8 Ref="80" ControlType="XRLabel" Name="xrLabel12" Text="xrLabel12" TextAlignment="MiddleLeft" SizeF="269.421844,23" LocationFloat="132.41832, 10.0000067" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="81" Expression="[Parameters].[CustomerName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="82" UseTextAlignment="false" />
+        </Item8>
+        <Item9 Ref="83" ControlType="XRLine" Name="xrLine5" SizeF="754.6251,2.791656" LocationFloat="5.208189, 87.75005" BackColor="Gainsboro">
+          <StylePriority Ref="84" UseBackColor="false" />
+        </Item9>
+      </Controls>
+    </Item6>
+    <Item7 Ref="85" ControlType="PageFooterBand" Name="PageFooter" HeightF="33.416687">
+      <Controls>
+        <Item1 Ref="86" ControlType="XRBarCode" Name="BarCode" AutoModule="true" Alignment="MiddleCenter" BarCodeOrientation="UpsideDown" TextAlignment="MiddleCenter" ShowText="false" Text="Q.128445" SizeF="96.60304,24.2975254" LocationFloat="320.188324, 0.4166921" Font="Times New Roman, 12pt, style=Bold" Padding="8,10,0,0,100">
+          <Symbology Ref="87" Name="Code128" />
+          <ExpressionBindings>
+            <Item1 Ref="88" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="89" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="90" ControlType="XRLabel" Name="xrLabel5" Multiline="true" Text="xrLabel5" TextAlignment="MiddleCenter" SizeF="96.60309,11.5671177" LocationFloat="320.188324, 21.84957" Font="Times New Roman, 8pt, style=Bold" Padding="0,0,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="91" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="92" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="93" ControlType="XRLabel" Name="label1" Text=" :باركود الطلبية " TextAlignment="MiddleRight" SizeF="79.16669,23" LocationFloat="424.355072, 1.71419775" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="94" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="95" ControlType="XRPageInfo" Name="xrPageInfo2" PageInfo="DateTime" TextFormatString="{0:MMMM d, yyyy}" TextAlignment="TopRight" SizeF="156.25,23" LocationFloat="617.7498, 10.00001" ForeColor="Black" Padding="2,2,0,0,100">
+          <StylePriority Ref="96" UseForeColor="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="97" ControlType="XRPageInfo" Name="xrPageInfo1" TextFormatString="Page {0} of {1}" SizeF="156.25,23" LocationFloat="0, 10.00001" ForeColor="Black" Padding="2,2,0,0,100">
+          <StylePriority Ref="98" UseForeColor="false" />
+        </Item5>
+      </Controls>
+    </Item7>
+    <Item8 Ref="99" ControlType="GroupFooterBand" Name="GroupFooter1" HeightF="0" />
+  </Bands>
+  <CrossBandControls>
+    <Item1 Ref="100" ControlType="XRCrossBandBox" Name="xrCrossBandBox1" WidthF="754.0001" LocationFloat="10.00001, 6.00001" StartBand="#Ref-62" EndBand="#Ref-62" StartPointFloat="10.00001, 6.00001" EndPointFloat="10.00001, 84.70837" BorderColor="LightGray" />
+  </CrossBandControls>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v18.1" Ref="3" Content="System.Int32" Type="System.Type" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

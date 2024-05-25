@@ -1,0 +1,38 @@
+delete from dbo.Acc_CheckReceiptVoucherDetails
+delete from dbo.Acc_CheckReceiptVoucherMaster
+delete from dbo.Acc_CheckSpendVoucherDetails
+delete from dbo.Acc_CheckSpendVoucherMaster
+delete from dbo.Acc_ReceiptVoucherDetails
+delete from dbo.Acc_ReceiptVoucherMaster
+delete from dbo.Acc_SpendVoucherDetails
+delete from dbo.Acc_SpendVoucherMaster
+delete from dbo.Acc_VariousVoucherDetails
+delete from dbo.Acc_VariousVoucherMaster
+
+delete from dbo.Sales_SalesInvoiceDetails
+delete from dbo.Sales_SalesInvoiceMaster
+
+delete from Stc_ItemsInonBail_Details
+delete from Stc_ItemsInonBail_Master
+
+delete from Stc_ItemsOutonBail_Details
+delete from Stc_ItemsOutonBail_Master
+
+
+delete from Stc_GoodOpeningDetails
+delete from Stc_GoodOpeningMaster
+
+
+
+delete from Sales_SalesInvoiceReturnDetails
+delete from Sales_SalesInvoiceReturnMaster
+
+
+
+delete from Sales_PurchaseInvoiceDetails where invoiceid>0
+delete from Sales_PurchaseInvoiceMaster where invoiceid>0
+
+
+
+
+

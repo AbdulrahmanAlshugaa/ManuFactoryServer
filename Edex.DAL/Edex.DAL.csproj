@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{259B3EE3-35E2-40C9-BAA0-CBDF768D25B5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Edex.DAL</RootNamespace>
+    <AssemblyName>Edex.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack.NetCore">
+      <HintPath>..\packages\HtmlAgilityPack.NetCore.1.5.0.1\lib\net45\HtmlAgilityPack.NetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector NET 8.0.33\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ServicePointManagerExtensions">
+      <HintPath>..\packages\ServicePointManagerExtensions.1.0.2\lib\net45\ServicePointManagerExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounting\Acc_AccountsDAL.cs" />
+    <Compile Include="Accounting\Acc_BanksDAL.cs" />
+    <Compile Include="Accounting\Acc_BoxesDAL.cs" />
+    <Compile Include="Accounting\CheckReceiptVoucherDAL.cs" />
+    <Compile Include="Accounting\CheckSpendVoucherDAL.cs" />
+    <Compile Include="Accounting\CostCentersDAL.cs" />
+    <Compile Include="Accounting\DeclaringIncomeAccountsDAL.cs" />
+    <Compile Include="Accounting\DeclaringMainAccountsDAL.cs" />
+    <Compile Include="Accounting\OpeningVoucherDAL.cs" />
+    <Compile Include="Accounting\ReceiptVoucherDAL.cs" />
+    <Compile Include="Accounting\RestrictionsDailyDAL.cs" />
+    <Compile Include="Accounting\SpendVoucherDAL.cs" />
+    <Compile Include="Accounting\VariousVoucherMachinDAL.cs" />
+    <Compile Include="Accounting\VariousVoucherDAL.cs" />
+    <Compile Include="Acc_DeclaringMainAccountsDAL.cs" />
+    <Compile Include="BARCODESERACHDAL.cs" />
+    <Compile Include="cConnectionStringMySql.cs" />
+    <Compile Include="CLIENTDAL.cs" />
+    <Compile Include="Common\ClassManyFields.cs" />
+    <Compile Include="Common\CurrencyInfo.cs" />
+    <Compile Include="Common\GetMaxID.cs" />
+    <Compile Include="Common\Lip.cs" />
+    <Compile Include="Common\SystemSettings.cs" />
+    <Compile Include="Common\ToWord.cs" />
+    <Compile Include="Configuration\BranchesDAL.cs" />
+    <Compile Include="Configuration\CompanyHeaderDAL.cs" />
+    <Compile Include="Configuration\CurrencyDAL.cs" />
+    <Compile Include="Configuration\CURRENCY_DAL.cs" />
+    <Compile Include="Configuration\GeneralSettingsDAL.cs" />
+    <Compile Include="Configuration\StartNumberingDAL.cs" />
+    <Compile Include="ConnectionHelper.cs" />
+    <Compile Include="DAL_Trans.cs" />
+    <Compile Include="GlobalConnection.cs" />
+    <Compile Include="HRDAL\HR_EmployeeFileDAL.cs" />
+    <Compile Include="Inbox\InboxMessagesDAL.cs" />
+    <Compile Include="MAINMENU.cs" />
+    <Compile Include="ManufacturingDAL\AuxiliaryMaterialsDAl.cs" />
+    <Compile Include="ManufacturingDAL\Manu_AfforestationFactoryDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_CadWaxFactoryDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_CloseOrdersDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_ManuFactoryMachineDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_ManufacturingCastingDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_OrderRestrictionDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_TypeOrdersDAL.cs" />
+    <Compile Include="ManufacturingDAL\Manu_ZirconDiamondFactoryDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandCompundDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandDismantDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandGoldDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandMasterDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandPrentagAndPulishnDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandSelverDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_FactoryRunCommandTalmeeDAL.cs" />
+    <Compile Include="ManufacturingDAL\Menu_ProductionExpensesMasterDAL.cs" />
+    <Compile Include="ManufacturingDAL\Mnu_OrderRunningReportDAL.cs" />
+    <Compile Include="ManufacturingDAL\Mnu_ReturnFilingsDAL.cs" />
+    <Compile Include="Menu_FactoryRunCommandfactoryDAL.cs" />
+    <Compile Include="Popup\PopupDAL.cs" />
+    <Compile Include="ProductModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalseByMonthDAL.cs" />
+    <Compile Include="SalseSystem\Sales_CustomerCategoryDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseDiamondDetailsDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseInvoicesMatirialDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseInvoicesReturnMatirialDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseOrderDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SaleServiceInvoicesDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SalesOrderDAL.cs" />
+    <Compile Include="SalseSystem\Sale_CashierPurchaseSaveDaimondReturnDAL.cs" />
+    <Compile Include="SalseSystem\Sales_CustomersDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseGroupSuppliersDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseInvoicesSaveDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseInvoicesDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchaseInvoicesReturnDAL.cs" />
+    <Compile Include="SalseSystem\Sales_PurchasesDelegateDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SaleInvoicesDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SaleInvoicesReturnDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SalesDelegateDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SalesGroupCustomersDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SellersDAL.cs" />
+    <Compile Include="SalseSystem\Sales_SuppliersDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_GoldInonBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_GoldOutOnBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsMoviingDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ManuFactoryCommendOutOnBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_MatirialInonBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_MatirialOutOnBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_TransferMultipleStoresGoldDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_TransferMultipleStoresMatirialDAL.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\CloseCashierDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\HR_District_DAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_GoodsOpeningDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsBasesDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsBrandDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsColorsDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsDismantlingDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\STC_ITEMSGROUPS_DAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsInonBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsOutonBailDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\STC_ITEMSSIZES_DAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\STC_ITEMSSOURCE_DAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemsTransferDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_ItemTypesDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\Stc_SizingUnitsDAL.cs" />
+    <Compile Include="SalseSystem\Stc_itemDAL\STC_STORES_DAL.cs" />
+    <Compile Include="SysUesrDAL.cs" />
+    <Compile Include="UsersManagement\LoginValidation.cs" />
+    <Compile Include="UsersManagement\UserScreenFovoriteDAL.cs" />
+    <Compile Include="UsersManagement\UsersManagementDAL.cs" />
+    <Compile Include="cConnectionString.cs" />
+    <Compile Include="Validating\ValidatingDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Search2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Edex.Model\Edex.Model.csproj">
+      <Project>{798055fd-ac96-41c3-aa42-4d6c267a5749}</Project>
+      <Name>Edex.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

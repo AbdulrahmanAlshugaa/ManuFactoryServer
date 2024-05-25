@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="15.1.5.0" Ref="1" Name="rptCompanyHeaderEng" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" DataSource="#Ref-0" DataMember="rptCompanyHeaderDataTable" Version="15.1" PageWidth="850" PageHeight="1100" Margins="100, 100, 0, 0">
+  <Bands>
+    <Item1 Ref="2" ControlType="DetailBand" Name="Detail" TextAlignment="TopLeft" Padding="0,0,0,0,100" HeightF="138.5417">
+      <Controls>
+        <Item1 Ref="3" Name="xrPictureBox1" ControlType="XRPictureBox" SizeF="172.9167,115" LocationFloat="242.7083, 10.00001">
+          <DataBindings>
+            <Item1 Ref="4" PropertyName="Image" DataMember="rptCompanyHeaderDataTable.pic" />
+          </DataBindings>
+        </Item1>
+        <Item2 Ref="5" Name="xrLabel11" ControlType="XRLabel" SizeF="217.7084,23" LocationFloat="10.00001, 102" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel11">
+          <DataBindings>
+            <Item1 Ref="6" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.ArbTel" />
+          </DataBindings>
+          <StylePriority Ref="7" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="8" Name="xrLabel10" ControlType="XRLabel" SizeF="217.7084,23" LocationFloat="10.00001, 79.00002" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel10">
+          <DataBindings>
+            <Item1 Ref="9" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.ArbFax" />
+          </DataBindings>
+          <StylePriority Ref="10" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="11" Name="xrLabel9" ControlType="XRLabel" SizeF="217.7083,23" LocationFloat="10.00001, 56.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel9">
+          <DataBindings>
+            <Item1 Ref="12" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.ArbAddress" />
+          </DataBindings>
+          <StylePriority Ref="13" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="14" Name="xrLabel8" ControlType="XRLabel" SizeF="217.7083,23" LocationFloat="10.00001, 33.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel8">
+          <DataBindings>
+            <Item1 Ref="15" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.ActivityArbName" />
+          </DataBindings>
+          <StylePriority Ref="16" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="17" Name="xrLabel7" ControlType="XRLabel" SizeF="217.7083,23" LocationFloat="10, 10.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel7">
+          <DataBindings>
+            <Item1 Ref="18" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.CompanyArbName" />
+          </DataBindings>
+          <StylePriority Ref="19" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="20" Name="xrLabel5" ControlType="XRLabel" SizeF="201.0416,23" LocationFloat="438.9584, 102" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel5">
+          <DataBindings>
+            <Item1 Ref="21" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.EngTel" />
+          </DataBindings>
+          <StylePriority Ref="22" UseTextAlignment="false" />
+        </Item7>
+        <Item8 Ref="23" Name="xrLabel4" ControlType="XRLabel" SizeF="201.0417,23" LocationFloat="438.9584, 79.00002" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel4">
+          <DataBindings>
+            <Item1 Ref="24" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.EngFax" />
+          </DataBindings>
+          <StylePriority Ref="25" UseTextAlignment="false" />
+        </Item8>
+        <Item9 Ref="26" Name="xrLabel3" ControlType="XRLabel" SizeF="201.0416,23" LocationFloat="438.9584, 56.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel3">
+          <DataBindings>
+            <Item1 Ref="27" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.EngAddress" />
+          </DataBindings>
+          <StylePriority Ref="28" UseTextAlignment="false" />
+        </Item9>
+        <Item10 Ref="29" Name="xrLabel2" ControlType="XRLabel" SizeF="201.0416,23" LocationFloat="438.9584, 33.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel2">
+          <DataBindings>
+            <Item1 Ref="30" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.ActivityEngName" />
+          </DataBindings>
+          <StylePriority Ref="31" UseTextAlignment="false" />
+        </Item10>
+        <Item11 Ref="32" Name="xrLabel1" ControlType="XRLabel" SizeF="201.0417,23" LocationFloat="438.9583, 10.00001" Padding="2,2,0,0,100" TextAlignment="MiddleCenter" Text="xrLabel1">
+          <DataBindings>
+            <Item1 Ref="33" PropertyName="Text" DataMember="rptCompanyHeaderDataTable.CompanyEngName" />
+          </DataBindings>
+          <StylePriority Ref="34" UseTextAlignment="false" />
+        </Item11>
+      </Controls>
+    </Item1>
+    <Item2 Ref="35" Name="TopMargin" ControlType="TopMarginBand" TextAlignment="TopLeft" Padding="0,0,0,0,100" HeightF="0" />
+    <Item3 Ref="36" Name="BottomMargin" ControlType="BottomMarginBand" TextAlignment="TopLeft" Padding="0,0,0,0,100" HeightF="0" />
+  </Bands>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v15.1" Ref="0" Content="~Xtra#NULL" Type="ITIN.ModelSystem.dsReports" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

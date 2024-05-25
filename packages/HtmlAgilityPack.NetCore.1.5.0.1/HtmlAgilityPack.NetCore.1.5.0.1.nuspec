@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HtmlAgilityPack.NetCore</id>
+    <version>1.5.0.1</version>
+    <title>HtmlAgilityPack for .NET Core</title>
+    <authors>Zulfahmi Ahmad</authors>
+    <owners>Zulfahmi Ahmad</owners>
+    <projectUrl>https://github.com/zulfahmi93/HtmlAgilityPack.NetCore</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Deprecated as there's new maintainer for original HAP project. Please check the new repo at https://github.com/zzzprojects/html-agility-pack.
+
+This is a port of HtmlAgilityPack library created by Simon Mourrier and Jeff Klawiter for .NET Core platform. This NuGet package supports can be used with Universal Windows Platform, ASP.NET 5 (using .NET Core) and full .NET Framework 4.6.
+
+Original description:
+
+This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows you to parse "out of the web" HTML files. The parser is very tolerant with "real world" malformed HTML. The object model is very similar to what proposes System.Xml, but for HTML documents (or streams).</description>
+    <summary>Deprecated as there's new maintainer for original HAP project. Please check the new repo at https://github.com/zzzprojects/html-agility-pack.
+
+This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows you to parse "out of the web" HTML files. The parser is very tolerant with "real world" malformed HTML. The object model is very similar to what proposes System.Xml, but for HTML documents (or streams).</summary>
+    <tags>HTML parse crawler spider linq</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Collections" version="4.0.11" />
+        <dependency id="System.Linq" version="4.1.0" />
+        <dependency id="System.Threading" version="4.0.11" />
+        <dependency id="System.Runtime" version="4.1.0" />
+        <dependency id="System.Text.RegularExpressions" version="4.1.0" />
+        <dependency id="System.Xml.XPath" version="4.0.1" />
+        <dependency id="System.Diagnostics.Debug" version="4.0.11" />
+        <dependency id="System.Runtime.Extensions" version="4.1.0" />
+        <dependency id="System.Runtime.InteropServices" version="4.1.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

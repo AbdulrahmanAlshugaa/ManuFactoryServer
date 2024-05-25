@@ -1,0 +1,3275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Omex.AccountsObjects.AccountsClasses.cAccountsTree" Collapsed="true">
+    <Position X="228.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAWAAQBQAAIMAgEgYCQAAAEAAGgACQQIESAAhAQ=</HashCode>
+      <FileName>AccountsObjects\AccountsClasses\cAccountsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.AccountsClasses.MAINMENU" Collapsed="true">
+    <Position X="231.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAQAAgAAhAAQCAAQAAAAAAAAAAAAAAAgAACU=</HashCode>
+      <FileName>AccountsObjects\AccountsClasses\MAINMENU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Codes.frmAccountsTree" Collapsed="true">
+    <Position X="35.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>osABoACAkSAAljAIAAKCgQATgAAIDCAAAABoECEAAIA=</HashCode>
+      <FileName>AccountsObjects\Codes\frmAccountsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Codes.frmCostCenter" Collapsed="true">
+    <Position X="49" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>woABioyKACBAlDhqwJKBkAkSIkAsxGACiARIEDkEBIQ=</HashCode>
+      <FileName>AccountsObjects\Codes\frmCostCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Codes.frmDeclaringMainAccounts" Collapsed="true">
+    <Position X="62.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACAACEAFAAAggCAAAECAAAIgBAACBRAACEAAAA=</HashCode>
+      <FileName>AccountsObjects\Codes\frmDeclaringMainAccounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmFinancialPositionStatement" Collapsed="true">
+    <Position X="76" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PLAAiDmEHbWGNPCwAFCZCTErIESt/N85CQcARLXBwBg=</HashCode>
+      <FileName>AccountsObjects\FinancialStatements\frmFinancialPositionStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmIncomeStatement" Collapsed="true">
+    <Position X="91.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NKAACBmEHbWONPCQABCZCTEjIASt/M8YCAcARrXBwBg=</HashCode>
+      <FileName>AccountsObjects\FinancialStatements\frmIncomeStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmAccountStatement" Collapsed="true">
+    <Position X="107.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FLAAKhGEHCUGFPCoQFC6ITELIASN/A8RiE1xRLWAyDw=</HashCode>
+      <FileName>AccountsObjects\Reports\frmAccountStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmAccountStatementAccount" Collapsed="true">
+    <Position X="127.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FLAAKBGEHCUGFPCoQFC6ATELIASN9C8RCEVgRKWAwDg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmAccountStatementAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmBalanceReview" Collapsed="true">
+    <Position X="152.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NLAACBGnHLWGNHCgABCYATEDICQtyI8RCB0ARLXAwFg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmBalanceReview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmCheckReceiptVouchersReport" Collapsed="true">
+    <Position X="168.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYAIAGEACAAFCBIAACAAQAiQAwBQDsBCIUgRiQgACg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmCheckReceiptVouchersReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmCheckSpendVouchersReport" Collapsed="true">
+    <Position X="181.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYAIAGEACAAFCBIAACAAQAiQAwBQDsBCJUgRiQgACg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmCheckSpendVouchersReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmCostCenterAccountStatment" Collapsed="true">
+    <Position X="193" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NLAACBGEHLWGNHCAABCYATEDIAQtyI8RCAUARLXAwBg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmCostCenterAccountStatment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmCustomersAccountStatement" Collapsed="true">
+    <Position X="202" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NLAACBGEHKUGNHCgQBCcITECYAQtSC8RCBUBRqXgwBg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmCustomersAccountStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmDetailedDailyTransaction" Collapsed="true">
+    <Position X="215.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ELAELADkECAAFLAoBACwAQADkA3pgG9lGoCiRCQIACg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmDetailedDailyTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmNetworkCommission1" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HLAAKBGEHCUGFPCoQFC6ATELIASN9C8RCEVgRKeAwDg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmNetworkCommission1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmReceiptVouchersReport" Collapsed="true">
+    <Position X="22" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYAIAGEACAAFCBIAACAAQAiQAwJSDsBCJUgRiQgACg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmReceiptVouchersReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmSpecificAccountStatement" Collapsed="true">
+    <Position X="37.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NbQACBGGHLWGNHCgQBCYATELYAQtxq8RCAVARqXgyBg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmSpecificAccountStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmSpendVouchersReport" Collapsed="true">
+    <Position X="51.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYAIAGkACAAFCBIAACAAQAiQCwJSDsBCJUgRiQgAGg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmSpendVouchersReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Reports.frmVariousVouchersReport" Collapsed="true">
+    <Position X="64.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYAIAGEACAAFCBIAACAAQAiQAwJSDsBCIUgRiQgACg=</HashCode>
+      <FileName>AccountsObjects\Reports\frmVariousVouchersReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmNetworkCommission" Collapsed="true">
+    <Position X="78.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WR6IAECQFyAEFLAAFACABQAKJAiNhGKBKARQSCIIAAQ=</HashCode>
+      <FileName>AccountsObjects\Reports\frmNetworkCommission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmCloseCashierReport" Collapsed="true">
+    <Position X="94" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cTxAARCQVyUFFPARVQLJBShKJCid9CsBKBRQfTwAUQE=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmCloseCashierReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmGoodReport" Collapsed="true">
+    <Position X="109.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgyIARCUEyEElDBAQACJBQAqIQgZDGAAKARAQSAAAAQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmGoodReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmNetSalesInvoiceReport" Collapsed="true">
+    <Position X="130" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MzyIIVCwV6EVVPBRVUDJBWwKJCgd/CuBLFRQdThI0UU=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmNetSalesInvoiceReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmPurchasesInvoiceReport" Collapsed="true">
+    <Position X="154.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhyIARCUE6EFlDBARQCJBRAqISgZ/GsBKBRAZSAAAUQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmPurchasesInvoiceReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmPurchasesInvoiceReturnReport" Collapsed="true">
+    <Position X="170.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhyIARC0EakFlDAgRSDJBQAqIGgZ/CsBKBRAZTAAAWQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmPurchasesInvoiceReturnReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmSalesInPeriodByItem" Collapsed="true">
+    <Position X="184" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQQAQCEECAAFHAACACABQACAAgJLCABCARgSCAAAAE=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmSalesInPeriodByItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmSalesInvoiceReport" Collapsed="true">
+    <Position X="195.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MTyIAVCwVyAVFPARVQDJBWwKJCid/CuBLFRQdTgIUUU=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmSalesInvoiceReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmSalesInvoiceReportOrder" Collapsed="true">
+    <Position X="204.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MTyIAVCQVyAVFPARVQDJBSgKJAid/CuBLARQdTgIUQU=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmSalesInvoiceReportOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Reports.frmSalesReturnReport" Collapsed="true">
+    <Position X="217.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADyAARCwEyCFFDABVQCJhSAKJCgJ/CsBKBRAdSAIkUQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Reports\frmSalesReturnReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmCheckReceiptVoucher" Collapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UoMBC+mWICBKlLptBFLJiCV70EHo/utGKYZLUSkMBZQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmCheckReceiptVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmCheckSpendVoucher" Collapsed="true">
+    <Position X="24.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UqMBC+mSJCBOlLptBBLJgCV70EHo/qtGKYZLUSkMBZQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmCheckSpendVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmOpeningVoucher" Collapsed="true">
+    <Position X="40" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QqKBC+meISRulKBpAEKLiCEbklCq7mlCKQZKECkEBIQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmOpeningVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmPrepareForNewAccountYear" Collapsed="true">
+    <Position X="53.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAEAAECBCEAAAgACBAAACAAAAAAAEABBAQAAAAAA=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmPrepareForNewAccountYear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmPrintRestractionDaily" Collapsed="true">
+    <Position X="67" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QoIBSiiKISFAlChpAAKQgCEboFGqzAtCCAZIECkADAQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmPrintRestractionDaily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmReceiptVoucher" Collapsed="true">
+    <Position X="80.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UoMFC+mWMCl6lLptBlLLiCF70NHo7mtGKwbLUKkGBZQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmReceiptVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmSpendVoucher" Collapsed="true">
+    <Position X="96.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UqsFi+2SNCl+lLp9RiLLgCF70Nno/itGKQZLULkGJZQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmSpendVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmVariousVoucher" Collapsed="true">
+    <Position X="112" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QoIFSuiaJyDilDppAALTgCEb4FGqzGtCCAZKUCkEBIQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmVariousVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.AccountsObjects.Transactions.frmVariousVoucherMachin" Collapsed="true">
+    <Position X="132.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QoIFS+iaIyDilDppAALTgCEb4FGqzGtCCAZKUCkEBIQ=</HashCode>
+      <FileName>AccountsObjects\Transactions\frmVariousVoucherMachin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.clsDataAccess" Collapsed="true">
+    <Position X="231.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAACAAAA=</HashCode>
+      <FileName>clsDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.clsSalseInvoice" Collapsed="true">
+    <Position X="233.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>clsSalseInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.frmMainEdex" Collapsed="true">
+    <Position X="240.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3/v9TjZq7Pv/6+4+DcPkcefupF/P///07s42j/X+7r4=</HashCode>
+      <FileName>frmMainEdex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.frmMainEdexaimond" Collapsed="true">
+    <Position X="242.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3/v9TjZq7Pv/6+4+DcPkcefupF/P7//07s42jvX+7r4=</HashCode>
+      <FileName>frmMainEdexaimond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.frmMainEdexDaimondShop" Collapsed="true">
+    <Position X="224.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3/v9TjZq7Pv/6+4+DcPkcefupF/P7//07s42jvX+7r4=</HashCode>
+      <FileName>frmMainEdexDaimondShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.frmMainEdexResturant" Collapsed="true">
+    <Position X="226.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3/t9TjZq7Pv/6+4+DcPkcefupF/PJ/b0rs42jtX+7r4=</HashCode>
+      <FileName>frmMainEdexResturant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.cConnectionStringMySql" Collapsed="true">
+    <Position X="238.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAACABAABAAAAEAAAASKACAAQAEA=</HashCode>
+      <FileName>GeneralObjects\cConnectionStringMySql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.PrintRibbonControllerResources" Collapsed="true">
+    <Position X="226.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAgRMwDjagAOosdEwk5FstNYfEcToHCxQBk3SEhC4E=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Program" Collapsed="true">
+    <Position X="228.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Teeemp" Collapsed="true">
+    <Position X="233.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teeemp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.XRDesignRibbonControllerResources" Collapsed="true">
+    <Position X="233.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALhE8Ag0CAwIByJEJJABUgg4gZpFQEeEAACxgO+RDYQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.cBranches" Collapsed="true">
+    <Position X="231.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAASAgbAAkAAMEACCIBQAwAGCAAADCQRAEWAAgAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cBranches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.cFacility" Collapsed="true">
+    <Position X="224.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASEAAaAgSAAkAAMEAAGoRAAAAEABAACCAUAFSBAgAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cFacility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.ChartLip" Collapsed="true">
+    <Position X="230" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\ChartLip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.cPrinterSelecter" Collapsed="true">
+    <Position X="224.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAUAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cPrinterSelecter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.CSearch" Collapsed="true">
+    <Position X="230" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IKBACAIMBRAQAAABQERgAAEAFABIEAAACIAAgQAAgAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\CSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.CField" Collapsed="true">
+    <Position X="226.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAAAABAAAAAAAAAACABCAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\CSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.cStarting" Collapsed="true">
+    <Position X="235.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cStarting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.cUser" Collapsed="true">
+    <Position X="228.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQYgAASAgSAAgICMEAACIAwEAAAAAACCCQQAESAAgAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.FillCombo" Collapsed="true">
+    <Position X="233.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARAAAAAAABAAAAAAAAAAAABAAAgAAAAAAAICAAAAEA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\FillCombo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.FillGrid" Collapsed="true">
+    <Position X="235.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\FillCombo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.Lovs" Collapsed="true">
+    <Position X="230" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIQSAgCAgICSAAAAABAAAAAAAIgEACEAAAAAEAAAE=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\FillCombo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.FormsPrperties" Collapsed="true">
+    <Position X="238.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAAAAAAAAAAAQAAAACAIAgAAAAIAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\FormsPrperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralClasses.PrepareSearchQuery" Collapsed="true">
+    <Position X="224.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABAAAAAAIAAAAQAAAAAAoAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\PrepareSearchQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cOmex" Collapsed="true">
+    <Position X="235.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="cOmex.iLanguage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GeneralObjects\GeneralClasses\cOmex.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACEACCBAAgAAiAAUQAAAKBCEAAAQIAgCAioAAEA=</HashCode>
+      <FileName>GeneralObjects\GeneralClasses\cOmex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRecord" Collapsed="true">
+    <Position X="240.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.BaseForm" Collapsed="true">
+    <Position X="116.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/YAUkSOC7GckFhFEgNTHJQwSDSRopL6INIZGSToEiI4=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.BaseFormMain" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>tYAQkQMCyCMEFAFEAJDHJQwSDSRAoDqAJIZGQQoEgI4=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\BaseFormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmBackupDataBase" Collapsed="true">
+    <Position X="114.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAACAAECAAAAAAYACAAAAKAAAAIACDAAQSACAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmBackupDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmBranches" Collapsed="true">
+    <Position X="134.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIRdogqCGCKClXJLkIKQoAASqgioRKA8iERIEWmAgcQ=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmBranches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmChangePassword" Collapsed="true">
+    <Position X="157" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACACAAEJBAAECACAACAAAAAAAAAgQAACEAAQA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmFacility" Collapsed="true">
+    <Position X="172.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIQNogKCGiKCnXJrkIOAoQASqgigQKBsiERIkSkAgcQ=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmFacility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmGeneralOptions" Collapsed="true">
+    <Position X="186.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>o4TgA4Cg9DDckBQ1IeagiAISAOHzR3AF+FcYUCPepXE=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmGeneralOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmLogin" Collapsed="true">
+    <Position X="235.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEEQQCJACAAAAAGBBAADIAQFAAkAFkgABAgKgAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmLoginHistory" Collapsed="true">
+    <Position X="206.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAACQFKIAFADAgACtA0ACAAALBAAYDIQCwSAAAIA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmLoginHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmLoginWeb" Collapsed="true">
+    <Position X="237" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgFEQACJACAAAQASKBAADYAQlAAsAVkwAAAgCAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmLoginWeb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmMain" Collapsed="true">
+    <Position X="238.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/+791Z7r/fve79+vt4f9P/2vs3t9+kfc/u+77/e/3f8=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmNotifications" Collapsed="true">
+    <Position X="26.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIACEEiAEFAAYAACAAQQCAAAhAgIACBAAAAAEAGA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmNotifications.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmPrinterSelecter" Collapsed="true">
+    <Position X="42.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoCAICEABAAgAICACQACANATABEACRAIBCIABAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmPrinterSelecter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmProgramShort" Collapsed="true">
+    <Position X="230" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAwAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmProgramShort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmReportViewer" Collapsed="true">
+    <Position X="233.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAgCQKAGCAADMEAwT6AAEACIQAAAACAEAAAAEIACgA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmReportViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmRestoringDeleted" Collapsed="true">
+    <Position X="82.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIACAFCAAFAEIBACgAQQCABANAABACIAAQDAIADA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmRestoringDeleted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmSearch" Collapsed="true">
+    <Position X="237" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYAABgAAACCEIAAEAECFAAQCACIAEAAgDSAAACDAAAk=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmUser" Collapsed="true">
+    <Position X="116.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ooxJggSCACQGlPLKkIKAoCASKJAIBKAgighAkCkAIMQ=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmUserPermissions" Collapsed="true">
+    <Position X="136.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7++r/8/9lPv////r73f7/7v+9+/4/vv/r+/r/7P//8s=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmUserPermissions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.frmViewImage" Collapsed="true">
+    <Position X="242.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\frmViewImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralForms.WaitForm1" Collapsed="true">
+    <Position X="231.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAACAACCAAACAAAAAIAABAAAAAAAACA=</HashCode>
+      <FileName>GeneralObjects\GeneralForms\WaitForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralUserControls.AlertCashier" Collapsed="true">
+    <Position X="224.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAEAEACAAAACsAQAAEAABAAQAAAAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralUserControls\AlertCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.GeneralObjects.GeneralUserControls.ucClockCashier" Collapsed="true">
+    <Position X="237" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAASACAAAAAQAACAAEACgAAAIAAEAAAAABgAAAA=</HashCode>
+      <FileName>GeneralObjects\GeneralUserControls\ucClockCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.ChangeLanguage" Collapsed="true">
+    <Position X="228.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAEAA=</HashCode>
+      <FileName>ModelSystem\ChangeLanguage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.Common" Collapsed="true">
+    <Position X="237" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAABGAgABAAAAAAAEBAAAgAAAAIAAAAIgAAAA=</HashCode>
+      <FileName>ModelSystem\Common.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.dsReports" Collapsed="true">
+    <Position X="231.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FRXtuH2FkwdQUcJRTrqUYoMAOYlj6n1raHe73E2GhRs=</HashCode>
+      <FileName>ModelSystem\dsReports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.FORMPERMATION" Collapsed="true">
+    <Position X="237" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAIAAAIAgAAAAAQBAAAAAAAAAAAAIAAAQBAAAAE=</HashCode>
+      <FileName>ModelSystem\FORMPERMATION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.Messages" Collapsed="true">
+    <Position X="235.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAhAEEIwgQghAQAABDgCFpYIQDhBkA4ERoAAEQBYkPQ=</HashCode>
+      <FileName>ModelSystem\Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.ReportComponent" Collapsed="true">
+    <Position X="231.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAIAAACAAAACAAAAABAAEA=</HashCode>
+      <FileName>ModelSystem\ReportComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.USERPERMATIONS" Collapsed="true">
+    <Position X="226.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelSystem\USERPERMATIONS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.Permissions" Collapsed="true">
+    <Position X="242.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ModelSystem\UserPermissions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.ModelSystem.Validations" Collapsed="true">
+    <Position X="230" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIQAAAAAgAAIAAAAAAAACABEAQACABQUAAJAEAAEAA=</HashCode>
+      <FileName>ModelSystem\Validations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITIN.ModelSystem.dsReports" Collapsed="true">
+    <Position X="230" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FRXtuH2FkwdQUcJRTrqUYoMAOYlj6n1raHe73E2GhRs=</HashCode>
+      <FileName>ModelSystem\dsReports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.GenrateQrCodeBase64" Collapsed="true">
+    <Position X="226.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelSystem\GenrateQrCodeBase64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.InvoiceViewModel" Collapsed="true">
+    <Position X="228.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIEACAJAAAAAAAQAAACADQAJAAAACAA=</HashCode>
+      <FileName>ModelSystem\GenrateQrCodeBase64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Properties.Resources" Collapsed="true">
+    <Position X="233.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAiAQAEgIoB4IQAAAPEEUCFcQRcCCAAgBACAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Properties.Settings" Collapsed="true">
+    <Position X="231.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptCashierPrint" Collapsed="true">
+    <Position X="235.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GGiW/wAAiToxAILMBgmCAALiwAAAEICQJAEKCUAACAQ=</HashCode>
+      <FileName>Reports\rptCashierPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptCompanyHeaderArb" Collapsed="true">
+    <Position X="237" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQhAAAATAAAAIIAgiAAABCAAAAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Reports\rptCompanyHeaderArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptCompanyHeaderEng" Collapsed="true">
+    <Position X="238.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQhAAAATAAAAIIAgiAAABCAAAAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Reports\rptCompanyHeaderEng.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptCompanyHeaderLandArb" Collapsed="true">
+    <Position X="240.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQhAAAATAAAAIIAgiAAABCAAAAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Reports\rptCompanyHeaderLandArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptPrintItemStickerArb" Collapsed="true">
+    <Position X="242.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAxAAAATAAAAAJAAiAAABCAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Reports\rptPrintItemStickerArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptPurchaseInvoiceArb" Collapsed="true">
+    <Position X="224.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGiW/4AAiXodCILMBgmAAADigAAgMICYJIECCUAECAQ=</HashCode>
+      <FileName>Reports\rptPurchaseInvoiceArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptPurchaseInvoiceEng" Collapsed="true">
+    <Position X="226.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIAAACAAAAAIAACAAAACAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Reports\rptPurchaseInvoiceEng.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.Reports.rptSalesInvoiceArb" Collapsed="true">
+    <Position X="228.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGi2/4QAifodCILMBgmAQADiQAAgEICQJAkCCUAACAQ=</HashCode>
+      <FileName>Reports\rptSalesInvoiceArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITIN.Reports.rptSalesInvoiceReportArb" Collapsed="true">
+    <Position X="230" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GG2W/4AAiTsQCILMBwmAAiJiwAAgAIBYYBACBTAFiIQ=</HashCode>
+      <FileName>Reports\rptSalesInvoiceReportArb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Classes.cSections" Collapsed="true">
+    <Position X="231.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAAAAAAAAMAAAAIAQAAAAAAAAACQQAESAQgAA=</HashCode>
+      <FileName>RestaurantSystem\Classes\cSections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Classes.cTables" Collapsed="true">
+    <Position X="238.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAAAAAAAAMAAAAIAQAAAAEAAAACQYAESAQgAA=</HashCode>
+      <FileName>RestaurantSystem\Classes\cTables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Code.frmConnectItemGroupToPrinters" Collapsed="true">
+    <Position X="139" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoCAICEABAAgAICACQACANATABEACRAIBCIABAA=</HashCode>
+      <FileName>RestaurantSystem\Code\frmConnectItemGroupToPrinters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.TimeStaffScreens.frmCustomerSearch" Collapsed="true">
+    <Position X="224.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBFAM0SgEuUHgAA4gYCAAKgq8akHDgAADpVgWLgQAEA=</HashCode>
+      <FileName>RestaurantSystem\Code\frmCustomerSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.TimeStaffScreens.frmReturnInsurance" Collapsed="true">
+    <Position X="235.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RRFAM0agEuEHlDBYgcDABIgr8a0HDgAALpxkWPgQgEA=</HashCode>
+      <FileName>RestaurantSystem\Code\frmReturnInsurance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.TimeStaffScreens.XtraForm2" Collapsed="true">
+    <Position X="235.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBFAM0SgEuEHgAA4gYCAAKgq8akHDgAADpRgWPgQgEA=</HashCode>
+      <FileName>RestaurantSystem\Code\XtraForm2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmDistrict" Collapsed="true">
+    <Position X="197.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABwgCCECDAlDJYEAKAgAASIAAIgCAAiABAEDkAAJQ=</HashCode>
+      <FileName>RestaurantSystem\Code\frmDistrict.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmStreet" Collapsed="true">
+    <Position X="208.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABwgCCECDAlDJYEAKAgAASIAAIgCAAiABAEDkAAJQ=</HashCode>
+      <FileName>RestaurantSystem\Code\frmStreet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmOfferItems" Collapsed="true">
+    <Position X="220" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/5IxAorDsDDAt3LYEKaIggYT8gjYpGihqgrAWDkgyrc=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmOfferItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmGoodsOpening" Collapsed="true">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdN++vW++1/n///19b7/X9//F+//v/ff+7Kf/vfvrc=</HashCode>
+      <FileName>StockObjects\Codes\frmGoodsOpening.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItems" Collapsed="true">
+    <Position X="28.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>2pYB+oTCKGDJl7jrxKaFoFk7I1kNxrpPmsTJHXtVTfQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItemsBases" Collapsed="true">
+    <Position X="44.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBgCCCECYAlCJIAAKAgAISIAAIADAAiABAECkAIIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItemsBases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItemsBrands" Collapsed="true">
+    <Position X="55.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBgASCECAAlSJIQAKAgAASIACIADAAiABBECkAAIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItemsBrands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItemsColors" Collapsed="true">
+    <Position X="69.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABwgCCECDAlDJYEAKAgAASIAEIACAAiABAEDkAAIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItemsColors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItemsGroups" Collapsed="true">
+    <Position X="85" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABwgCCECDAlDJYEAKAgAASIAEIACAAiABAEDkAAIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItemsGroups.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmItemsSizes" Collapsed="true">
+    <Position X="98.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABwgCCECDAlDJYEAKAgAASIAEIACAAiABAEDkAAIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmItemsSizes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmPrintItemSticker" Collapsed="true">
+    <Position X="118.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YIAFCgKAMCAJtBggwAaFhBECAAAIxouWCsRAEKNEDAA=</HashCode>
+      <FileName>StockObjects\Codes\frmPrintItemSticker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmQrcodeGenreate" Collapsed="true">
+    <Position X="141.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAAiAAAACAAAIAAAAAEAAAABAAAA=</HashCode>
+      <FileName>StockObjects\Codes\frmQrcodeGenreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmSizingUnits" Collapsed="true">
+    <Position X="159.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABggCCsGCAlCJIEAKAgAASKAAIACABjABFEmkAAIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmSizingUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Codes.frmStores" Collapsed="true">
+    <Position X="175" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gsBBoiKCCSLAlKJKEIKAgAASIAAIACAijAhAUSkAgIQ=</HashCode>
+      <FileName>StockObjects\Codes\frmStores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.confirmSaving" Collapsed="true">
+    <Position X="238.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jQEICQSCqq4JAS9w0ACYDABK9A0oVluA6o0CUQsQBKY=</HashCode>
+      <FileName>RestaurantSystem\Transactions\confirmSaving.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.confirmSavingReturn" Collapsed="true">
+    <Position X="240.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>nQEICQaiqq4JES9w0ACYDAJK9C0o1luA6p0CWQsQBOY=</HashCode>
+      <FileName>RestaurantSystem\Transactions\confirmSavingReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.ctAddCustomers" Collapsed="true">
+    <Position X="240.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggURgAAAICAAkDICgoKApQASQAAERCEiCMgokCkAJAQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\ctAddCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.ctAddDelivery" Collapsed="true">
+    <Position X="242.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggURgAAAICAAkDICgoKApQASQAAERCEiCMgokCkAJAQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\ctAddDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.ctCalculater" Collapsed="true">
+    <Position X="224.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAACCiiwBAEBwUACACAACIAQABAAAAgAAAAgQAII=</HashCode>
+      <FileName>RestaurantSystem\Transactions\ctCalculater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.ctCloseCashier" Collapsed="true">
+    <Position X="226.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAQACAAAEQAmAAIAAAQgEgAA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\ctCloseCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmAddressCustomer" Collapsed="true">
+    <Position X="242.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIgACEAAAhAEACAAIACACAEAAAAABAACAgAAEA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmAddressCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmDeliveryInvoice" Collapsed="true">
+    <Position X="58" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>X7Vda8+2/+1fv///99b/7e9////v/v9ff7//f/u//7Y=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmDeliveryInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmKDS" Collapsed="true">
+    <Position X="230" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBxAACGgQqEgIKAYAEKAIIACgeQeIgAACPAAYJkBhGQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmKDS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmKDSGroup" Collapsed="true">
+    <Position X="231.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwIACGgAqEhIKASAcCAIAACweQQIAABCJAAcIIBBGQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmKDSGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.MyData1" Collapsed="true">
+    <Position X="238.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmKDSGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmKDSMonitor" Collapsed="true">
+    <Position X="233.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAgCAECQrAKAAgYCBAAAC0aQAIAABCIAAQAIBBEQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmKDSMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmNewPos" Collapsed="true">
+    <Position X="143.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7XdS8/3/+9fv+v//9//6+9////v/v/ff7/v/zu3/74=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmNewPos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmProductDaily" Collapsed="true">
+    <Position X="228.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>X7VdK8+2/+1fvev/99b/7e9////v/v9ff7//f/u//7Y=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmProductDaily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmSizeItem" Collapsed="true">
+    <Position X="240.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAEwCgkO0HAAAAgYCAACAGSSAGIhgBCJAgeAgAAEA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmSizeItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.frmWrningItemQty" Collapsed="true">
+    <Position X="224.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QA0IACGgAqEhIKASAcCAIBACweQQYAABCJAAcKIBBGQ=</HashCode>
+      <FileName>RestaurantSystem\Transactions\frmWrningItemQty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.MasterDetailHelper" Collapsed="true">
+    <Position X="233.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBIAAAEAQAAAAAAAAEAMgAEQAACIAAAAYAACAAAAAg=</HashCode>
+      <FileName>RestaurantSystem\Transactions\MasterDetailHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.MSgSettingsDetials" Collapsed="true">
+    <Position X="237" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAEAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\MSgSettingsDetials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.uAddExtension" Collapsed="true">
+    <Position X="235.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAEkCgEOEHISkAwYCCAAIS8SWAAgkACIAASIAAIEA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\uAddExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.uReturnInvoice" Collapsed="true">
+    <Position X="242.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBIEkCgEOEHISkQwdKCAAIS0SWAAgEACJAASIAAoEA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\uReturnInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.Transactions.uSpiltItems" Collapsed="true">
+    <Position X="228.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBIEkCgEOEHISkQwdKCAAIS0SWAAgEACJAASIAAoEA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\uSpiltItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.UserControls.Button_WOC" Collapsed="true">
+    <Position X="226.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAIQAAIAACAAAACAAIAAAACABAAAAAAAIA=</HashCode>
+      <FileName>RestaurantSystem\UserControls\Button_WOC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.UserControls.CircularButton" Collapsed="true">
+    <Position X="235.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestaurantSystem\UserControls\CircularButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.UserControls.ucMainGroup" Collapsed="true">
+    <Position X="238.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAgwACRECAoIACCAAQBCEAAAAIwQYCIUIgAgAAk=</HashCode>
+      <FileName>RestaurantSystem\UserControls\ucMainGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.UserControls.ucsubGroup" Collapsed="true">
+    <Position X="240.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAgwACREAApIAiCAAQACkAAiAIwQQKIUAgEgAAk=</HashCode>
+      <FileName>RestaurantSystem\UserControls\ucsubGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.RestaurantSystem.UserControls.usButtonCategory" Collapsed="true">
+    <Position X="224.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestaurantSystem\UserControls\usButtonCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmCustomers" Collapsed="true">
+    <Position X="145.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gsQRooCCCCKClPpLEoKAoQQS6AAIBKEgjEhokCkUAMQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmPurchasesDelegates" Collapsed="true">
+    <Position X="161.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABqgCCCCCAlLJKEoKAoAATIAQKFKAgiAhAECkAAIQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmPurchasesDelegates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmSalesDelegates" Collapsed="true">
+    <Position X="177.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABogCCCCCAlLJKEoKAoAASIAQKFKAgjAhAECkAAIQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmSalesDelegates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmSellers" Collapsed="true">
+    <Position X="188.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goABogCCCCOClPJKEoKAoAASKAAKBKAgiAhAECkAGIQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmSellers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmSettingConnection" Collapsed="true">
+    <Position X="238.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACABQACAAAAAAAACAAAACAAAAAAsACEAAAAEAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmSettingConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Codes.frmSuppliers" Collapsed="true">
+    <Position X="211" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ooUZooSCCKKClPpKEoqAoQISaAAIBqAgiEhoESkACIQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmSuppliers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmRemindQtyItemFromCahier" Collapsed="true">
+    <Position X="231.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQkACAECAAAJACgAKBAAACAAADAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Codes\frmRemindQtyItemFromCahier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmCloseCashier" Collapsed="true">
+    <Position X="17.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQAQAAAECIAEhCggACAgACGAQggCERBDAAASaAAoAQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCloseCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmEditCloseCashierDate" Collapsed="true">
+    <Position X="31" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABGAACAAAAAAAACAAAACAAABEIkAAAAAAAAAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmEditCloseCashierDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmExpiryDate" Collapsed="true">
+    <Position X="226.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEACAAAIAAAACAAAACAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmExpiryDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmExpiryDateItem" Collapsed="true">
+    <Position X="228.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAACAACMAAAAAAACAAAACADAABAAACBAAAAAAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmExpiryDateItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmItemPricesAndCosts" Collapsed="true">
+    <Position X="71.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAECJAAAAAgACAAAACEAAAAAAACCAAAAAAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmItemPricesAndCosts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmPurchaseInvoice" Collapsed="true">
+    <Position X="87.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqUNC8uGcmAfnftvl9bbiRt/3Fm6/v/fP8bKdjsFvuQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmPurchaseInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmPurchaseInvoiceReturn" Collapsed="true">
+    <Position X="100.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqUNC+uGM2A/nfvu19b7iWt/nV25/v/fP4bLd7uFvrQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmPurchaseInvoiceReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmSalesInvoiceReturn" Collapsed="true">
+    <Position X="121" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqUNC8+GcmA/n/vvl9bbjQtfnNmq/v/fP8bKdzuFvqQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmSalesInvoiceReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.Transactions.frmAddNewItemFromCahier" Collapsed="true">
+    <Position X="240.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgACgECAAAJACgAKBAAACAAADAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockObjects\Codes\frmAddNewItemFromCahier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cCustomers" Collapsed="true">
+    <Position X="240.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAYSNgGJgggCMCgAgIQQAEEAAQACiCQQAESAAwAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cDrivers" Collapsed="true">
+    <Position X="242.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQgAYSNgGJgggCMCgAgIQQAAEAAQACiCQQAESAAwAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cDrivers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cPriceItemsOffers" Collapsed="true">
+    <Position X="242.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACgSAAFAgAQENAwAIggQAAAAIqGAABwQIFSBhgAI=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cPriceItemsOffers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cPurchasesDelegates" Collapsed="true">
+    <Position X="226.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQgAASAgCAAgAAMAAAAICQAAAgAAACCCQQAESAAgAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cPurchasesDelegates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cSalesDelegates" Collapsed="true">
+    <Position X="228.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQgAASAgCAAgAAMAAAAICQAAAgAAACCCQQAESAAgAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cSalesDelegates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cSellers" Collapsed="true">
+    <Position X="233.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAgCAAgAAMAAAAICQAAAgAAACDCQQAESAAgAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cSellers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.cSuppliers" Collapsed="true">
+    <Position X="237" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgCYSMgGJgggCMCgAgIQQAAEAAQgCiGTQAESAAwAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\cSuppliers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndPurchaseObjects.SalesClasses.QTyArray" Collapsed="true">
+    <Position X="230" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAAAAQAAAAAAAAABAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>SalesAndPurchaseObjects\SalesClasses\QTyArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseDaimond" Collapsed="true">
+    <Position X="46.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdN++vW++1/n///19b7/X9//F+//v/ff+7Kf/vfvrc=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseDaimond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseGold" Collapsed="true">
+    <Position X="60.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Xq9Na8vW+2xfn///19bb7X9/vF+//v/fP+7Kf/vfvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseReturnGold" Collapsed="true">
+    <Position X="73.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XrdNa8vW+2wfn///19bb7X9/vF+//v/fP+7Kf/vfvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseReturnGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseSaveDaimond" Collapsed="true">
+    <Position X="89.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdN++vW++xfn///19bb/X9//F+//v/ff+7Kf/vfvrc=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseSaveDaimond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseSaveDaimond1" Collapsed="true">
+    <Position X="103" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdN++vW++xfn///19bb/X9//F+//v/ff+7Kf/vfvrc=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseSaveDaimond1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierPurchaseUseGold" Collapsed="true">
+    <Position X="123.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdNa8vW+2wfn///19bb7X9/vF+//v/fP+7Kf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierPurchaseUseGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierSales" Collapsed="true">
+    <Position X="148" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqVdC8uW++0fn/9/1/bbr/9fvE+v/v/fP/7Pf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierSales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierSalesAlmas" Collapsed="true">
+    <Position X="163.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Xqdd68uW/+x/n///19bb7f9/vE+v/v/fP+7Kf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierSalesAlmas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierSalesGold" Collapsed="true">
+    <Position X="179.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqdNa8+W+2w/n///19bb7f9fvF+v/v/fP+7Kf/vfvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierSalesGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierSalesP" Collapsed="true">
+    <Position X="190.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqVNC8uW+2wfn/t/19bbjf9fvE+v/v/fP+7Kf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierSalesP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmCashierSalesPublic" Collapsed="true">
+    <Position X="199.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqVNC8uW+2wfn/t/19bbjf9fvE+v/v/fP+7Kf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmCashierSalesPublic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmEditSalePrice" Collapsed="true">
+    <Position X="213.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XqVdC8uW++wfn/t/1/bbj/9fvE+v/v/fP/7Lf/ufvrY=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmEditSalePrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.SalesAndSaleObjects.Transactions.frmSalesInvoice" Collapsed="true">
+    <Position X="222.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqVNC9uGcmAfnftv15bbzStfnEmq///fP8bKdjsNnuQ=</HashCode>
+      <FileName>SalesAndPurchaseObjects\Transactions\frmSalesInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Reports.frmItemBalance" Collapsed="true">
+    <Position X="19.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEwUOAulV6kmJGC6IGCjlwUKgCDJ/stQmF5ICTIElHk=</HashCode>
+      <FileName>StockObjects\Reports\frmItemBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Reports.frmStocktaking" Collapsed="true">
+    <Position X="33.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAFVYAikESFHJbCySEDLGRWCCyiN9ksAHlwAyTwAoFE=</HashCode>
+      <FileName>StockObjects\Reports\frmStocktaking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StcMainScreen.frmMainItemsBases" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIEIaAAAACAABCICEADAAoASACAKECgAAEQAAAAEAME=</HashCode>
+      <FileName>StockObjects\StcMainScreen\frmMainItemsBases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StcMainScreen.frmMainItemsBrands" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEIaAAAACAABCICEADAAoASAAAKEGgAAEQAAAAEAME=</HashCode>
+      <FileName>StockObjects\StcMainScreen\frmMainItemsBrands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StcMainScreen.frmMainItemsGroups" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEIaAAAACAABCICEADAAoASAAAKECgAAEQAAgAEAME=</HashCode>
+      <FileName>StockObjects\StcMainScreen\frmMainItemsGroups.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StcMainScreen.frmMainSizingUnits" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEIaAAAACAABCICEADAAoASACAKECgAAEQAAAAEAME=</HashCode>
+      <FileName>StockObjects\StcMainScreen\frmMainSizingUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StcMainScreen.frmMainStores" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIkIaEEAACAABCJCFAjAAoASAAIKECgBEEQAAAAEIME=</HashCode>
+      <FileName>StockObjects\StcMainScreen\frmMainStores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cBaracodeUpdate" Collapsed="true">
+    <Position X="230" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cBaracodeUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cCheckIfBarcodeExist" Collapsed="true">
+    <Position X="233.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAACAAAAAYAAAAAAAAAAQgAAACCAAAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cCheckIfBarcodeExist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cCheckIfItemWithUnitExist" Collapsed="true">
+    <Position X="235.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAACAAAAAYAAAAAAAAAAQgQAACCAAAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cCheckIfItemWithUnitExist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cCheckStores" Collapsed="true">
+    <Position X="237" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAACAAAAAYAAAAAAAAAAQgAAACCAAAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cCheckStores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cHR_District" Collapsed="true">
+    <Position X="231.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAQAAAgAAMAAAAIAQAAAAAAAAACQQAESgAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cHR_District.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cHR_Street" Collapsed="true">
+    <Position X="233.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAQAAAgAAMAAAAIAQAAAAAAAAACQQAESgAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cHR_Street.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItems" Collapsed="true">
+    <Position X="237" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAEAAAAgAMgAAAIAUAAAAAAAAgCRQAESAAgAg=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsBases" Collapsed="true">
+    <Position X="238.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAASAAAAAAAAMAAAAIAQAAAAAAAAACQQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsBases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsBrands" Collapsed="true">
+    <Position X="240.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAASAAAAAAAAMAAAAIAQAAAAAAAAACRQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsBrands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsColors" Collapsed="true">
+    <Position X="242.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAAAAAAAAMAAAAIAQAAAAAAAAACQQAESAAgAg=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsColors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsGroups" Collapsed="true">
+    <Position X="224.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAAAAAAAAMAAAAIAQAAAAAAAAACQQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsGroups.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsSizes" Collapsed="true">
+    <Position X="226.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAEAAAAAAMAAAAIAQAAAAAAAAACQQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsSizes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsStores" Collapsed="true">
+    <Position X="228.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAgAAAgAAMAAAAIAQBABAAAACCCQQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsStores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.StoresClasses.cItemsUnits" Collapsed="true">
+    <Position X="230" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAASAEAAAAAAMAAAAIAQAAAAAAAAACQQAESAAgAA=</HashCode>
+      <FileName>StockObjects\StoresClasses\cItemsUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Transactions.frmItemsDismantling" Collapsed="true">
+    <Position X="105.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QoAFCoyCeyAilKlowAaZgAmTIECozPsDCsTIEXsNhIQ=</HashCode>
+      <FileName>StockObjects\Transactions\frmItemsDismantling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Transactions.frmItemsInonBail" Collapsed="true">
+    <Position X="125.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UqQFSsuGO2EPlLro10abiQs/yFGp/PtDG4bLETuFBJU=</HashCode>
+      <FileName>StockObjects\Transactions\frmItemsInOnBail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Transactions.frmItemsOutOnBail" Collapsed="true">
+    <Position X="150.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UqQFSsuGO2EPlLro10abiQs/yFGp/PtDG4bLETuFBJU=</HashCode>
+      <FileName>StockObjects\Transactions\frmItemsOutOnBail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.StockObjects.Transactions.frmItemsTransfer" Collapsed="true">
+    <Position X="166" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SqQFCsuGMiAPlKtp1UebiQtfgEmo3PtDC4TIEDuFBYQ=</HashCode>
+      <FileName>StockObjects\Transactions\frmItemsTransfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Omex.DAL.Acc_DeclaringMainAccountsDAL" Collapsed="true">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Acc_AccountsDAL" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.BARCODESERACHDAL" Collapsed="true">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.cConnectionString" Collapsed="true">
+    <Position X="18.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.cConnectionStringMySql" Collapsed="true">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.CLIENTDAL" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.ConnectionHelper" Collapsed="true">
+    <Position X="17" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.DAL_Trans" Collapsed="true">
+    <Position X="24" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.GlobalConnection" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.HR_EmployeeFileDAL" Collapsed="true">
+    <Position X="20.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.MAINMENU" Collapsed="true">
+    <Position X="11.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.ProductModel" Collapsed="true">
+    <Position X="17" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseByMonthDAL" Collapsed="true">
+    <Position X="11.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Sales_CustomersDAL" Collapsed="true">
+    <Position X="22.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Sales_SalesDelegateDAL" Collapsed="true">
+    <Position X="20.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Sales_SellersDAL" Collapsed="true">
+    <Position X="24" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Sales_SuppliersDAL" Collapsed="true">
+    <Position X="25.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Security" Collapsed="true">
+    <Position X="13.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.STC_ITEMSGROUPS_DAL" Collapsed="true">
+    <Position X="13.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_ItemsInonBailDAL" Collapsed="true">
+    <Position X="15.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.STC_ITEMSSIZES_DAL" Collapsed="true">
+    <Position X="18.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.STC_ITEMSSOURCE_DAL" Collapsed="true">
+    <Position X="20.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_ItemTypesDAL" Collapsed="true">
+    <Position X="24" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_SizingUnitsDAL" Collapsed="true">
+    <Position X="25.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.STC_STORES_DAL" Collapsed="true">
+    <Position X="11.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.CheckReceiptVoucherDAL" Collapsed="true">
+    <Position X="22.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.CheckSpendVoucherDAL" Collapsed="true">
+    <Position X="24" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.CostCentersDAL" Collapsed="true">
+    <Position X="18.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.DeclaringIncomeAccountsDAL" Collapsed="true">
+    <Position X="25.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.DeclaringMainAccountsDAL" Collapsed="true">
+    <Position X="11.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.OpeningVoucherDAL" Collapsed="true">
+    <Position X="13.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.ReceiptVoucherDAL" Collapsed="true">
+    <Position X="18.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.RestrictionsDailyDAL" Collapsed="true">
+    <Position X="20.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.SpendVoucherDAL" Collapsed="true">
+    <Position X="15.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.VariousVoucherDAL" Collapsed="true">
+    <Position X="20.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Accounting.VariousVoucherMachinDAL" Collapsed="true">
+    <Position X="22.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Common.ClassManyFields" Collapsed="true">
+    <Position X="25.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Common.CurrencyInfo" Collapsed="true">
+    <Position X="22.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Common.GetMaxID" Collapsed="true">
+    <Position X="15.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Common.SystemSettings" Collapsed="true">
+    <Position X="13.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Lip" Collapsed="true">
+    <Position X="24" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Configuration.BranchesDAL" Collapsed="true">
+    <Position X="17" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Configuration.CompanyHeaderDAL" Collapsed="true">
+    <Position X="15.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Configuration.CurrencyDAL" Collapsed="true">
+    <Position X="20.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Configuration.GeneralSettingsDAL" Collapsed="true">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Configuration.StartNumberingDAL" Collapsed="true">
+    <Position X="17" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Inbox.InboxMessagesDAL" Collapsed="true">
+    <Position X="22.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Popup.PopupDAL" Collapsed="true">
+    <Position X="15.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_PurchaseGroupSuppliersDAL" Collapsed="true">
+    <Position X="24" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_PurchaseInvoicesDAL" Collapsed="true">
+    <Position X="25.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_PurchaseInvoicesReturnDAL" Collapsed="true">
+    <Position X="11.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_PurchaseInvoicesSaveDAL" Collapsed="true">
+    <Position X="13.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_PurchasesDelegateDAL" Collapsed="true">
+    <Position X="15.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_SaleInvoicesDAL" Collapsed="true">
+    <Position X="17" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_SaleInvoicesReturnDAL" Collapsed="true">
+    <Position X="18.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Sales_SalesGroupCustomersDAL" Collapsed="true">
+    <Position X="22.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Stc_ItemsOutonBailDAL" Collapsed="true">
+    <Position X="17" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.SalseSystem.Stc_ItemsTransferDAL" Collapsed="true">
+    <Position X="22.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.CloseCashierDAL" Collapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.HR_District_DAL" Collapsed="true">
+    <Position X="18.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_GoodsOpeningDAL" Collapsed="true">
+    <Position X="18.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_ItemsBasesDAL" Collapsed="true">
+    <Position X="20.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_ItemsBrandDAL" Collapsed="true">
+    <Position X="22.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_ItemsColorsDAL" Collapsed="true">
+    <Position X="24" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_itemsDAL" Collapsed="true">
+    <Position X="25.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Stc_itemDAL.Stc_ItemsDismantlingDAL" Collapsed="true">
+    <Position X="11.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EDEXV3.DAL.SysUesrDAL" Collapsed="true">
+    <Position X="15.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.UsersManagement.LoginValidation" Collapsed="true">
+    <Position X="25.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.UsersManagement.UsersManagementDAL" Collapsed="true">
+    <Position X="17" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.DAL.Validating.ValidatingDAL" Collapsed="true">
+    <Position X="18.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_AccountNature" Collapsed="true">
+    <Position X="28.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_Accounts" Collapsed="true">
+    <Position X="30.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_Accounts_SP_Result" Collapsed="true">
+    <Position X="32.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_AccountsLevels" Collapsed="true">
+    <Position X="34" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_AccountType" Collapsed="true">
+    <Position X="35.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_Banks" Collapsed="true">
+    <Position X="37.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckReceiptVoucherArb_Find" Collapsed="true">
+    <Position X="39.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckReceiptVoucherDetails" Collapsed="true">
+    <Position X="41" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckReceiptVoucherEng_Find" Collapsed="true">
+    <Position X="42.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckReceiptVoucherMaster" Collapsed="true">
+    <Position X="44.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckSpendVoucherArb_Find" Collapsed="true">
+    <Position X="46.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckSpendVoucherDetails" Collapsed="true">
+    <Position X="48" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckSpendVoucherEng_Find" Collapsed="true">
+    <Position X="49.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CheckSpendVoucherMaster" Collapsed="true">
+    <Position X="51.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ChequesUnderCollectionDetails" Collapsed="true">
+    <Position X="53.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ChequesUnderCollectionMaster" Collapsed="true">
+    <Position X="55" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CostCenters" Collapsed="true">
+    <Position X="56.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_CostCentersDetails" Collapsed="true">
+    <Position X="58.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_Currency" Collapsed="true">
+    <Position X="60.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DailyBoxArb_Find" Collapsed="true">
+    <Position X="28.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DailyBoxEng_Find" Collapsed="true">
+    <Position X="30.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DeclaringIncomeAccounts" Collapsed="true">
+    <Position X="32.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DeclaringIncomeAccountsTamplate" Collapsed="true">
+    <Position X="34" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DeclaringMainAccounts" Collapsed="true">
+    <Position X="35.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DeclaringMainAccountsTamplate" Collapsed="true">
+    <Position X="37.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DefaultAccountsLevels" Collapsed="true">
+    <Position X="39.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_DefaultAccountsTreeTemplate" Collapsed="true">
+    <Position X="41" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_NewAccountsTreeTamplate" Collapsed="true">
+    <Position X="42.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ReceiptVoucherArb_Find" Collapsed="true">
+    <Position X="44.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ReceiptVoucherDetails" Collapsed="true">
+    <Position X="46.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ReceiptVoucherEng_Find" Collapsed="true">
+    <Position X="48" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_ReceiptVoucherMaster" Collapsed="true">
+    <Position X="49.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_RestrictionTrancAction" Collapsed="true">
+    <Position X="51.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_SpendVoucherArb_Find" Collapsed="true">
+    <Position X="53.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_SpendVoucherDetails" Collapsed="true">
+    <Position X="55" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_SpendVoucherEng_Find" Collapsed="true">
+    <Position X="56.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_SpendVoucherMaster" Collapsed="true">
+    <Position X="58.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STATEMENT_GETWITHOUTDATE_SP_Result" Collapsed="true">
+    <Position X="60.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_CREDIT" Collapsed="true">
+    <Position X="28.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_DEBIT" Collapsed="true">
+    <Position X="30.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_DISCOUNT" Collapsed="true">
+    <Position X="32.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_RET_CREDIT" Collapsed="true">
+    <Position X="34" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_RET_DEBIT" Collapsed="true">
+    <Position X="35.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_RET_DISCOUNT" Collapsed="true">
+    <Position X="37.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_PUR_INV_TRANSPORT" Collapsed="true">
+    <Position X="39.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_RECPT_VOCHR_CREDIT" Collapsed="true">
+    <Position X="41" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_RECPT_VOCHR_DEBIT" Collapsed="true">
+    <Position X="42.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_RECPT_VOCHR_DISCOUNT" Collapsed="true">
+    <Position X="44.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_CREDIT" Collapsed="true">
+    <Position X="46.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_DEBIT" Collapsed="true">
+    <Position X="48" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_DISCOUNT" Collapsed="true">
+    <Position X="49.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_RET_CREDIT" Collapsed="true">
+    <Position X="51.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_RET_DEBIT" Collapsed="true">
+    <Position X="53.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SALE_INV_RET_DISCOUNT" Collapsed="true">
+    <Position X="55" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SPEND_VOCHR_CREDIT" Collapsed="true">
+    <Position X="56.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SPEND_VOCHR_DEBIT" Collapsed="true">
+    <Position X="58.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ACC_STT_SPEND_VOCHR_DISCOUNT" Collapsed="true">
+    <Position X="60.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_VariousVoucherAttachment" Collapsed="true">
+    <Position X="28.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_VariousVoucherDetails" Collapsed="true">
+    <Position X="30.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_VariousVoucherMachinDetails" Collapsed="true">
+    <Position X="32.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_VariousVoucherMaster" Collapsed="true">
+    <Position X="35.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Acc_VariousVoucherMachinMaster" Collapsed="true">
+    <Position X="34" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.AccountsDaily" Collapsed="true">
+    <Position X="37.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.AccountVoucherReport" Collapsed="true">
+    <Position X="39.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.AR_REPRS_DTLBO" Collapsed="true">
+    <Position X="41" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Arc_ArchiveAttachment" Collapsed="true">
+    <Position X="42.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Arc_ArchiveAttachmentFile" Collapsed="true">
+    <Position X="44.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Arc_ArchiveForm" Collapsed="true">
+    <Position X="46.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Arc_ArchiveType" Collapsed="true">
+    <Position X="48" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Arc_PreparingWayArchive" Collapsed="true">
+    <Position X="49.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Ast_AssetPosition" Collapsed="true">
+    <Position X="51.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Ast_AssetRecipient" Collapsed="true">
+    <Position X="53.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Ast_AssetsDeclaration" Collapsed="true">
+    <Position X="55" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Ast_AssetTransaction" Collapsed="true">
+    <Position X="56.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Ast_AssetTransactionOrder" Collapsed="true">
+    <Position X="58.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.BARCODESERACH_BO" Collapsed="true">
+    <Position X="60.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Branches" Collapsed="true">
+    <Position X="28.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CLIENTBO" Collapsed="true">
+    <Position X="30.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinc_ICD10Code" Collapsed="true">
+    <Position X="32.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_Answer" Collapsed="true">
+    <Position X="34" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_Clinics" Collapsed="true">
+    <Position X="35.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_InsuranceCard" Collapsed="true">
+    <Position X="37.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_InsuranceCompany" Collapsed="true">
+    <Position X="39.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CLINIC_PatientFile" Collapsed="true">
+    <Position X="41" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_Question" Collapsed="true">
+    <Position X="42.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Clinic_WaitList" Collapsed="true">
+    <Position X="44.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicAppointment" Collapsed="true">
+    <Position X="46.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicDoctors" Collapsed="true">
+    <Position X="48" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicMedicalList" Collapsed="true">
+    <Position X="49.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicPatientCase" Collapsed="true">
+    <Position X="51.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicPatientDaignose" Collapsed="true">
+    <Position X="53.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicPatientDiseas" Collapsed="true">
+    <Position X="55" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicPatientVisit" Collapsed="true">
+    <Position X="56.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ClinicPrescriptionVisit" Collapsed="true">
+    <Position X="58.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ColorsSettings" Collapsed="true">
+    <Position X="60.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Comon" Collapsed="true">
+    <Position X="28.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MySession" Collapsed="true">
+    <Position X="49.75" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CompanyDataBo" Collapsed="true">
+    <Position X="30.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CompanyHeader" Collapsed="true">
+    <Position X="32.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CostPricesTypes" Collapsed="true">
+    <Position X="34" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.CST_CNTRBO" Collapsed="true">
+    <Position X="35.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Currency" Collapsed="true">
+    <Position X="37.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.DashBoardBO" Collapsed="true">
+    <Position X="39.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.DateDiff" Collapsed="true">
+    <Position X="41" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.DateType" Collapsed="true">
+    <Position X="42.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.DetailedDailyTransactionArb" Collapsed="true">
+    <Position X="44.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.DetailedDailyTransactionEng" Collapsed="true">
+    <Position X="46.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_DresMakers" Collapsed="true">
+    <Position X="48" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_DressMakerGroups" Collapsed="true">
+    <Position X="49.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_FormsAndGroups" Collapsed="true">
+    <Position X="51.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_FormsGroups" Collapsed="true">
+    <Position X="53.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_InvoiceDetails" Collapsed="true">
+    <Position X="55" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_InvoiceMaster" Collapsed="true">
+    <Position X="56.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_ModelsDetails" Collapsed="true">
+    <Position X="58.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_ModelsMaster" Collapsed="true">
+    <Position X="60.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_SizeDressMaker" Collapsed="true">
+    <Position X="28.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Dress_TypesClothing" Collapsed="true">
+    <Position X="30.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Exp_ExportAttachment" Collapsed="true">
+    <Position X="32.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Exp_ExportedTo" Collapsed="true">
+    <Position X="34" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Exp_ExportForm" Collapsed="true">
+    <Position X="35.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Exp_ExportType" Collapsed="true">
+    <Position X="37.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Exp_PreparingWayExport" Collapsed="true">
+    <Position X="39.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Forms" Collapsed="true">
+    <Position X="41" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.GeneralSettings" Collapsed="true">
+    <Position X="42.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.GRP_ITEM_DTLBO" Collapsed="true">
+    <Position X="44.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_CheckIn" Collapsed="true">
+    <Position X="46.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_CheckInRooms" Collapsed="true">
+    <Position X="48" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_Deposits" Collapsed="true">
+    <Position X="49.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_EarlyDeparture" Collapsed="true">
+    <Position X="51.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_Floors" Collapsed="true">
+    <Position X="53.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_LostAndFound" Collapsed="true">
+    <Position X="55" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_OccupancyTable" Collapsed="true">
+    <Position X="56.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_OperationAndStatus" Collapsed="true">
+    <Position X="58.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_OutOfService" Collapsed="true">
+    <Position X="60.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_PaymentMethods" Collapsed="true">
+    <Position X="28.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RateTypes" Collapsed="true">
+    <Position X="30.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_Reservations" Collapsed="true">
+    <Position X="32.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_ReservedRooms" Collapsed="true">
+    <Position X="34" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomAmenities" Collapsed="true">
+    <Position X="35.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_Rooms" Collapsed="true">
+    <Position X="37.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomsImagesXX" Collapsed="true">
+    <Position X="39.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomsTariffe" Collapsed="true">
+    <Position X="41" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomStatus" Collapsed="true">
+    <Position X="42.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomsTypes" Collapsed="true">
+    <Position X="44.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_RoomsTypesAmenities" Collapsed="true">
+    <Position X="46.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_TransactionTable" Collapsed="true">
+    <Position X="48" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Hotels_WakeUpCall" Collapsed="true">
+    <Position X="49.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Administrations" Collapsed="true">
+    <Position X="51.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_AllowanceAndDeduction" Collapsed="true">
+    <Position X="53.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_AllowancesTypes" Collapsed="true">
+    <Position X="55" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_ContracType" Collapsed="true">
+    <Position X="56.75" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_DailyEmbloyee" Collapsed="true">
+    <Position X="58.5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_DeductionsTypes" Collapsed="true">
+    <Position X="60.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Departments" Collapsed="true">
+    <Position X="28.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_District" Collapsed="true">
+    <Position X="30.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeAllowance" Collapsed="true">
+    <Position X="32.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeCurrentStatus" Collapsed="true">
+    <Position X="34" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeExperiences" Collapsed="true">
+    <Position X="35.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeFile" Collapsed="true">
+    <Position X="37.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeIDs" Collapsed="true">
+    <Position X="39.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeIDsImages" Collapsed="true">
+    <Position X="41" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EmployeeQualifications" Collapsed="true">
+    <Position X="42.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_EndofServiceTypes" Collapsed="true">
+    <Position X="44.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Jobs" Collapsed="true">
+    <Position X="46.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_MonthlyAllowance" Collapsed="true">
+    <Position X="48" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_MonthlyDeduction" Collapsed="true">
+    <Position X="49.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Nationalities" Collapsed="true">
+    <Position X="51.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_OnAccountRequest" Collapsed="true">
+    <Position X="53.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_PaymentMethode" Collapsed="true">
+    <Position X="55" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Qualifications" Collapsed="true">
+    <Position X="56.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_RecordAbsent" Collapsed="true">
+    <Position X="58.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Religions" Collapsed="true">
+    <Position X="60.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_SalariesHistory" Collapsed="true">
+    <Position X="28.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_ScientificDisciplines" Collapsed="true">
+    <Position X="30.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_Sex" Collapsed="true">
+    <Position X="32.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_VacationBalance" Collapsed="true">
+    <Position X="34" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_VacationRequest" Collapsed="true">
+    <Position X="35.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_VacationsTypes" Collapsed="true">
+    <Position X="37.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.HR_WorkingTypes" Collapsed="true">
+    <Position X="39.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.IdentityTypes" Collapsed="true">
+    <Position X="41" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Imp_ImportAttachment" Collapsed="true">
+    <Position X="42.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Imp_ImportedFrom" Collapsed="true">
+    <Position X="44.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Imp_ImportForm" Collapsed="true">
+    <Position X="46.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Imp_ImportType" Collapsed="true">
+    <Position X="48" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Imp_ReferredTo" Collapsed="true">
+    <Position X="49.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Important" Collapsed="true">
+    <Position X="51.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.InboxMessages" Collapsed="true">
+    <Position X="53.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.ITEM_DTLBO" Collapsed="true">
+    <Position X="55" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.JS_WH_DTLBO" Collapsed="true">
+    <Position X="56.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.LoginHistory" Collapsed="true">
+    <Position X="58.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.LoginStatus" Collapsed="true">
+    <Position X="60.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.loginuser_Result" Collapsed="true">
+    <Position X="28.75" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Manu_ItemManufacturing_Details" Collapsed="true">
+    <Position X="30.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Manu_ItemManufacturing_Master" Collapsed="true">
+    <Position X="32.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Manu_ManufacturingOperations_Details" Collapsed="true">
+    <Position X="34" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Manu_ManufacturingOperations_Master" Collapsed="true">
+    <Position X="35.75" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Manu_ManufacturingOperations_StuffDetails" Collapsed="true">
+    <Position X="37.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Menus" Collapsed="true">
+    <Position X="39.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MessageTimerDetail" Collapsed="true">
+    <Position X="41" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MessageTimerMaster" Collapsed="true">
+    <Position X="42.75" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MessgaesRecipientInfo" Collapsed="true">
+    <Position X="44.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MonthsGre" Collapsed="true">
+    <Position X="46.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.MonthsHijri" Collapsed="true">
+    <Position X="48" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.NotificationTypes" Collapsed="true">
+    <Position X="51.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Other_ProjectExpenses" Collapsed="true">
+    <Position X="53.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Other_ProjectOffer" Collapsed="true">
+    <Position X="55" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Other_ProjectOutonBail" Collapsed="true">
+    <Position X="56.75" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Other_ProjectSaleInvoice" Collapsed="true">
+    <Position X="58.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.OtherPermissions" Collapsed="true">
+    <Position X="60.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Others_EntryAndLogOutEmployees" Collapsed="true">
+    <Position X="28.75" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Others_RequestExchangeFor_Details" Collapsed="true">
+    <Position X="30.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Others_RequestExchangeFor_Master" Collapsed="true">
+    <Position X="32.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Others_RequestForPaymentOf_Details" Collapsed="true">
+    <Position X="34" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Others_RequestForPaymentOf_Master" Collapsed="true">
+    <Position X="35.75" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.PriceAndQtyDigits" Collapsed="true">
+    <Position X="37.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.PriceItemsOffers" Collapsed="true">
+    <Position X="39.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Product" Collapsed="true">
+    <Position X="41" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Rent_SalesInvoiceReciveDetails" Collapsed="true">
+    <Position X="42.75" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Rent_SalesInvoiceReciveMaster" Collapsed="true">
+    <Position X="44.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Rent_SalesInvoiceTranseDetails" Collapsed="true">
+    <Position X="46.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Rent_SalesInvoiceTranseMaster" Collapsed="true">
+    <Position X="48" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Reports" Collapsed="true">
+    <Position X="49.75" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_DeletedOrderedItems" Collapsed="true">
+    <Position X="51.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ItemsInsurance_Details" Collapsed="true">
+    <Position X="53.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ItemsInsurance_Master" Collapsed="true">
+    <Position X="55" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ItemsInsuranceGroups" Collapsed="true">
+    <Position X="56.75" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ItemsInsuranceReturn_Details" Collapsed="true">
+    <Position X="58.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ItemsInsuranceReturn_Master" Collapsed="true">
+    <Position X="60.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_MealType" Collapsed="true">
+    <Position X="28.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Orders_Details" Collapsed="true">
+    <Position X="30.5" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Orders_Master" Collapsed="true">
+    <Position X="32.25" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Parties_Details" Collapsed="true">
+    <Position X="34" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Parties_Master" Collapsed="true">
+    <Position X="35.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_ReservedTables" Collapsed="true">
+    <Position X="37.5" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Sections" Collapsed="true">
+    <Position X="39.25" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Res_Tables" Collapsed="true">
+    <Position X="41" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.RestoringDeleted" Collapsed="true">
+    <Position X="42.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.RestrictionsDaily" Collapsed="true">
+    <Position X="44.5" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SalePricesTypes" Collapsed="true">
+    <Position X="46.25" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForPurchaseInvoiceArb_Find" Collapsed="true">
+    <Position X="48" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForPurchaseInvoiceEng_Find" Collapsed="true">
+    <Position X="49.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForPurchaseReturnArb_Find" Collapsed="true">
+    <Position X="51.5" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForPurchaseReturnEng_Find" Collapsed="true">
+    <Position X="53.25" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForSalesReturnArb_Find" Collapsed="true">
+    <Position X="55" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForSalesReturnEng_Find" Collapsed="true">
+    <Position X="56.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForSpecialOffersArb_Find" Collapsed="true">
+    <Position X="58.5" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_BarCodeForSpecialOffersEng_Find" Collapsed="true">
+    <Position X="60.25" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_Customers" Collapsed="true">
+    <Position X="28.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_CustomersAddress" Collapsed="true">
+    <Position X="30.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_DiscountOnTotal" Collapsed="true">
+    <Position X="32.25" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersArb" Collapsed="true">
+    <Position X="34" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersCustomer" Collapsed="true">
+    <Position X="35.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersDescription" Collapsed="true">
+    <Position X="37.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersDetails" Collapsed="true">
+    <Position X="39.25" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersEng" Collapsed="true">
+    <Position X="41" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersMaster" Collapsed="true">
+    <Position X="42.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PriceOffersStatus" Collapsed="true">
+    <Position X="44.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseGroupSuppliers" Collapsed="true">
+    <Position X="46.25" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoiceDetails" Collapsed="true">
+    <Position X="48" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseSaveInvoiceDetails" Collapsed="true">
+    <Position X="39.25" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoiceMaster" Collapsed="true">
+    <Position X="49.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoiceSaveMaster" Collapsed="true">
+    <Position X="56.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoiceReturnDetails" Collapsed="true">
+    <Position X="51.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoiceReturnMaster" Collapsed="true">
+    <Position X="53.25" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoicesArb" Collapsed="true">
+    <Position X="55" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoicesEng" Collapsed="true">
+    <Position X="58.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoicesReturnArb" Collapsed="true">
+    <Position X="60.25" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseInvoicesReturnEng" Collapsed="true">
+    <Position X="28.75" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseMethods" Collapsed="true">
+    <Position X="30.5" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseOrderArb" Collapsed="true">
+    <Position X="32.25" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseOrderDetails" Collapsed="true">
+    <Position X="34" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseOrderEng" Collapsed="true">
+    <Position X="35.75" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchaseOrderMaster" Collapsed="true">
+    <Position X="37.5" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_PurchasesDelegate" Collapsed="true">
+    <Position X="41" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_ReadBarCodeFromSalesInvoiceArb_Find" Collapsed="true">
+    <Position X="42.75" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesDelegate" Collapsed="true">
+    <Position X="44.5" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesGroupCustomers" Collapsed="true">
+    <Position X="46.25" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceArb" Collapsed="true">
+    <Position X="48" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceDetails" Collapsed="true">
+    <Position X="49.75" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceEng" Collapsed="true">
+    <Position X="51.5" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceMaster" Collapsed="true">
+    <Position X="53.25" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceReturn" Collapsed="true">
+    <Position X="55" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceReturnArb" Collapsed="true">
+    <Position X="56.75" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceReturnDetails" Collapsed="true">
+    <Position X="58.5" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceReturnEng" Collapsed="true">
+    <Position X="60.25" Y="19" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesInvoiceReturnMaster" Collapsed="true">
+    <Position X="28.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesMethodes" Collapsed="true">
+    <Position X="30.5" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SalesPerformance" Collapsed="true">
+    <Position X="32.25" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_Sellers" Collapsed="true">
+    <Position X="34" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SpecialOffersDetails" Collapsed="true">
+    <Position X="35.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_SpecialOffersMaster" Collapsed="true">
+    <Position X="37.5" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_Suppliers" Collapsed="true">
+    <Position X="39.25" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_TempSalesInvoiceDetails" Collapsed="true">
+    <Position X="41" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_TempSalesInvoiceMaster" Collapsed="true">
+    <Position X="42.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_TotalPurchase" Collapsed="true">
+    <Position X="44.5" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Sales_TotalSales" Collapsed="true">
+    <Position X="46.25" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SalesCashierClose" Collapsed="true">
+    <Position X="48" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SalseByMonthBo" Collapsed="true">
+    <Position X="49.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SalseInvoicesReport" Collapsed="true">
+    <Position X="51.5" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Schema_ContractSchema" Collapsed="true">
+    <Position X="53.25" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Schema_ContractSchemaDetail" Collapsed="true">
+    <Position X="55" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Schema_RecevMony" Collapsed="true">
+    <Position X="56.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SearchContact" Collapsed="true">
+    <Position X="58.5" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SMS_MessagesHistory" Collapsed="true">
+    <Position X="60.25" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SMS_RecipientGroups" Collapsed="true">
+    <Position X="28.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SMS_RecipientGroupsDetails" Collapsed="true">
+    <Position X="30.5" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SMS_RecipientGroupsMaster" Collapsed="true">
+    <Position X="32.25" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SMS_RecipientInfo" Collapsed="true">
+    <Position X="34" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.SpendVoucherEng" Collapsed="true">
+    <Position X="35.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.StartNumbering" Collapsed="true">
+    <Position X="37.5" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.StartNumberingTemplate" Collapsed="true">
+    <Position X="39.25" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ArbItems_Find" Collapsed="true">
+    <Position X="41" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_GoodOpeningDetails" Collapsed="true">
+    <Position X="42.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_GoodOpeningMaster" Collapsed="true">
+    <Position X="44.5" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_Items" Collapsed="true">
+    <Position X="48" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_Items_Find" Collapsed="true">
+    <Position X="49.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsBases" Collapsed="true">
+    <Position X="51.5" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsBrands" Collapsed="true">
+    <Position X="53.25" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsCategories" Collapsed="true">
+    <Position X="55" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsColors" Collapsed="true">
+    <Position X="56.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsDismantlingDetails" Collapsed="true">
+    <Position X="58.5" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsDismantlingMaster" Collapsed="true">
+    <Position X="60.25" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsGroups" Collapsed="true">
+    <Position X="28.75" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsInonBail_Details" Collapsed="true">
+    <Position X="30.5" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsInonBail_Master" Collapsed="true">
+    <Position X="32.25" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemSizingUnitsArb_Find" Collapsed="true">
+    <Position X="34" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemSizingUnitsEng_Find" Collapsed="true">
+    <Position X="35.75" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsOutonBail_Details" Collapsed="true">
+    <Position X="37.5" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsOutonBail_Master" Collapsed="true">
+    <Position X="39.25" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsSizes" Collapsed="true">
+    <Position X="41" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsSource" Collapsed="true">
+    <Position X="42.75" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsTransferDetails" Collapsed="true">
+    <Position X="44.5" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemsTransferMaster" Collapsed="true">
+    <Position X="46.25" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemTypes" Collapsed="true">
+    <Position X="48" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemUnits" Collapsed="true">
+    <Position X="49.75" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_ItemBarcode" Collapsed="true">
+    <Position X="46.25" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_RequestItemsExpenses_Details" Collapsed="true">
+    <Position X="51.5" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_RequestItemsExpenses_Master" Collapsed="true">
+    <Position X="53.25" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_SizingUnits" Collapsed="true">
+    <Position X="55" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_StocktakingAccordingTo" Collapsed="true">
+    <Position X="56.75" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_Stores" Collapsed="true">
+    <Position X="58.5" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.STC_STORES_GET_ALL_Result" Collapsed="true">
+    <Position X="60.25" Y="22" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.STC_STORESBO" Collapsed="true">
+    <Position X="28.75" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Stc_WaysOfOutItems" Collapsed="true">
+    <Position X="30.5" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.StickersSettings" Collapsed="true">
+    <Position X="32.25" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.TelephoneBook" Collapsed="true">
+    <Position X="34" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.temp2" Collapsed="true">
+    <Position X="35.75" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Temp3" Collapsed="true">
+    <Position X="37.5" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserInfo" Collapsed="true">
+    <Position X="44.5" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserBO" Collapsed="true">
+    <Position X="41" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserFormsPermissions" Collapsed="true">
+    <Position X="42.75" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserLinkRolePermission" Collapsed="true">
+    <Position X="46.25" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserMenusPermissions" Collapsed="true">
+    <Position X="48" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserOtherPermissions" Collapsed="true">
+    <Position X="49.75" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserPermissions" Collapsed="true">
+    <Position X="51.5" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserReportsPermissions" Collapsed="true">
+    <Position X="53.25" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.UserRoles" Collapsed="true">
+    <Position X="55" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Users" Collapsed="true">
+    <Position X="56.75" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.WeightDigits" Collapsed="true">
+    <Position X="58.5" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.YesNo" Collapsed="true">
+    <Position X="60.25" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Omex.Model.Language.Translator" Collapsed="true">
+    <Position X="39.25" Y="23" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Omex.RestaurantSystem.Transactions.ViewType" Collapsed="true">
+    <Position X="224.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>RestaurantSystem\Transactions\MasterDetailHelper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Omex.Model.Language.iLanguage" Collapsed="true">
+    <Position X="28.75" Y="24.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

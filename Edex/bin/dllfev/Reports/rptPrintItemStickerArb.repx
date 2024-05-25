@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="18.1.4.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptPrintItemStickerArb2" Margins="0, 0, 0, 0" PrinterName="ZDesigner GK420t" PaperKind="Custom" PageWidth="180" PageHeight="95" Version="18.1" DataMember="rptPrintItemSticker">
+  <Parameters>
+    <Item1 Ref="2" Description="CompanyName" Name="CompanyName" />
+  </Parameters>
+  <Bands>
+    <Item1 Ref="3" ControlType="DetailBand" Name="Detail" SnapLinePadding="5,5,5,5,100" HeightF="95.00001" TextAlignment="MiddleCenter" Padding="0,0,0,0,100">
+      <Controls>
+        <Item1 Ref="4" ControlType="XRLabel" Name="xrLabel4" Multiline="true" Text="xrLabel1" TextAlignment="MiddleRight" WordWrap="false" SizeF="124.190331,16.75002" LocationFloat="0, 5.00000143" Font="Times New Roman, 7pt" Padding="0,3,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="5" Expression="[ItemName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="6" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="7" ControlType="XRLabel" Name="xrLabel3" Multiline="true" Text="xrLabel1" WordWrap="false" SizeF="33.9346466,16.7500172" LocationFloat="146.065338, 5.00000143" Font="Times New Roman, 8pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="8" Expression="[SalePrice]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="9" UseFont="false" />
+        </Item2>
+        <Item3 Ref="10" ControlType="XRLabel" Name="xrLabel1" Multiline="true" Text="xrLabel1" WordWrap="false" SizeF="64.7916,17.87837" LocationFloat="100.8995, 46.91669" Font="Times New Roman, 8pt" Padding="0,0,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="11" Expression="[ExpiryDate]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="12" UseFont="false" UsePadding="false" />
+        </Item3>
+        <Item4 Ref="13" ControlType="XRLabel" Name="xrLabel2" Multiline="true" Text="xrLabel1" WordWrap="false" SizeF="163,14.66668" LocationFloat="4.999982, 64.79505" Font="Times New Roman, 8pt" Padding="0,0,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="14" Expression="[Parameters].[CompanyName]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="15" UseFont="false" UsePadding="false" />
+        </Item4>
+        <Item5 Ref="16" ControlType="XRBarCode" Name="BarCode" AutoModule="true" Alignment="MiddleCenter" BarCodeOrientation="UpsideDown" TextAlignment="MiddleCenter" ShowText="false" Text="Q.128445" SizeF="175,25.16667" LocationFloat="0, 21.750021" Font="Times New Roman, 12pt, style=Bold" Padding="8,10,0,0,100">
+          <Symbology Ref="17" Name="Code128" />
+          <ExpressionBindings>
+            <Item1 Ref="18" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="19" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="20" ControlType="XRLabel" Name="xrLabel5" Multiline="true" Text="xrLabel5" WordWrap="false" SizeF="95.89951,17.87836" LocationFloat="4.99998, 46.91669" Padding="0,0,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="21" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="22" UsePadding="false" />
+        </Item6>
+        <Item7 Ref="23" ControlType="XRLabel" Name="xrLabel6" Multiline="true" Text="ر.س" TextAlignment="MiddleRight" WordWrap="false" SizeF="21.8750076,16.7500153" LocationFloat="124.190331, 5.000008" Font="Arial, 8pt, charSet=0" Padding="2,2,0,0,100" Visible="false">
+          <StylePriority Ref="24" UseFont="false" UseTextAlignment="false" />
+        </Item7>
+      </Controls>
+      <StylePriority Ref="25" UseTextAlignment="false" />
+    </Item1>
+    <Item2 Ref="26" ControlType="TopMarginBand" Name="TopMargin" HeightF="0" TextAlignment="TopLeft" Padding="0,0,0,0,100" />
+    <Item3 Ref="27" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="0" TextAlignment="TopLeft" Padding="0,0,0,0,100" />
+  </Bands>
+  <ComponentStorage>
+    <Item1 Ref="28" ObjectType="DevExpress.DataAccess.Excel.ExcelDataSource,DevExpress.DataAccess.v18.1" Name="excelDataSource1" Base64="PEV4Y2VsRGF0YVNvdXJjZSBOYW1lPSJleGNlbERhdGFTb3VyY2UxIj48U2NoZW1hIC8+PFJlc3VsdFNjaGVtYSAvPjwvRXhjZWxEYXRhU291cmNlPg==" />
+  </ComponentStorage>
+</XtraReportsLayoutSerializer>

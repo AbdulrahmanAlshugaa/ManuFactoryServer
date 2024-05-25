@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="18.1.4.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptOrdersImage" Margins="23, 45, 139, 39" PageWidth="850" PageHeight="1100" Version="18.1">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="TopMargin" HeightF="139.248337">
+      <Controls>
+        <Item1 Ref="2" ControlType="XRSubreport" Name="subRptCompanyHeader" SizeF="774.0001,129.248337" LocationFloat="0, 10.0000067" />
+      </Controls>
+    </Item1>
+    <Item2 Ref="3" ControlType="DetailBand" Name="Detail" HeightF="799.7084">
+      <Controls>
+        <Item1 Ref="4" ControlType="XRPictureBox" Name="xrPictureBox1" Image="iVBORw0KGgoAAAANSUhEUgAAAiUAAALHCAIAAADeg6U1AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAACdJJREFUeF7t1TEBADAQA6H6N52q+JvABG8AcM83ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A0DBNwAUfANAwTcAFHwDQME3ABR8A8C97QN65HW7p98djgAAAABJRU5ErkJggg==" Sizing="StretchImage" ImageAlignment="MiddleCenter" SizeF="768.791565,791.375" LocationFloat="5.208254, 0">
+          <ExpressionBindings>
+            <Item1 Ref="5" Expression="[pic]" PropertyName="Image" EventName="BeforePrint" />
+          </ExpressionBindings>
+        </Item1>
+      </Controls>
+    </Item2>
+    <Item3 Ref="6" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="39" />
+    <Item4 Ref="7" ControlType="PageHeaderBand" Name="PageHeader" HeightF="31.25">
+      <Controls>
+        <Item1 Ref="8" ControlType="XRTable" Name="xrTable3" SizeF="771.9167,29.69642" LocationFloat="2.083435, 0">
+          <Rows>
+            <Item1 Ref="9" ControlType="XRTableRow" Name="xrTableRow10" Weight="1">
+              <Cells>
+                <Item1 Ref="10" ControlType="XRTableCell" Name="xrTableCell17" Weight="4.766192622043973" BackColor="255,218,218,218">
+                  <Controls>
+                    <Item1 Ref="11" ControlType="XRLabel" Name="label3" Multiline="true" Text="باركود الصورة" TextAlignment="MiddleCenter" SizeF="100,31.25" LocationFloat="378.041473, 0" Font="Traditional Arabic, 15pt, style=Bold" ForeColor="White" BackColor="Gray" Padding="2,2,0,0,96" BorderColor="White">
+                      <StylePriority Ref="12" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorderColor="false" UseTextAlignment="false" />
+                    </Item1>
+                    <Item2 Ref="13" ControlType="XRLabel" Name="xrLabel14" Text="xrLabel14" TextAlignment="MiddleRight" SizeF="149.645081,23" LocationFloat="498.0064, 3.000005" Font="Times New Roman, 12pt, style=Bold" ForeColor="255,192,0,0" Padding="2,2,0,0,100">
+                      <ExpressionBindings>
+                        <Item1 Ref="14" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+                      </ExpressionBindings>
+                      <StylePriority Ref="15" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+                    </Item2>
+                    <Item3 Ref="16" ControlType="XRPageInfo" Name="xrPageInfo3" PageInfo="DateTime" TextFormatString="{0:MMMM d, yyyy}" TextAlignment="TopRight" SizeF="138.5417,16.51192" LocationFloat="2.384186E-07, 9.488083" ForeColor="Black" Padding="2,2,0,0,100">
+                      <StylePriority Ref="17" UseForeColor="false" UseTextAlignment="false" />
+                    </Item3>
+                    <Item4 Ref="18" ControlType="XRLabel" Name="xrLabel9" Text=":التاريخ" TextAlignment="MiddleCenter" SizeF="41.66667,23" LocationFloat="138.5417, 6.696421" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+                      <StylePriority Ref="19" UseFont="false" UseTextAlignment="false" />
+                    </Item4>
+                    <Item5 Ref="20" ControlType="XRLabel" Name="label2" Text="xrLabel14" TextAlignment="MiddleRight" SizeF="94.43677,23" LocationFloat="211.458374, 3.000005" Font="Times New Roman, 12pt, style=Bold" ForeColor="255,192,0,0" Padding="2,2,0,0,100">
+                      <ExpressionBindings>
+                        <Item1 Ref="21" Expression="[BarCodeImage]" PropertyName="Text" EventName="BeforePrint" />
+                      </ExpressionBindings>
+                      <StylePriority Ref="22" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+                    </Item5>
+                  </Controls>
+                  <StylePriority Ref="23" UseBackColor="false" />
+                </Item1>
+                <Item2 Ref="24" ControlType="XRTableCell" Name="xrTableCell12" Weight="0.011487257190883615" BackColor="Transparent">
+                  <StylePriority Ref="25" UseBackColor="false" />
+                </Item2>
+                <Item3 Ref="26" ControlType="XRTableCell" Name="xrTableCell13" Weight="0.90300387843592755" Text="أمر التشغيل " TextAlignment="MiddleRight" Font="Traditional Arabic, 15pt, style=Bold, charSet=0" ForeColor="White" BackColor="Gray" Padding="0,6,0,0,100" BorderColor="White">
+                  <StylePriority Ref="27" UseFont="false" UseForeColor="false" UseBackColor="false" UsePadding="false" UseBorderColor="false" UseTextAlignment="false" />
+                </Item3>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item1>
+      </Controls>
+    </Item4>
+    <Item5 Ref="28" ControlType="PageFooterBand" Name="PageFooter" HeightF="41.6666679">
+      <Controls>
+        <Item1 Ref="29" ControlType="XRPageInfo" Name="xrPageInfo2" PageInfo="DateTime" TextFormatString="{0:MMMM d, yyyy}" TextAlignment="TopRight" SizeF="156.25,23" LocationFloat="617.7498, 0" ForeColor="Black" BackColor="Transparent" Padding="2,2,0,0,100">
+          <StylePriority Ref="30" UseForeColor="false" UseBackColor="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="31" ControlType="XRLabel" Name="label1" Text=" :باركود الطلبية " TextAlignment="MiddleRight" SizeF="82.29167,23" LocationFloat="428.385742, 0" Font="Times New Roman, 9.75pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="32" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="33" ControlType="XRBarCode" Name="BarCode" AutoModule="true" Alignment="MiddleCenter" BarCodeOrientation="UpsideDown" TextAlignment="MiddleCenter" ShowText="false" Text="Q.128445" SizeF="152.853,24.2975235" LocationFloat="264.322571, 0" Font="Times New Roman, 12pt, style=Bold" Padding="8,10,0,0,100">
+          <Symbology Ref="34" Name="Code128" />
+          <ExpressionBindings>
+            <Item1 Ref="35" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="36" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="37" ControlType="XRLabel" Name="xrLabel5" Multiline="true" Text="xrLabel5" TextAlignment="MiddleLeft" SizeF="81.651825,11.5671158" LocationFloat="330.202972, 24.2975235" Font="Times New Roman, 7pt, style=Bold" Padding="0,0,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="38" Expression="[BarCode]" PropertyName="Text" EventName="BeforePrint" />
+          </ExpressionBindings>
+          <StylePriority Ref="39" UseFont="false" UsePadding="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="40" ControlType="XRPageInfo" Name="xrPageInfo1" TextFormatString="Page {0} of {1}" SizeF="156.25,23" LocationFloat="0, 0" ForeColor="Black" Padding="2,2,0,0,100">
+          <StylePriority Ref="41" UseForeColor="false" />
+        </Item5>
+      </Controls>
+    </Item5>
+  </Bands>
+</XtraReportsLayoutSerializer>

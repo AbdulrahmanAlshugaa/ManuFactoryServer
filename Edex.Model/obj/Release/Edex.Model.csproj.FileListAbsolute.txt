@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\16092018\Edex.Model\bin\Release\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.Model\bin\Release\Edex.Model.pdb
+C:\Users\user\Desktop\16092018\Edex.Model\obj\Release\Edex.Model.dll
+C:\Users\user\Desktop\16092018\Edex.Model\obj\Release\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\bin\Release\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\bin\Release\Edex.Model.pdb
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\obj\Release\Edex.Model.dll
+D:\نسخة الالماس للمعارض مع القيود\DaimondDev\Edex.Model\obj\Release\Edex.Model.pdb

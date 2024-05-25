@@ -1,0 +1,30 @@
+ 
+
+delete from UserFormsPermissions
+where BranchID>1
+
+delete from Users
+where BranchID>1
+
+
+delete from Acc_Accounts
+where BranchID>1
+
+delete from Acc_AccountsLevels
+where BranchID>1
+
+
+delete from Acc_DeclaringMainAccounts
+where BranchID>1
+
+
+delete from Acc_CostCenters
+where BranchID>1
+
+delete from Stc_Stores
+where BranchID>1
+
+
+
+delete from Branches
+where BranchID>1
