@@ -116,12 +116,12 @@ namespace Edex.AccountsObjects.Codes
             {
                 return new MyTreeListNode(nodeID, owner);
             }
-            protected override void InternalNodeChanged(TreeListNode node, NodeChangeTypeEnum changeType)
-            {
-                if (changeType == NodeChangeTypeEnum.User1)
-                    LayoutChanged();
-                base.InternalNodeChanged(node, changeType);
-            }
+            //protected override void InternalNodeChanged(TreeListNode node, NodeChangeTypeEnum changeType)
+            //{
+            //    if (changeType == NodeChangeTypeEnum.User1)
+            //        LayoutChanged();
+            //    //base.InternalNodeChanged(node, changeType);
+            //}
             protected override void RaiseCalcNodeHeight(TreeListNode node, ref int nodeHeight)
             {
                 MyTreeListNode myNode = node as MyTreeListNode;

@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Edex.exe.manifest" size="170912">
+    <dependentAssembly dependencyType="install" codebase="Edex.exe.manifest" size="157082">
       <assemblyIdentity name="Edex.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cjekRMYtUfnqQuUD8K075IYdj1S1QTWTmwCV4gZIPOU=</dsig:DigestValue>
+        <dsig:DigestValue>SAqvrB4FWwoqFFCT3khvyFvZbSOqz5kqL7X4U/JApqw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

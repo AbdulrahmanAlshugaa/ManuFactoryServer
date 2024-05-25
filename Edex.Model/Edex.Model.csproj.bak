@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Edex.Model</RootNamespace>
     <AssemblyName>Edex.Model</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,10 +31,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="HtmlAgilityPack.NetCore">
+      <HintPath>..\packages\HtmlAgilityPack.NetCore.1.5.0.1\lib\net45\HtmlAgilityPack.NetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ServicePointManagerExtensions">
+      <HintPath>..\packages\ServicePointManagerExtensions.1.0.2\lib\net45\ServicePointManagerExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Windows.Forms" />
@@ -52,6 +64,7 @@
     <Compile Include="Acc_Accounts_SP_Result.cs" />
     <Compile Include="Acc_AccountType.cs" />
     <Compile Include="Acc_Banks.cs" />
+    <Compile Include="Acc_Boxes.cs" />
     <Compile Include="Acc_CheckReceiptVoucherArb_Find.cs" />
     <Compile Include="Acc_CheckReceiptVoucherDetails.cs" />
     <Compile Include="Acc_CheckReceiptVoucherEng_Find.cs" />
@@ -119,7 +132,6 @@
     <Compile Include="Ast_AssetTransactionOrder.cs" />
     <Compile Include="BARCODESERACH_BO.cs" />
     <Compile Include="Branches.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="CLIENTBO.cs" />
     <Compile Include="Clinc_ICD10Code.cs" />
     <Compile Include="ClinicAppointment.cs" />
@@ -142,8 +154,10 @@
     <Compile Include="CompanyDataBo.cs" />
     <Compile Include="CompanyHeader.cs" />
     <Compile Include="CostPricesTypes.cs" />
+    <Compile Include="cSTORESETTING.cs" />
     <Compile Include="CST_CNTRBO.cs" />
     <Compile Include="Currency.cs" />
+    <Compile Include="CURRENCY_BO.cs" />
     <Compile Include="DashBoardBO.cs" />
     <Compile Include="DateDiff.cs" />
     <Compile Include="DateType.cs" />
@@ -196,6 +210,7 @@
     <Compile Include="HR_DailyEmbloyee.cs" />
     <Compile Include="HR_DeductionsTypes.cs" />
     <Compile Include="HR_Departments.cs" />
+    <Compile Include="HR_District.cs" />
     <Compile Include="HR_EmployeeAllowance.cs" />
     <Compile Include="HR_EmployeeCurrentStatus.cs" />
     <Compile Include="HR_EmployeeExperiences.cs" />
@@ -234,15 +249,48 @@
     <Compile Include="LoginHistory.cs" />
     <Compile Include="LoginStatus.cs" />
     <Compile Include="loginuser_Result.cs" />
+    <Compile Include="ManuFactoryCastingType.cs" />
+    <Compile Include="Manu_AfforestationFactoryDetails.cs" />
+    <Compile Include="Manu_AfforestationFactoryMaster.cs" />
+    <Compile Include="Manu_AllOrdersDetails.cs" />
+    <Compile Include="Manu_AuxiliaryMaterialsDetails.cs" />
+    <Compile Include="Manu_AuxiliaryMaterialsMaster.cs" />
+    <Compile Include="Manu_CadWaxDiamondZirconAfforistStages.cs" />
+    <Compile Include="Manu_CadWaxFactoryDetails.cs" />
+    <Compile Include="Manu_CadWaxFactoryMaster.cs" />
+    <Compile Include="Manu_CloseOrdersDetails.cs" />
+    <Compile Include="Manu_CloseOrdersMaster.cs" />
     <Compile Include="Manu_ItemManufacturing_Details.cs" />
     <Compile Include="Manu_ItemManufacturing_Master.cs" />
+    <Compile Include="Manu_ManufacturingCastingDetails.cs" />
+    <Compile Include="Manu_ManufacturingCastingMaster.cs" />
     <Compile Include="Manu_ManufacturingOperations_Details.cs" />
     <Compile Include="Manu_ManufacturingOperations_Master.cs" />
     <Compile Include="Manu_ManufacturingOperations_StuffDetails.cs" />
+    <Compile Include="Manu_ManufacturingTheFactoryDetails.cs" />
+    <Compile Include="Manu_OrderRestriction.cs" />
+    <Compile Include="Manu_TheFactoryManufacturing_Master.cs" />
+    <Compile Include="Manu_TypeOrders.cs" />
+    <Compile Include="Manu_ZirconDiamondFactoryDetails.cs" />
+    <Compile Include="Manu_ZirconDiamondFactoryMaster.cs" />
     <Compile Include="Menus.cs" />
+    <Compile Include="Menu_FactoryMachine.cs" />
+    <Compile Include="Menu_FactoryOrderDetails.cs" />
+    <Compile Include="Menu_FactoryRunCommandCompund.cs" />
+    <Compile Include="Menu_FactoryRunCommandDismant.cs" />
+    <Compile Include="Menu_FactoryRunCommandGold.cs" />
+    <Compile Include="Menu_FactoryRunCommandMaster.cs" />
+    <Compile Include="Menu_FactoryRunCommandPrentagAndPulishn.cs" />
+    <Compile Include="Menu_FactoryRunCommandSelver.cs" />
+    <Compile Include="Menu_FactoryRunCommandTalmee.cs" />
+    <Compile Include="Menu_ProductionExpenses.cs" />
+    <Compile Include="Menu_ProductionExpensesAcconts.cs" />
+    <Compile Include="Menu_ProductionExpensesMaster.cs" />
     <Compile Include="MessageTimerDetail.cs" />
     <Compile Include="MessageTimerMaster.cs" />
     <Compile Include="MessgaesRecipientInfo.cs" />
+    <Compile Include="Mnu_ReturnFilingsDetails.cs" />
+    <Compile Include="Mnu_ReturnFilingsMaster.cs" />
     <Compile Include="MonthsGre.cs" />
     <Compile Include="MonthsHijri.cs" />
     <Compile Include="NotificationTypes.cs" />
@@ -257,6 +305,7 @@
     <Compile Include="Other_ProjectOutonBail.cs" />
     <Compile Include="Other_ProjectSaleInvoice.cs" />
     <Compile Include="PriceAndQtyDigits.cs" />
+    <Compile Include="PriceItemsOffers.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rent_SalesInvoiceReciveDetails.cs" />
@@ -281,6 +330,7 @@
     <Compile Include="Res_Sections.cs" />
     <Compile Include="Res_Tables.cs" />
     <Compile Include="SalePricesTypes.cs" />
+    <Compile Include="SalesCashierClose.cs" />
     <Compile Include="Sales_BarCodeForPurchaseInvoiceArb_Find.cs" />
     <Compile Include="Sales_BarCodeForPurchaseInvoiceEng_Find.cs" />
     <Compile Include="Sales_BarCodeForPurchaseReturnArb_Find.cs" />
@@ -289,7 +339,9 @@
     <Compile Include="Sales_BarCodeForSalesReturnEng_Find.cs" />
     <Compile Include="Sales_BarCodeForSpecialOffersArb_Find.cs" />
     <Compile Include="Sales_BarCodeForSpecialOffersEng_Find.cs" />
+    <Compile Include="Sales_CustomerCategory.cs" />
     <Compile Include="Sales_Customers.cs" />
+    <Compile Include="Sales_CustomersAddress.cs" />
     <Compile Include="Sales_DiscountOnTotal.cs" />
     <Compile Include="Sales_PriceOffersArb.cs" />
     <Compile Include="Sales_PriceOffersCustomer.cs" />
@@ -298,12 +350,18 @@
     <Compile Include="Sales_PriceOffersEng.cs" />
     <Compile Include="Sales_PriceOffersMaster.cs" />
     <Compile Include="Sales_PriceOffersStatus.cs" />
+    <Compile Include="Sales_PurchaseDiamondDetails.cs" />
     <Compile Include="Sales_PurchaseGroupSuppliers.cs" />
     <Compile Include="Sales_PurchaseInvoiceDetails.cs" />
     <Compile Include="Sales_PurchaseInvoiceMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoiceMatirialDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceMatirialMaster.cs" />
     <Compile Include="Sales_PurchaseInvoiceReturnDetails.cs" />
     <Compile Include="Sales_PurchaseInvoiceReturnMaster.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnMatirialDetails.cs" />
+    <Compile Include="Sales_PurchaseInvoiceReturnMatirialMaster.cs" />
     <Compile Include="Sales_PurchaseInvoicesArb.cs" />
+    <Compile Include="Sales_PurchaseInvoiceSaveReturnMaster.cs" />
     <Compile Include="Sales_PurchaseInvoicesEng.cs" />
     <Compile Include="Sales_PurchaseInvoicesReturnArb.cs" />
     <Compile Include="Sales_PurchaseInvoicesReturnEng.cs" />
@@ -312,6 +370,7 @@
     <Compile Include="Sales_PurchaseOrderDetails.cs" />
     <Compile Include="Sales_PurchaseOrderEng.cs" />
     <Compile Include="Sales_PurchaseOrderMaster.cs" />
+    <Compile Include="Sales_PurchaseSaveInvoiceReturnDetails.cs" />
     <Compile Include="Sales_PurchasesDelegate.cs" />
     <Compile Include="Sales_ReadBarCodeFromSalesInvoiceArb_Find.cs" />
     <Compile Include="Sales_SalesDelegate.cs" />
@@ -326,6 +385,8 @@
     <Compile Include="Sales_SalesInvoiceReturnEng.cs" />
     <Compile Include="Sales_SalesInvoiceReturnMaster.cs" />
     <Compile Include="Sales_SalesMethodes.cs" />
+    <Compile Include="Sales_SalesOrderDetails.cs" />
+    <Compile Include="Sales_SalesOrderMaster.cs" />
     <Compile Include="Sales_SalesPerformance.cs" />
     <Compile Include="Sales_Sellers.cs" />
     <Compile Include="Sales_SpecialOffersDetails.cs" />
@@ -350,6 +411,12 @@
     <Compile Include="StartNumbering.cs" />
     <Compile Include="StartNumberingTemplate.cs" />
     <Compile Include="Stc_ArbItems_Find.cs" />
+    <Compile Include="Stc_GoldInonBail_Details.cs" />
+    <Compile Include="Stc_GoldInonBail_Master.cs" />
+    <Compile Include="Stc_GoldOutOnBail_Details.cs" />
+    <Compile Include="Stc_GoldOutOnBail_Master.cs" />
+    <Compile Include="Stc_GoodOpeningDetails.cs" />
+    <Compile Include="Stc_GoodOpeningMaster.cs" />
     <Compile Include="Stc_Items.cs" />
     <Compile Include="Stc_ItemsBases.cs" />
     <Compile Include="Stc_ItemsBrands.cs" />
@@ -362,6 +429,7 @@
     <Compile Include="Stc_ItemsInonBail_Master.cs" />
     <Compile Include="Stc_ItemSizingUnitsArb_Find.cs" />
     <Compile Include="Stc_ItemSizingUnitsEng_Find.cs" />
+    <Compile Include="Stc_ItemsMoviing.cs" />
     <Compile Include="Stc_ItemsOutonBail_Details.cs" />
     <Compile Include="Stc_ItemsOutonBail_Master.cs" />
     <Compile Include="Stc_ItemsSizes.cs" />
@@ -372,6 +440,12 @@
     <Compile Include="Stc_ItemTypeBO.cs" />
     <Compile Include="Stc_ItemTypes.cs" />
     <Compile Include="Stc_ItemUnits.cs" />
+    <Compile Include="Stc_ManuFactoryCommendOutOnBail_Details.cs" />
+    <Compile Include="Stc_ManuFactoryCommendOutOnBail_Master.cs" />
+    <Compile Include="Stc_MatirialInonBail_Details.cs" />
+    <Compile Include="Stc_MatirialInonBail_Master.cs" />
+    <Compile Include="Stc_MatirialOutOnBail_Details.cs" />
+    <Compile Include="Stc_MatirialOutOnBail_Master.cs" />
     <Compile Include="Stc_RequestItemsExpenses_Details.cs" />
     <Compile Include="Stc_RequestItemsExpenses_Master.cs" />
     <Compile Include="Stc_SizingUnits.cs" />
@@ -379,6 +453,11 @@
     <Compile Include="Stc_Stores.cs" />
     <Compile Include="STC_STORESBO.cs" />
     <Compile Include="STC_STORES_GET_ALL_Result.cs" />
+    <Compile Include="Stc_TransferMultipleStoresGold_Details.cs" />
+    <Compile Include="Stc_TransferMultipleStoresGold_Master.cs" />
+    <Compile Include="Stc_TransferMultipleStoresMatirial_Details.cs" />
+    <Compile Include="Stc_TransferMultipleStoresMatirial_Master.cs" />
+    <Compile Include="stc_TransferTransactionItems.cs" />
     <Compile Include="Stc_WaysOfOutItems.cs" />
     <Compile Include="StickersSettings.cs" />
     <Compile Include="TelephoneBook.cs" />
@@ -393,8 +472,12 @@
     <Compile Include="UserReportsPermissions.cs" />
     <Compile Include="UserRoles.cs" />
     <Compile Include="Users.cs" />
+    <Compile Include="UserFormsFovorite.cs" />
     <Compile Include="WeightDigits.cs" />
     <Compile Include="YesNo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -507,3 +507,14 @@ D:\v3.3\ManuFactoryAfterConf\Edex.DAL\bin\Debug\Newtonsoft.Json.xml
 D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
 D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.dll
 D:\v3.3\ManuFactoryAfterConf\Edex.DAL\obj\Debug\Edex.DAL.pdb
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Edex.DAL.dll
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Edex.DAL.pdb
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Edex.Model.dll
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\HtmlAgilityPack.NetCore.dll
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\ServicePointManagerExtensions.dll
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Edex.Model.pdb
+D:\ManuFactoryServer\Edex.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\ManuFactoryServer\Edex.DAL\obj\Debug\Edex.DAL.csprojResolveAssemblyReference.cache
+D:\ManuFactoryServer\Edex.DAL\obj\Debug\Edex.DAL.dll
+D:\ManuFactoryServer\Edex.DAL\obj\Debug\Edex.DAL.pdb

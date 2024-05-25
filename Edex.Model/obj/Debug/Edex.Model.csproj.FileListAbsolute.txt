@@ -655,3 +655,12 @@ D:\v3.3\ManuFactoryAfterConf\Edex.Model\bin\Debug\Newtonsoft.Json.xml
 D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.dll
 D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.pdb
 D:\v3.3\ManuFactoryAfterConf\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\ManuFactoryServer\Edex.Model\bin\Debug\Edex.Model.dll
+D:\ManuFactoryServer\Edex.Model\bin\Debug\Edex.Model.pdb
+D:\ManuFactoryServer\Edex.Model\bin\Debug\HtmlAgilityPack.NetCore.dll
+D:\ManuFactoryServer\Edex.Model\bin\Debug\Newtonsoft.Json.dll
+D:\ManuFactoryServer\Edex.Model\bin\Debug\ServicePointManagerExtensions.dll
+D:\ManuFactoryServer\Edex.Model\bin\Debug\Newtonsoft.Json.xml
+D:\ManuFactoryServer\Edex.Model\obj\Debug\Edex.Model.csprojResolveAssemblyReference.cache
+D:\ManuFactoryServer\Edex.Model\obj\Debug\Edex.Model.dll
+D:\ManuFactoryServer\Edex.Model\obj\Debug\Edex.Model.pdb

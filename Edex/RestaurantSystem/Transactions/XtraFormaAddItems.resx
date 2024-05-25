@@ -220,7 +220,7 @@
     <value>86, 20</value>
   </data>
   <data name="&gt;&gt;repositoryItemHyperLinkEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemHyperLinkEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemHyperLinkEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl27.Location" type="System.Drawing.Point, System.Drawing">
     <value>313, 85</value>
@@ -283,7 +283,7 @@
     <value>12</value>
   </data>
   <data name="&gt;&gt;labelControl7.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="Label17.Location" type="System.Drawing.Point, System.Drawing">
     <value>906, 142</value>
@@ -304,7 +304,7 @@
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelControl29.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="cmbFormPrinting.Properties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -316,7 +316,7 @@
     <value>lblDebitAccountName</value>
   </data>
   <data name="&gt;&gt;lblChequeAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnMinus.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -325,7 +325,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;btnSeven.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl29.Location" type="System.Drawing.Point, System.Drawing">
     <value>49, 3</value>
@@ -369,8 +369,8 @@
   <data name="btnCash_Net.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
   </data>
-  <assembly alias="DevExpress.XtraEditors.v18.1" name="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="txtEnteredByUserID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <assembly alias="DevExpress.XtraEditors.v18.2" name="DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="txtEnteredByUserID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="simpleButton14.Appearance.Font" type="System.Drawing.Font, System.Drawing">
@@ -391,7 +391,7 @@
   <data name="lblEnteredByUserName.Properties.Mask.EditMask" xml:space="preserve">
     <value />
   </data>
-  <data name="txtVatID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtVatID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtInsuranceAmmount.Properties.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
@@ -431,7 +431,7 @@
     <value>panelControl22</value>
   </data>
   <data name="&gt;&gt;txtEnteredByUserID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDebitAccountID.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -454,7 +454,7 @@
   <data name="txtNetAmount.Size" type="System.Drawing.Size, System.Drawing">
     <value>82, 26</value>
   </data>
-  <data name="lblAdditionalAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAdditionalAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="panelControl12.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -464,7 +464,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl3.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;checkBox2.ZOrder" xml:space="preserve">
     <value>20</value>
@@ -488,9 +488,9 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;panelControl23.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="lblDebitAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDebitAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="panelControl12.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
@@ -500,7 +500,7 @@
     <value>-1</value>
   </data>
   <data name="&gt;&gt;labelControl14.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton3.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -542,14 +542,14 @@
     <value>panelControl24</value>
   </data>
   <data name="&gt;&gt;simpleButton5.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <assembly alias="DevExpress.Utils.v18.1" name="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="txtWarningDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <assembly alias="DevExpress.Utils.v18.2" name="DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="txtWarningDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="&gt;&gt;labelControl23.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnDebitSearch.ZOrder" xml:space="preserve">
     <value>26</value>
@@ -576,13 +576,13 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;lblStoreName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl25.Location" type="System.Drawing.Point, System.Drawing">
     <value>664, 538</value>
   </data>
   <data name="&gt;&gt;layoutViewField_colEmail.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblAddressCustomerName.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 6</value>
@@ -612,12 +612,12 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;gridControl2.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="cmbBank.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtVatID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtVatID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnCash_Net.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
@@ -630,7 +630,7 @@
     <value>Transparent</value>
   </data>
   <data name="&gt;&gt;panelControl25.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtNetProcessID.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -678,7 +678,7 @@
     <value />
   </data>
   <data name="&gt;&gt;gridColumn6.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtEditedByUserID.Properties.Mask.SaveLiteral" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -686,7 +686,7 @@
   <data name="lblCreditAccountName.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="lblSellerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblSellerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;panelControl2.ZOrder" xml:space="preserve">
@@ -717,13 +717,13 @@
     <value />
   </data>
   <data name="&gt;&gt;labelControl16.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblBankName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;layoutView1.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutView, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutView, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDailyID.Properties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -758,11 +758,11 @@
   <data name="labelControl32.Appearance.ForeColor" type="System.Drawing.Color, System.Drawing">
     <value>Gray</value>
   </data>
-  <data name="txtNetAmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNetAmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;panelControl7.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnSave.ImageOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -778,7 +778,7 @@
 </value>
   </data>
   <data name="&gt;&gt;btnNine.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl34.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -792,7 +792,7 @@
   <data name="txtSellerID.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblStoreName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblStoreName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl27.Size" type="System.Drawing.Size, System.Drawing">
@@ -817,7 +817,7 @@
     <value>193, 117</value>
   </data>
   <data name="&gt;&gt;lblNetProcessID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtWarningDate.Properties.CalendarTimeProperties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -872,7 +872,7 @@
     <value>38</value>
   </data>
   <data name="&gt;&gt;btnZero.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblAdditionaAmmount.Size" type="System.Drawing.Size, System.Drawing">
     <value>103, 24</value>
@@ -947,7 +947,7 @@
     <value>8</value>
   </data>
   <data name="&gt;&gt;repositoryItemMemoEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblAdditionalAccountName.Properties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -973,7 +973,7 @@
   <data name="txtCheckSpendDate.Properties.NullValuePrompt" xml:space="preserve">
     <value />
   </data>
-  <data name="lblDiscountDebitAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDiscountDebitAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblCostCenterName.Properties.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -989,7 +989,7 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;repositoryItemMemoEdit2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton4.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -1149,7 +1149,7 @@
     <value>btnNetSearch</value>
   </data>
   <data name="&gt;&gt;labelControl18.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton8.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -1161,7 +1161,7 @@
     <value>_</value>
   </data>
   <data name="&gt;&gt;labelControl34.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnTables.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -1203,7 +1203,7 @@
     <value>1476</value>
   </data>
   <data name="&gt;&gt;pnlDeliverContol.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewField_colEmail.AppearanceItemCaption.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -1232,7 +1232,7 @@
   <data name="&gt;&gt;txtDocumentID.ZOrder" xml:space="preserve">
     <value>36</value>
   </data>
-  <data name="lblChequeAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblChequeAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1256,7 +1256,7 @@
   <data name="txtInvoiceID.Location" type="System.Drawing.Point, System.Drawing">
     <value>1162, 7</value>
   </data>
-  <data name="lblChequeAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblChequeAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtEnteredByUserID.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1298,7 +1298,7 @@
   <data name="chkForVat.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtWarningDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtWarningDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>DateTime</value>
   </data>
   <data name="simpleButton1.Location" type="System.Drawing.Point, System.Drawing">
@@ -1338,7 +1338,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;lblNetAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton10.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>White</value>
@@ -1402,7 +1402,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.XtraForm, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.XtraForm, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="indexGridControl.EmbeddedNavigator.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -1455,13 +1455,13 @@
   <data name="labelControl2.Location" type="System.Drawing.Point, System.Drawing">
     <value>-168, 131</value>
   </data>
-  <data name="lblCustomerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCustomerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;txtStoreID.Parent" xml:space="preserve">
     <value>panelControl6</value>
   </data>
-  <data name="repositoryItemLookUpEdit2.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="repositoryItemLookUpEdit2.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="layoutViewColumn3.AppearanceCell.Font" type="System.Drawing.Font, System.Drawing">
@@ -1480,7 +1480,7 @@
     <value>_</value>
   </data>
   <data name="&gt;&gt;btnNew.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDiscountDebitAccountID.TabIndex" type="System.Int32, mscorlib">
     <value>964</value>
@@ -1561,7 +1561,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnOne.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl34.Appearance.ForeColor" type="System.Drawing.Color, System.Drawing">
     <value>Black</value>
@@ -1615,7 +1615,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnSix.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;panelControl9.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1626,7 +1626,7 @@
   <data name="lblStoreName.Properties.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="gridControl.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.1">
+  <data name="gridControl.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;btnSeven.Parent" xml:space="preserve">
@@ -1647,14 +1647,14 @@
   <data name="txtCostCenterID.Properties.Mask.EditMask" xml:space="preserve">
     <value>f0</value>
   </data>
-  <data name="txtAddressID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtAddressID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblNetAccountName.Size" type="System.Drawing.Size, System.Drawing">
     <value>205, 20</value>
   </data>
   <data name="&gt;&gt;labelControl25.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewField_colGender.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
     <value>-1</value>
@@ -1708,7 +1708,7 @@
     <value>panelControl8</value>
   </data>
   <data name="&gt;&gt;panelControl13.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;panelControl7.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -1722,11 +1722,11 @@
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
     <value>1024, 766</value>
   </data>
-  <data name="lblCreditAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCreditAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;btnCash_Net.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;txtInvoiceDate.Name" xml:space="preserve">
     <value>txtInvoiceDate</value>
@@ -1780,7 +1780,7 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;lblEnteredByUserName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl5.TabIndex" type="System.Int32, mscorlib">
     <value>947</value>
@@ -1873,7 +1873,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl26.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;simpleButton2.Parent" xml:space="preserve">
     <value>panelControl1</value>
@@ -1990,7 +1990,7 @@
   <data name="&gt;&gt;labelControl17.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="lblChequeAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblChequeAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;Label17.ZOrder" xml:space="preserve">
@@ -2003,7 +2003,7 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;repositoryItemLookUpEdit2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDebitAccountName.Properties.Mask.EditMask" xml:space="preserve">
     <value />
@@ -2038,11 +2038,11 @@
   <data name="simpleButton1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
   </data>
-  <data name="lblDebitAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDebitAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;cmbNetType.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnCash.Size" type="System.Drawing.Size, System.Drawing">
     <value>96, 40</value>
@@ -2171,7 +2171,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;labelControl22.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblCheckSpendDate.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt</value>
@@ -2183,7 +2183,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;labelControl4.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl11.Location" type="System.Drawing.Point, System.Drawing">
     <value>56, 76</value>
@@ -2206,7 +2206,7 @@
   <data name="txtInvoiceDate.Properties.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="txtNotes.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNotes.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtDiscountPercent.Location" type="System.Drawing.Point, System.Drawing">
@@ -2263,7 +2263,7 @@
     <value />
   </data>
   <data name="&gt;&gt;lblCreditAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnZero.Parent" xml:space="preserve">
     <value>pnlCalcuate</value>
@@ -2453,7 +2453,7 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;panelControl24.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="gridControl2.EmbeddedNavigator.Buttons.NextPage.Hint" xml:space="preserve">
     <value />
@@ -2500,7 +2500,7 @@
   <data name="lblDiscountTotal.Location" type="System.Drawing.Point, System.Drawing">
     <value>660, 506</value>
   </data>
-  <data name="txtDiscountOnTotal.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDiscountOnTotal.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;cmbCurency.Parent" xml:space="preserve">
@@ -2570,7 +2570,7 @@
     <value>Tahoma, 18pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;panelControl21.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDelegateName.Properties.Mask.EditMask" xml:space="preserve">
     <value />
@@ -2609,7 +2609,7 @@
     <value>13</value>
   </data>
   <data name="&gt;&gt;panelControl5.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblNetBalance.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
@@ -2621,18 +2621,18 @@
     <value>1392</value>
   </data>
   <data name="&gt;&gt;lblCheckSpendDate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn6.Name" xml:space="preserve">
     <value>layoutViewColumn6</value>
   </data>
-  <data name="repositoryItemTextEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemTextEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtDailyID.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
   </data>
-  <data name="txtDiscountOnTotal.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDiscountOnTotal.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="pnlNetControl.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
@@ -2672,7 +2672,7 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;gridView2.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnCash_Net.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10pt, style=Bold</value>
@@ -2680,7 +2680,7 @@
   <data name="panelControl14.TabIndex" type="System.Int32, mscorlib">
     <value>1474</value>
   </data>
-  <data name="txtCheckSpendDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="txtCheckSpendDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="layoutViewField_layoutViewColumn2.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
@@ -2756,7 +2756,7 @@
     <value>1282, 15</value>
   </data>
   <data name="&gt;&gt;lblAddressCustomerName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtInvoiceDate.Properties.Mask.UseMaskAsDisplayFormat" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -2827,7 +2827,7 @@
   <data name="lblOrderType.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>Transparent</value>
   </data>
-  <data name="lblDelegateName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDelegateName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton2.Size" type="System.Drawing.Size, System.Drawing">
@@ -2860,7 +2860,7 @@
   <data name="panelControl22.TabIndex" type="System.Int32, mscorlib">
     <value>1479</value>
   </data>
-  <data name="lblDiscountDebitAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDiscountDebitAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblStoreName.TabIndex" type="System.Int32, mscorlib">
@@ -2892,7 +2892,7 @@
   <data name="repositoryItemHyperLinkEdit1.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="repositoryItemLookUpEdit3.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="repositoryItemLookUpEdit3.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="btnNetSearch.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
@@ -2955,7 +2955,7 @@
     <value>1398</value>
   </data>
   <data name="&gt;&gt;indexGridControl.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtSellerID.Size" type="System.Drawing.Size, System.Drawing">
     <value>45, 20</value>
@@ -3006,7 +3006,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;cmbBank.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl14.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
@@ -3021,7 +3021,7 @@
     <value>943</value>
   </data>
   <data name="&gt;&gt;simpleButton10.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDiscountDebitAccountID.Location" type="System.Drawing.Point, System.Drawing">
     <value>216, 227</value>
@@ -3149,7 +3149,7 @@
   <data name="&gt;&gt;labelControl20.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="lblCreditAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCreditAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl29.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -3219,7 +3219,7 @@
     <value>43, 20</value>
   </data>
   <data name="&gt;&gt;labelControl1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDailyID.Properties.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -3227,7 +3227,7 @@
   <data name="txtCheckSpendDate.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtInvoiceDate.Size" type="System.Drawing.Size, System.Drawing">
@@ -3255,7 +3255,7 @@
     <value>63, 12</value>
   </data>
   <data name="&gt;&gt;btnNet.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblWarningDate.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt</value>
@@ -3263,8 +3263,8 @@
   <data name="labelControl21.Size" type="System.Drawing.Size, System.Drawing">
     <value>111, 14</value>
   </data>
-  <assembly alias="DevExpress.Data.v18.1" name="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="layoutViewField_colEmail.HighlightFocusedItem" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.1">
+  <assembly alias="DevExpress.Data.v18.2" name="DevExpress.Data.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="layoutViewField_colEmail.HighlightFocusedItem" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.2">
     <value>True</value>
   </data>
   <data name="cmbLanguagePrint.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
@@ -3274,13 +3274,13 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn3.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnDiscountDebitSearch.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Center</value>
   </data>
   <data name="&gt;&gt;cmbCurency.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl24.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
@@ -3349,7 +3349,7 @@
     <value>1480</value>
   </data>
   <data name="&gt;&gt;txtNetAmount.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl6.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -3432,7 +3432,7 @@
   <data name="lblChequeAccountID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="repositoryItemButtonEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemButtonEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="indexGridControl.TabIndex" type="System.Int32, mscorlib">
@@ -3447,7 +3447,7 @@
   <data name="txtAddressID.Properties.Mask.EditMask" xml:space="preserve">
     <value>f0</value>
   </data>
-  <data name="lblDiscountDebitAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDiscountDebitAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;txtEnteredByUserID.ZOrder" xml:space="preserve">
@@ -3522,7 +3522,7 @@
   <data name="btnZero.Location" type="System.Drawing.Point, System.Drawing">
     <value>82, 214</value>
   </data>
-  <data name="txtSellerID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtSellerID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;btnNetSearch.ZOrder" xml:space="preserve">
@@ -3540,7 +3540,7 @@
   <data name="labelControl27.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
   </data>
-  <data name="gridControl2.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.1">
+  <data name="gridControl2.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.2">
     <value>Center</value>
   </data>
   <data name="labelControl12.TabIndex" type="System.Int32, mscorlib">
@@ -3565,7 +3565,7 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;txtDocumentID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDiscountOnTotal.Location" type="System.Drawing.Point, System.Drawing">
     <value>193, 78</value>
@@ -3595,7 +3595,7 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;txtDiscountOnTotal.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCostCenterID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3652,7 +3652,7 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;labelControl27.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewColumn3.AppearanceCell.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3673,7 +3673,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl16.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="Label17.Text" xml:space="preserve">
     <value>رقم المستند</value>
@@ -3685,7 +3685,7 @@
     <value>Tahoma, 9pt</value>
   </data>
   <data name="&gt;&gt;indexGridView.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="Label17.Size" type="System.Drawing.Size, System.Drawing">
     <value>69, 14</value>
@@ -3723,7 +3723,7 @@
   <data name="simpleButton8.Appearance.BorderColor" type="System.Drawing.Color, System.Drawing">
     <value>Transparent</value>
   </data>
-  <data name="txtWarningDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtWarningDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="gridControl.EmbeddedNavigator.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
@@ -3757,7 +3757,7 @@
     <value>panelControl10</value>
   </data>
   <data name="&gt;&gt;panelControl9.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtEditedByUserID.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -3768,7 +3768,7 @@
   <data name="&gt;&gt;repositoryItemLookUpEdit1.Name" xml:space="preserve">
     <value>repositoryItemLookUpEdit1</value>
   </data>
-  <data name="txtCostCenterID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCostCenterID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="txtDocumentID.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
@@ -3810,7 +3810,7 @@
   <data name="btnPrint.Location" type="System.Drawing.Point, System.Drawing">
     <value>379, 0</value>
   </data>
-  <data name="gridControl.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.1">
+  <data name="gridControl.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.2">
     <value>Center</value>
   </data>
   <data name="layoutViewField_layoutViewColumn5.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
@@ -3844,7 +3844,7 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;lblAdditionalAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton9.Appearance.BorderColor" type="System.Drawing.Color, System.Drawing">
     <value>Transparent</value>
@@ -3868,7 +3868,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;simpleButton13.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblEnteredByUserName.Location" type="System.Drawing.Point, System.Drawing">
     <value>886, 249</value>
@@ -3967,7 +3967,7 @@
     <value>9, 183</value>
   </data>
   <data name="&gt;&gt;btnDelivery.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl23.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -3984,7 +3984,7 @@
   <data name="&gt;&gt;lblAddressCustomerName.Parent" xml:space="preserve">
     <value>pnlDeliverContol</value>
   </data>
-  <data name="lblEditedByUserName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblEditedByUserName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblOrderType.Location" type="System.Drawing.Point, System.Drawing">
@@ -3996,7 +3996,7 @@
   <data name="&gt;&gt;lblNumPrinting.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="txtCheckSpendDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCheckSpendDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="panelControl11.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -4015,7 +4015,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;panelControl19.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;repositoryItemMemoEdit2.Name" xml:space="preserve">
     <value>repositoryItemMemoEdit2</value>
@@ -4044,14 +4044,14 @@
   <data name="&gt;&gt;labelControl6.Name" xml:space="preserve">
     <value>labelControl6</value>
   </data>
-  <data name="repositoryItemButtonEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemButtonEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnPlus.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
   <data name="&gt;&gt;lblCreditAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;repositoryItemLookUpEdit3.Name" xml:space="preserve">
     <value>repositoryItemLookUpEdit3</value>
@@ -4136,17 +4136,17 @@
   <data name="txtEnteredByUserID.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="gridControl2.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.1">
+  <data name="gridControl2.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.2">
     <value>None</value>
   </data>
   <data name="btnCash_Net.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="repositoryItemHyperLinkEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemHyperLinkEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;btnEight.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton12.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4211,7 +4211,7 @@
   <data name="repositoryItemTextEdit1.Mask.BeepOnError" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtNotes.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNotes.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblDebitAccountName.Properties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -4283,7 +4283,7 @@
   <data name="&gt;&gt;txtEnteredByUserID.Parent" xml:space="preserve">
     <value>panelControl6</value>
   </data>
-  <data name="cmbMethodID.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbMethodID.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="txtNetProcessID.Properties.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -4295,7 +4295,7 @@
   <data name="pnlDeliverContol.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
   </data>
-  <data name="txtRegistrationNo.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtRegistrationNo.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="txtInsuranceAmmount.Properties.Mask.SaveLiteral" type="System.Boolean, mscorlib">
@@ -4310,7 +4310,7 @@
   <data name="txtInvoiceDate.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="txtDailyID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDailyID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;txtInsuranceAmmount.ZOrder" xml:space="preserve">
@@ -4325,7 +4325,7 @@
   <data name="btnOne.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
     <value>-1</value>
   </data>
-  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton5.Appearance.Font" type="System.Drawing.Font, System.Drawing">
@@ -4353,7 +4353,7 @@
     <value>83, 68, 63</value>
   </data>
   <data name="&gt;&gt;labelControl9.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewColumn3.AppearanceHeader.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -4383,7 +4383,7 @@
     <value>866, 140</value>
   </data>
   <data name="&gt;&gt;layoutViewField_layoutViewColumn6.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutView1.Appearance.SelectionFrame.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>255, 255, 128</value>
@@ -4411,7 +4411,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnCreditSearch.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
@@ -4441,7 +4441,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;panelControl8.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblNumPrinting.Location" type="System.Drawing.Point, System.Drawing">
     <value>544, 249</value>
@@ -4471,7 +4471,7 @@
     <value>406, 34</value>
   </data>
   <data name="&gt;&gt;simpleButton1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="checkBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 7pt, style=Bold</value>
@@ -4530,7 +4530,7 @@
   <data name="lblCheckSpendDate.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="txtDocumentID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDocumentID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;labelControl22.ZOrder" xml:space="preserve">
@@ -4552,7 +4552,7 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;simpleButton7.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtInvoiceID.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -4567,7 +4567,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDiscountDebitAccountID.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -4576,7 +4576,7 @@
     <value />
   </data>
   <data name="&gt;&gt;lblChequeAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton13.Appearance.BackColor2" type="System.Drawing.Color, System.Drawing">
     <value>White</value>
@@ -4594,7 +4594,7 @@
     <value>2</value>
   </data>
   <data name="&gt;&gt;lblDebitAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCustomerID.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4642,7 +4642,7 @@
     <value>642, 136</value>
   </data>
   <data name="&gt;&gt;simpleButton4.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton15.ImageOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -4727,7 +4727,7 @@
     <value>51</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn1.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnCash_Net.ZOrder" xml:space="preserve">
     <value>2</value>
@@ -4783,7 +4783,7 @@
   <data name="btnLocal.TabIndex" type="System.Int32, mscorlib">
     <value>1430</value>
   </data>
-  <data name="cmbCurency.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbCurency.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="txtEnteredByUserID.Properties.Mask.SaveLiteral" type="System.Boolean, mscorlib">
@@ -4805,9 +4805,9 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;layoutViewField_layoutViewColumn11.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="txtCustomerID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCustomerID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="panelControl20.TabIndex" type="System.Int32, mscorlib">
@@ -4820,7 +4820,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl10.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblCheckSpendDate.Text" xml:space="preserve">
     <value> الاستحقاق</value>
@@ -4876,7 +4876,7 @@
   <data name="cmbNetType.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="lblAdditionalAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAdditionalAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnFour.Appearance.Font" type="System.Drawing.Font, System.Drawing">
@@ -4909,7 +4909,7 @@
   <data name="btnNine.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="txtAddressID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtAddressID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -4931,7 +4931,7 @@
     <value>106, 30</value>
   </data>
   <data name="&gt;&gt;btnCash.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtRegistrationNo.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -4985,12 +4985,12 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn6.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;simpleButton15.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="txtInvoiceID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton16.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
@@ -5024,7 +5024,7 @@
     <value>2</value>
   </data>
   <data name="&gt;&gt;lblOrderType.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;panelControl27.Name" xml:space="preserve">
     <value>panelControl27</value>
@@ -5048,13 +5048,13 @@
     <value />
   </data>
   <data name="&gt;&gt;labelControl11.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDocumentID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="&gt;&gt;gridControl.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="indexGridView.Appearance.FocusedRow.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -5080,7 +5080,7 @@
   <data name="txtEditedByUserID.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblAdditionalAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAdditionalAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblCostCenterName.TabIndex" type="System.Int32, mscorlib">
@@ -5177,10 +5177,10 @@
     <value>lblAddressCustomerName</value>
   </data>
   <data name="&gt;&gt;labelControl6.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;txtCheckSpendDate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblChequeAccountName.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -5201,7 +5201,7 @@
     <value>1484</value>
   </data>
   <data name="&gt;&gt;btnFive.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewField_layoutViewColumn5.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -5215,7 +5215,7 @@
   <data name="&gt;&gt;panelControl13.Parent" xml:space="preserve">
     <value>panelControl7</value>
   </data>
-  <data name="lblNetAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblNetAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;simpleButton17.ZOrder" xml:space="preserve">
@@ -5240,7 +5240,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnAdditionalSearch.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblAdditionaAmmount.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -5254,13 +5254,13 @@
   <data name="&gt;&gt;labelControl8.Parent" xml:space="preserve">
     <value>panelControl6</value>
   </data>
-  <data name="lblCreditAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCreditAccountID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl4.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="txtNetAmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNetAmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton4.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
@@ -5281,7 +5281,7 @@
   <data name="simpleButton5.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="repositoryItemTextEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemTextEdit1.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtInvoiceDate.Properties.CalendarTimeProperties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -5385,7 +5385,7 @@
         RK5CYII=
 </value>
   </data>
-  <data name="txtCustomerID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCustomerID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="repositoryItemPictureEdit2.AppearanceFocused.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -5398,7 +5398,7 @@
     <value />
   </data>
   <data name="&gt;&gt;repositoryItemLookUpEdit3.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="repositoryItemTextEdit1.Mask.UseMaskAsDisplayFormat" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -5431,9 +5431,9 @@
     <value>797, 506</value>
   </data>
   <data name="&gt;&gt;lblEditedByUserName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="indexGridControl.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.1">
+  <data name="indexGridControl.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.2">
     <value>Default</value>
   </data>
   <data name="txtInsuranceAmmount.Properties.Mask.EditMask" xml:space="preserve">
@@ -5457,7 +5457,7 @@
   <data name="labelControl19.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="txtDiscountPercent.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDiscountPercent.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;txtInsuranceAmmount.Parent" xml:space="preserve">
@@ -5479,7 +5479,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;txtDelegateID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl25.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -5494,7 +5494,7 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;simpleButton12.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewColumn1.AppearanceCell.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>White</value>
@@ -5551,7 +5551,7 @@
     <value>48</value>
   </data>
   <data name="&gt;&gt;cmbLanguagePrint.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton11.ImageOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -5602,7 +5602,7 @@
   <data name="cmbMethodID.TabIndex" type="System.Int32, mscorlib">
     <value>1455</value>
   </data>
-  <data name="txtDiscountPercent.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDiscountPercent.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnHangerStation.Appearance.Font" type="System.Drawing.Font, System.Drawing">
@@ -5617,7 +5617,7 @@
   <data name="labelControl29.Text" xml:space="preserve">
     <value>الإجمالي بعد الخصم</value>
   </data>
-  <data name="txtPaidAmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtPaidAmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblDiscountDebitAccountID.Properties.AutoHeight" type="System.Boolean, mscorlib">
@@ -5630,7 +5630,7 @@
     <value>3</value>
   </data>
   <data name="&gt;&gt;simpleButton9.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnFour.Name" xml:space="preserve">
     <value>btnFour</value>
@@ -5656,7 +5656,7 @@
   <data name="&gt;&gt;simpleButton5.Name" xml:space="preserve">
     <value>simpleButton5</value>
   </data>
-  <data name="txtDailyID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDailyID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtCostCenterID.Properties.Mask.UseMaskAsDisplayFormat" type="System.Boolean, mscorlib">
@@ -5669,7 +5669,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;panelControl18.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblNetBalance.Parent" xml:space="preserve">
     <value>panelControl11</value>
@@ -5720,10 +5720,10 @@
     <value>White</value>
   </data>
   <data name="&gt;&gt;cmbFormPrinting.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblNetAmount.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;layoutView1.Name" xml:space="preserve">
     <value>layoutView1</value>
@@ -5762,7 +5762,7 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;txtStoreID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;panelControl6.ZOrder" xml:space="preserve">
     <value>4</value>
@@ -5779,7 +5779,7 @@
   <data name="layoutViewColumn3.AppearanceCell.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="txtSellerID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtSellerID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="lblChequeAccountID.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -5789,7 +5789,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;txtCostCenterID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtTotal.Properties.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -5810,7 +5810,7 @@
     <value>panelControl21</value>
   </data>
   <data name="&gt;&gt;btnOrder.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl19.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -5827,7 +5827,7 @@
   <data name="chkForVat.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="lblEnteredByUserName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblEnteredByUserName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl1.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
@@ -5893,13 +5893,13 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;simpleButton14.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;pnlDeliverContol.Parent" xml:space="preserve">
     <value>panelControl9</value>
   </data>
   <data name="&gt;&gt;simpleButton3.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblAddressCustomerName.Properties.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>WhiteSmoke</value>
@@ -5929,7 +5929,7 @@
     <value>54, 51</value>
   </data>
   <data name="&gt;&gt;labelControl10.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblCreditAccountID.Name" xml:space="preserve">
     <value>lblCreditAccountID</value>
@@ -5946,14 +5946,14 @@
   <data name="lblWarningDate.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="txtInvoiceDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
-  <data name="txtTotal.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtTotal.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;lblDebitAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDelegateName.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -5989,7 +5989,7 @@
     <value>-1</value>
   </data>
   <data name="&gt;&gt;layoutViewField_layoutViewColumn5.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl33.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6024,7 +6024,7 @@
   <data name="repositoryItemTextEdit1.AppearanceFocused.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="lblSellerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblSellerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="labelControl19.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -6057,11 +6057,11 @@
   <data name="txtNotes.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtNetProcessID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNetProcessID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;simpleButton6.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblNetProcessID.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -6078,7 +6078,7 @@
   <data name="btnDelivery.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10pt, style=Bold</value>
   </data>
-  <data name="txtInsuranceAmmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInsuranceAmmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;panelControl14.Name" xml:space="preserve">
@@ -6088,7 +6088,7 @@
     <value>-1</value>
   </data>
   <data name="&gt;&gt;labelControl3.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;txtEditedByUserID.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -6184,13 +6184,13 @@
     <value>-20, 25</value>
   </data>
   <data name="&gt;&gt;simpleButton11.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDebitAccountID.Location" type="System.Drawing.Point, System.Drawing">
     <value>215, 152</value>
   </data>
   <data name="&gt;&gt;panelControl20.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl10.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6207,7 +6207,7 @@
   <data name="gridColumn5.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="lblEditedByUserName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblEditedByUserName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="lblOrderType.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -6253,7 +6253,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;lblnetType.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;repositoryItemTextEdit1.Name" xml:space="preserve">
     <value>repositoryItemTextEdit1</value>
@@ -6285,7 +6285,7 @@
   <data name="&gt;&gt;simpleButton7.Parent" xml:space="preserve">
     <value>panelControl2</value>
   </data>
-  <data name="cmbBank.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbBank.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="repositoryItemPictureEdit2.AppearanceFocused.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -6316,7 +6316,7 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;panelControl15.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnOne.Location" type="System.Drawing.Point, System.Drawing">
     <value>13, 157</value>
@@ -6363,7 +6363,7 @@
   <data name="lblNetProcessID.TabIndex" type="System.Int32, mscorlib">
     <value>1438</value>
   </data>
-  <data name="gridControl.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.1">
+  <data name="gridControl.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.2">
     <value>Default</value>
   </data>
   <data name="lblNetAmount.Text" xml:space="preserve">
@@ -6394,7 +6394,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl17.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblEditedByUserName.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -6501,7 +6501,7 @@
   <data name="&gt;&gt;labelControl12.Name" xml:space="preserve">
     <value>labelControl12</value>
   </data>
-  <data name="txtWarningDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="txtWarningDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="lblNetProcessID.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
@@ -6511,7 +6511,7 @@
     <value>Transparent</value>
   </data>
   <data name="&gt;&gt;panelControl4.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDelegateName.Properties.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>WhiteSmoke</value>
@@ -6609,7 +6609,7 @@
   <data name="labelControl13.Text" xml:space="preserve">
     <value>العملة</value>
   </data>
-  <data name="lblCreditAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCreditAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtDiscountPercent.Visible" type="System.Boolean, mscorlib">
@@ -6622,7 +6622,7 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;txtRegistrationNo.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDiscountDebitAccountName.Properties.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -6669,7 +6669,7 @@
   <data name="&gt;&gt;labelControl3.Parent" xml:space="preserve">
     <value>panelControl6</value>
   </data>
-  <data name="repositoryItemHyperLinkEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemHyperLinkEdit1.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnCash.Appearance.BackColor" type="System.Drawing.Color, System.Drawing">
@@ -6708,7 +6708,7 @@
   <data name="repositoryItemTextEdit1.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
   </data>
-  <data name="lblDelegateName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDelegateName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblNetAmount.Location" type="System.Drawing.Point, System.Drawing">
@@ -6786,7 +6786,7 @@
   <data name="btnTwo.Location" type="System.Drawing.Point, System.Drawing">
     <value>79, 157</value>
   </data>
-  <data name="lblEnteredByUserName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblEnteredByUserName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="simpleButton13.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -6840,14 +6840,14 @@
   <data name="btnCash.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Vertical</value>
   </data>
-  <data name="lblDebitAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDebitAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="layoutViewCard1.AppearanceTabPage.HeaderHotTracked.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;panelControl22.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblnetType.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -6862,7 +6862,7 @@
     <value>236, 183</value>
   </data>
   <data name="&gt;&gt;txtDiscountPercent.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCustomerID.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -6897,7 +6897,7 @@
   <data name="labelControl33.Text" xml:space="preserve">
     <value>القيمة المضافة</value>
   </data>
-  <data name="txtStoreID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtStoreID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton10.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -6913,7 +6913,7 @@
     <value>panelControl5</value>
   </data>
   <data name="&gt;&gt;simpleButton17.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblStoreName.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6964,7 +6964,7 @@
     <value>1474</value>
   </data>
   <data name="&gt;&gt;labelControl13.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="repositoryItemTextEdit1.AppearanceReadOnly.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -7027,7 +7027,7 @@
     <value>45</value>
   </data>
   <data name="&gt;&gt;txtNotes.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnZero.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7060,7 +7060,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnDiscountDebitSearch.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl27.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7080,7 +7080,7 @@
   <data name="&gt;&gt;simpleButton7.Name" xml:space="preserve">
     <value>simpleButton7</value>
   </data>
-  <data name="repositoryItemLookUpEdit1.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="repositoryItemLookUpEdit1.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="btnHangerStation.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -7092,7 +7092,7 @@
   <data name="layoutViewCard1.Text" xml:space="preserve">
     <value>TemplateCard</value>
   </data>
-  <data name="txtNetProcessID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtNetProcessID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnAdditionalSearch.TabIndex" type="System.Int32, mscorlib">
@@ -7153,7 +7153,7 @@
     <value />
   </data>
   <data name="&gt;&gt;cmbMethodID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="repositoryItemHyperLinkEdit1.Mask.EditMask" xml:space="preserve">
     <value />
@@ -7183,7 +7183,7 @@
     <value>981, 142</value>
   </data>
   <data name="&gt;&gt;btnDelete.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="cmbNetType.Properties.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -7195,7 +7195,7 @@
     <value>977</value>
   </data>
   <data name="&gt;&gt;btnHangerStation.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnTables.Appearance.ForeColor" type="System.Drawing.Color, System.Drawing">
     <value>White</value>
@@ -7313,7 +7313,7 @@
     <value>_</value>
   </data>
   <data name="&gt;&gt;txtPaidAmount.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;labelControl13.Name" xml:space="preserve">
     <value>labelControl13</value>
@@ -7342,7 +7342,7 @@
   <data name="chkForVat.TabIndex" type="System.Int32, mscorlib">
     <value>1443</value>
   </data>
-  <data name="txtEditedByUserID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtEditedByUserID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="pnlDeliverContol.TabIndex" type="System.Int32, mscorlib">
@@ -7444,7 +7444,7 @@
   <data name="btnNew.Text" xml:space="preserve">
     <value>جديد</value>
   </data>
-  <data name="lblCostCenterName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCostCenterName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblDiscountDebitAccountID.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
@@ -7540,7 +7540,7 @@
   <data name="&gt;&gt;simpleButton13.Name" xml:space="preserve">
     <value>simpleButton13</value>
   </data>
-  <data name="lblNetAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblNetAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="&gt;&gt;lblWarningDate.Parent" xml:space="preserve">
@@ -7690,7 +7690,7 @@
   <data name="lblEnteredByUserName.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblAddressCustomerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAddressCustomerName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;lblInvoiceTotal.Name" xml:space="preserve">
@@ -7733,7 +7733,7 @@
     <value>panelControl7</value>
   </data>
   <data name="&gt;&gt;lblSellerName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblNumPrinting.TabIndex" type="System.Int32, mscorlib">
     <value>982</value>
@@ -7792,7 +7792,7 @@
   <data name="&gt;&gt;txtInsuranceAmmount.Name" xml:space="preserve">
     <value>txtInsuranceAmmount</value>
   </data>
-  <data name="repositoryItemButtonEdit2.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemButtonEdit2.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="panelControl20.Location" type="System.Drawing.Point, System.Drawing">
@@ -7832,7 +7832,7 @@
     <value />
   </data>
   <data name="&gt;&gt;btnPrint.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtNetProcessID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7862,7 +7862,7 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;txtCustomerID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCostCenterID.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -7871,7 +7871,7 @@
     <value>Transparent</value>
   </data>
   <data name="&gt;&gt;repositoryItemTextEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemTextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemTextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblNumPrinting.Name" xml:space="preserve">
     <value>lblNumPrinting</value>
@@ -7900,7 +7900,7 @@
   <data name="lblnetType.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 15</value>
   </data>
-  <data name="lblStoreName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblStoreName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblOrderType.Size" type="System.Drawing.Size, System.Drawing">
@@ -7922,7 +7922,7 @@
     <value>2</value>
   </data>
   <data name="&gt;&gt;lblDelegateName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton3.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -7945,7 +7945,7 @@
   <data name="btnHangerStation.Appearance.BackColor2" type="System.Drawing.Color, System.Drawing">
     <value>255, 194, 1</value>
   </data>
-  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="&gt;&gt;panelControl11.Parent" xml:space="preserve">
@@ -7988,7 +7988,7 @@
     <value>White</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn4.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblNetAmount.Name" xml:space="preserve">
     <value>lblNetAmount</value>
@@ -7999,7 +7999,7 @@
   <data name="lblCostCenterName.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="txtDelegateID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDelegateID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="&gt;&gt;simpleButton17.Parent" xml:space="preserve">
@@ -8018,7 +8018,7 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl6.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblEditedByUserName.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -8065,20 +8065,20 @@
   <data name="&gt;&gt;txtTotal.Name" xml:space="preserve">
     <value>txtTotal</value>
   </data>
-  <data name="txtEnteredByUserID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtEnteredByUserID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;btnTwo.Parent" xml:space="preserve">
     <value>pnlCalcuate</value>
   </data>
   <data name="&gt;&gt;txtEditedByUserID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtPaidAmount.Properties.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;btnTakeAway.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnMinus.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
     <value>-1</value>
@@ -8113,7 +8113,7 @@
   <data name="lblNetAccountID.Properties.NullValuePrompt" xml:space="preserve">
     <value />
   </data>
-  <data name="lblNetAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblNetAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;txtDiscountPercent.Name" xml:space="preserve">
@@ -8173,10 +8173,10 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;simpleButton8.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;repositoryItemPictureEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="repositoryItemHyperLinkEdit1.AutoHeight" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -8223,7 +8223,7 @@
   <data name="&gt;&gt;labelControl33.Parent" xml:space="preserve">
     <value>panelControl12</value>
   </data>
-  <data name="cmbNetType.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbNetType.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="labelControl23.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
@@ -8318,7 +8318,7 @@
 </value>
   </data>
   <data name="&gt;&gt;pnlNetControl.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton13.Appearance.BorderColor" type="System.Drawing.Color, System.Drawing">
     <value>Transparent</value>
@@ -8351,7 +8351,7 @@
     <value>layoutViewField_layoutViewColumn6</value>
   </data>
   <data name="&gt;&gt;btnTwo.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl29.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -8369,13 +8369,13 @@
     <value>panelControl12</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn11.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
     <value>طباعة كاشير  </value>
   </data>
   <data name="&gt;&gt;labelControl8.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCheckSpendDate.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -8417,13 +8417,13 @@
     <value>193, 148</value>
   </data>
   <data name="&gt;&gt;lblWarningDate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnDelivery.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
   <data name="&gt;&gt;btnFour.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;txtSellerID.Name" xml:space="preserve">
     <value>txtSellerID</value>
@@ -8452,7 +8452,7 @@
   <data name="&gt;&gt;btnSave.Parent" xml:space="preserve">
     <value>panelControl1</value>
   </data>
-  <data name="indexGridControl.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.1">
+  <data name="indexGridControl.EmbeddedNavigator.TextLocation" type="DevExpress.XtraEditors.NavigatorButtonsTextLocation, DevExpress.XtraEditors.v18.2">
     <value>Center</value>
   </data>
   <data name="&gt;&gt;panelControl28.Parent" xml:space="preserve">
@@ -8462,7 +8462,7 @@
     <value>panelControl1</value>
   </data>
   <data name="&gt;&gt;labelControl33.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnDebitSearch.Size" type="System.Drawing.Size, System.Drawing">
     <value>25, 23</value>
@@ -8528,9 +8528,9 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;panelControl29.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="txtRegistrationNo.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtRegistrationNo.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl30.TabIndex" type="System.Int32, mscorlib">
@@ -8570,7 +8570,7 @@
     <value>Right</value>
   </data>
   <data name="&gt;&gt;simpleButton16.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtWarningDate.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -8584,7 +8584,7 @@
   <data name="panelControl10.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="gridControl2.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.1">
+  <data name="gridControl2.EmbeddedNavigator.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl26.Location" type="System.Drawing.Point, System.Drawing">
@@ -8597,7 +8597,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;labelControl12.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtVatID.Properties.Mask.UseMaskAsDisplayFormat" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -8626,11 +8626,11 @@
   <data name="cmbNetType.TabIndex" type="System.Int32, mscorlib">
     <value>1436</value>
   </data>
-  <data name="txtWarningDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtWarningDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;labelControl2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl29.Size" type="System.Drawing.Size, System.Drawing">
     <value>99, 15</value>
@@ -8663,7 +8663,7 @@
     <value>labelControl26</value>
   </data>
   <data name="&gt;&gt;btnDebitSearch.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblSellerName.ZOrder" xml:space="preserve">
     <value>49</value>
@@ -8675,9 +8675,9 @@
     <value />
   </data>
   <data name="&gt;&gt;panelControl14.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="txtDelegateID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDelegateID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton10.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
@@ -8761,7 +8761,7 @@
   <data name="cmbFormPrinting.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="lblAddressCustomerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAddressCustomerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="labelControl9.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
@@ -8795,7 +8795,7 @@
     <value />
   </data>
   <data name="&gt;&gt;labelControl19.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnSix.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 18pt, style=Bold</value>
@@ -8816,7 +8816,7 @@
     <value>3, 3</value>
   </data>
   <data name="&gt;&gt;panelControl11.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtWarningDate.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -8846,7 +8846,7 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;lblCostCenterName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnDelete.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -8885,7 +8885,7 @@
     <value>gridColumn5</value>
   </data>
   <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnPlus.ImageOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -8941,7 +8941,7 @@
     <value>83, 68, 63</value>
   </data>
   <data name="&gt;&gt;btnThree.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="gridView2.Appearance.Row.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -8968,7 +8968,7 @@
     <value>-1</value>
   </data>
   <data name="&gt;&gt;lblCustomerName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutView1.Appearance.SelectedCardCaption.BackColor" type="System.Drawing.Color, System.Drawing">
     <value>Yellow</value>
@@ -9001,12 +9001,12 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;labelControl5.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnOrder.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="txtTotal.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtTotal.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnNew.Appearance.BackColor2" type="System.Drawing.Color, System.Drawing">
@@ -9022,7 +9022,7 @@
     <value>Regular</value>
   </data>
   <data name="&gt;&gt;btnNetSearch.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCheckSpendDate.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -9036,7 +9036,7 @@
   <data name="btnEight.TabIndex" type="System.Int32, mscorlib">
     <value>1394</value>
   </data>
-  <data name="lblDiscountDebitAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDiscountDebitAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="labelControl33.TabIndex" type="System.Int32, mscorlib">
@@ -9108,9 +9108,9 @@
     <value>White</value>
   </data>
   <data name="&gt;&gt;btnLocal.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="txtWarningDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtWarningDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtWarningDate.EditValue" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -9123,7 +9123,7 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelControl30.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtStoreID.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 20</value>
@@ -9150,9 +9150,9 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;btnPlus.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="cmbLanguagePrint.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbLanguagePrint.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="labelControl6.TabIndex" type="System.Int32, mscorlib">
@@ -9212,7 +9212,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;repositoryItemButtonEdit2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDelegateID.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -9367,7 +9367,7 @@
   <data name="txtCheckSpendDate.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblDebitAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblDebitAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtDelegateID.Properties.AutoHeight" type="System.Boolean, mscorlib">
@@ -9388,7 +9388,7 @@
   <data name="btnPlus.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
     <value>-1</value>
   </data>
-  <data name="lblCostCenterName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCostCenterName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="layoutViewField1.ImageOptions.SvgImage3" type="System.Resources.ResXNullRef, System.Windows.Forms">
@@ -9398,7 +9398,7 @@
     <value>Tahoma, 12world, style=Bold</value>
   </data>
   <data name="&gt;&gt;lblAdditionalAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton9.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -9481,7 +9481,7 @@
   <data name="txtWarningDate.Properties.NullValuePrompt" xml:space="preserve">
     <value />
   </data>
-  <data name="txtCheckSpendDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCheckSpendDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="repositoryItemHyperLinkEdit1.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
@@ -9499,7 +9499,7 @@
   <data name="lblChequeAccountName.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
   </data>
-  <data name="txtPaidAmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtPaidAmount.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="lblCreditAccountID.Size" type="System.Drawing.Size, System.Drawing">
@@ -9509,13 +9509,13 @@
     <value>Top</value>
   </data>
   <data name="&gt;&gt;panelControl12.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl1.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
   <data name="&gt;&gt;gridColumn5.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblCostCenterName.Properties.Appearance.FontSizeDelta" type="System.Int32, mscorlib">
     <value>0</value>
@@ -9574,7 +9574,7 @@
   <data name="btnLocal.Size" type="System.Drawing.Size, System.Drawing">
     <value>96, 61</value>
   </data>
-  <data name="txtDocumentID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtDocumentID.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;panelControl29.Parent" xml:space="preserve">
@@ -9614,7 +9614,7 @@
     <value>Right</value>
   </data>
   <data name="&gt;&gt;txtDailyID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtSellerID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -9629,7 +9629,7 @@
     <value>_</value>
   </data>
   <data name="&gt;&gt;labelControl21.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl5.Size" type="System.Drawing.Size, System.Drawing">
     <value>54, 14</value>
@@ -9652,10 +9652,10 @@
   <data name="gridControl.EmbeddedNavigator.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>Inherit</value>
   </data>
-  <data name="indexGridControl.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.1">
+  <data name="indexGridControl.EmbeddedNavigator.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v18.2">
     <value>None</value>
   </data>
-  <data name="txtEditedByUserID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtEditedByUserID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="lblEnteredByUserName.Properties.AutoHeight" type="System.Boolean, mscorlib">
@@ -9676,7 +9676,7 @@
   <data name="indexGridControl.Location" type="System.Drawing.Point, System.Drawing">
     <value>453, 57</value>
   </data>
-  <data name="lblNetAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblNetAccountName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;simpleButton10.Parent" xml:space="preserve">
@@ -9686,7 +9686,7 @@
     <value>_</value>
   </data>
   <data name="&gt;&gt;lblNetAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="gridControl2.EmbeddedNavigator.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>Inherit</value>
@@ -9695,13 +9695,13 @@
     <value>False</value>
   </data>
   <data name="&gt;&gt;labelControl15.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblUnitDiscount.Name" xml:space="preserve">
     <value>lblUnitDiscount</value>
   </data>
   <data name="&gt;&gt;btnTables.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;labelControl19.ZOrder" xml:space="preserve">
     <value>9</value>
@@ -9710,7 +9710,7 @@
     <value>47</value>
   </data>
   <data name="&gt;&gt;panelControl27.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl34.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -9763,7 +9763,7 @@
   <data name="&gt;&gt;labelControl7.Name" xml:space="preserve">
     <value>labelControl7</value>
   </data>
-  <data name="txtInvoiceDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="txtInvoiceDate.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="layoutViewColumn3.AppearanceCell.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
@@ -9812,7 +9812,7 @@
     <value>15</value>
   </data>
   <data name="&gt;&gt;btnMinus.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;simpleButton6.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -9820,7 +9820,7 @@
   <data name="lblAddressCustomerName.Properties.Mask.UseMaskAsDisplayFormat" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>DateTime</value>
   </data>
   <data name="txtDiscountOnTotal.TabIndex" type="System.Int32, mscorlib">
@@ -9850,14 +9850,14 @@
   <data name="txtAddressID.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="txtInvoiceDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="simpleButton7.TabIndex" type="System.Int32, mscorlib">
     <value>1467</value>
   </data>
   <data name="&gt;&gt;repositoryItemLookUpEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton3.Location" type="System.Drawing.Point, System.Drawing">
     <value>522, 0</value>
@@ -9871,7 +9871,7 @@
   <data name="cmbNetType.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="txtInsuranceAmmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInsuranceAmmount.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="btnOne.Appearance.Font" type="System.Drawing.Font, System.Drawing">
@@ -10015,7 +10015,7 @@
   <data name="lblEditedByUserName.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblCustomerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="lblCustomerName.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;btnFour.Parent" xml:space="preserve">
@@ -10076,12 +10076,12 @@
     <value>Green</value>
   </data>
   <data name="&gt;&gt;simpleButton2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;labelControl17.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="cmbFormPrinting.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="cmbFormPrinting.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="txtInvoiceDate.Properties.Mask.ShowPlaceHolders" type="System.Boolean, mscorlib">
@@ -10109,7 +10109,7 @@
     <value>-24, 207</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn2.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl30.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -10150,7 +10150,7 @@
   <data name="&gt;&gt;btnTables.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="repositoryItemButtonEdit2.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.1">
+  <data name="repositoryItemButtonEdit2.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v18.2">
     <value>Default</value>
   </data>
   <data name="&gt;&gt;cmbFormPrinting.ZOrder" xml:space="preserve">
@@ -10196,7 +10196,7 @@
     <value>panelControl17</value>
   </data>
   <data name="&gt;&gt;txtWarningDate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;lblOrderType.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -10229,10 +10229,10 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;txtSellerID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;labelControl32.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblDelegateName.Size" type="System.Drawing.Size, System.Drawing">
     <value>198, 20</value>
@@ -10309,7 +10309,7 @@
     <value>208, 209, 215</value>
   </data>
   <data name="&gt;&gt;layoutViewField_layoutViewColumn2.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtCostCenterID.Properties.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -10327,7 +10327,7 @@
     <value>Microsoft Sans Serif, 10pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;panelControl28.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblEditedByUserName.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -10336,7 +10336,7 @@
     <value>panelControl1</value>
   </data>
   <data name="&gt;&gt;repositoryItemPictureEdit2.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnOne.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -10351,7 +10351,7 @@
     <value>-90, 154</value>
   </data>
   <data name="&gt;&gt;pnlCalcuate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtDailyID.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -10473,7 +10473,7 @@
   <data name="btnFour.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
   </data>
-  <data name="txtInvoiceID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="&gt;&gt;lblNetAccountID.Parent" xml:space="preserve">
@@ -10540,7 +10540,7 @@
     <value>شبكة </value>
   </data>
   <data name="&gt;&gt;layoutViewField_colGender.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;panelControl1.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -10576,7 +10576,7 @@
     <value>108, 40</value>
   </data>
   <data name="&gt;&gt;layoutViewCard1.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewCard, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewCard, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="btnThree.Location" type="System.Drawing.Point, System.Drawing">
     <value>152, 157</value>
@@ -10599,7 +10599,7 @@
   <data name="&gt;&gt;lblCustomerName.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="txtStoreID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtStoreID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="&gt;&gt;panelControl3.Parent" xml:space="preserve">
@@ -10608,7 +10608,7 @@
   <data name="btnNew.Size" type="System.Drawing.Size, System.Drawing">
     <value>99, 40</value>
   </data>
-  <data name="lblChequeAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblChequeAccountID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtDelegateID.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -10642,13 +10642,13 @@
     <value />
   </data>
   <data name="&gt;&gt;labelControl20.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnNet.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="&gt;&gt;txtNetProcessID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblEnteredByUserName.Properties.Appearance.GradientMode" type="System.Drawing.Drawing2D.LinearGradientMode, System.Drawing">
     <value>Horizontal</value>
@@ -10663,7 +10663,7 @@
     <value>1464</value>
   </data>
   <data name="&gt;&gt;layoutViewColumn5.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Columns.LayoutViewColumn, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton16.Appearance.BorderColor" type="System.Drawing.Color, System.Drawing">
     <value>Transparent</value>
@@ -10747,10 +10747,10 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;lblDiscountDebitAccountName.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;txtTotal.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewColumn2.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
     <value>-1</value>
@@ -10848,7 +10848,7 @@
   <data name="cmbBank.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.1">
+  <data name="txtCheckSpendDate.Properties.CalendarTimeProperties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v18.2">
     <value>Combo</value>
   </data>
   <data name="btnLocal.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
@@ -10858,7 +10858,7 @@
     <value>panelControl2</value>
   </data>
   <data name="&gt;&gt;panelControl1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl21.Appearance.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -10873,7 +10873,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;txtInvoiceID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;btnCash_Net.Name" xml:space="preserve">
     <value>btnCash_Net</value>
@@ -10891,7 +10891,7 @@
     <value>Tahoma, 9pt</value>
   </data>
   <data name="&gt;&gt;txtAddressID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="panelControl3.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -10939,7 +10939,7 @@
     <value />
   </data>
   <data name="&gt;&gt;chkForVat.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.CheckEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.CheckEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="labelControl4.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -11008,7 +11008,7 @@
 </value>
   </data>
   <data name="&gt;&gt;lblDiscountDebitAccountID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="layoutViewField_colEmail.AppearanceItemCaption.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -11025,7 +11025,7 @@
   <data name="lblChequeAccountName.Size" type="System.Drawing.Size, System.Drawing">
     <value>182, 20</value>
   </data>
-  <data name="txtCostCenterID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtCostCenterID.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>Numeric</value>
   </data>
   <data name="btnNew.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
@@ -11052,7 +11052,7 @@
   <data name="panelControl4.Size" type="System.Drawing.Size, System.Drawing">
     <value>10, 697</value>
   </data>
-  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="txtInvoiceDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>DateTime</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
@@ -11092,7 +11092,7 @@
     <value>panelControl6</value>
   </data>
   <data name="&gt;&gt;txtVatID.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="lblAddressCustomerName.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
     <value>_</value>
@@ -11125,7 +11125,7 @@
     <value>Label17</value>
   </data>
   <data name="&gt;&gt;repositoryItemButtonEdit1.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtInvoiceID.Properties.Appearance.FontStyleDelta" type="System.Drawing.FontStyle, System.Drawing">
     <value>Regular</value>
@@ -11143,7 +11143,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;layoutViewField_layoutViewColumn4.Type" xml:space="preserve">
-    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraGrid.Views.Layout.LayoutViewField, DevExpress.XtraGrid.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="simpleButton6.TabIndex" type="System.Int32, mscorlib">
     <value>1470</value>
@@ -11164,7 +11164,7 @@
     <value>Horizontal</value>
   </data>
   <data name="&gt;&gt;txtInvoiceDate.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.DateEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="repositoryItemButtonEdit2.Mask.EditMask" xml:space="preserve">
     <value />
@@ -11173,9 +11173,9 @@
     <value>1</value>
   </data>
   <data name="&gt;&gt;labelControl26.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="chkForVat.Properties.GlyphVerticalAlignment" type="DevExpress.Utils.VertAlignment, DevExpress.Data.v18.1">
+  <data name="chkForVat.Properties.GlyphVerticalAlignment" type="DevExpress.Utils.VertAlignment, DevExpress.Data.v18.2">
     <value>Default</value>
   </data>
   <data name="btnSave.TabIndex" type="System.Int32, mscorlib">
@@ -11206,7 +11206,7 @@
     <value>WhiteSmoke</value>
   </data>
   <data name="&gt;&gt;txtInsuranceAmmount.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v18.2, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="txtNetProcessID.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
@@ -11223,7 +11223,7 @@
   <data name="pnlCalcuate.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 118</value>
   </data>
-  <data name="lblAdditionalAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.1">
+  <data name="lblAdditionalAccountName.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v18.2">
     <value>None</value>
   </data>
   <data name="txtInsuranceAmmount.Properties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
